@@ -1,5 +1,4 @@
 # THE CHILDREN'S GENTLE IMMOBILIZER
-#### Patent Pending #62/773,347
 
 ### The **Children’s Gentle Immobilizer** is a simple, durable or one time use design, versatile, one-piece radiolucent child medical positioning aid which holds secure all four extremities individually in an antimicrobial-infused soft foam wrap with no extraneous straps, boards, velcro, medical tape, bandages, clamps, pins or fabrics.
 
@@ -85,3 +84,7 @@ Child safety is paramount when immobilizing a patient for diagnostic procedures.
 - Can be kept in blanket warmer prior to use
 - Open design allows medical staff to easily access any and all tubes and lines
 - Soothing when used to immobilize children with special needs
+
+---
+
+#### Patent Pending #62/773,347
