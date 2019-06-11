@@ -26,6 +26,7 @@ For more information contact:
 
 ## SJMJC, L.L.C.
 **Phone:** <a href="tel:1-806-778-2183">(806)778-2183</a>
+
 **Email:** <sjmjc.lubbock@gmail.com>
 
 ---
