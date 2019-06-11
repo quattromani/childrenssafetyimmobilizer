@@ -39,15 +39,19 @@ The second technique consists of immobilization of the child while still selecti
 
 The methodology designed into the **Children’s Gentle Immobilizer** places children in a warm, cushioned and open device for radiologic procedures where constant and continuous line, tube and catheter repositioning, and manipulation is easily accessible. “Open device” is intended to mean that the chest and abdomen or entire torso remains unrestrained allowing for better respiration. Examples of procedures where access to the perineum and pelvis of the child are required include the voiding cysto-urethrogram (bladder and kidney) studies and contrast colon studies.
 
+---
+
 #### REDUCED RADIATION EXPOSURE
 
 The opportunity to reduce radiation exposure is a critical issue within pediatric radiology and is an exceptional benefit provided by the **Children’s Gentle Immobilizer** as it limits exposure by decreasing repeats as well as lessening the area of the body exposed. The Image Gently Alliance (associated with the Society for Pediatric Radiology) intends to raise awareness about methods to reduce radiation dose during pediatric imaging procedures.
 
 The Alliance states:
 
-> > “Children require special attention when receiving care in the hospital environment. Medical imaging procedures can be lifesaving for children who are sick or injured, but children are more sensitive than adults to the radiation these procedures deliver.”
+> “Children require special attention when receiving care in the hospital environment. Medical imaging procedures can be lifesaving for children who are sick or injured, but children are more sensitive than adults to the radiation these procedures deliver.”
 
 Child safety is paramount when immobilizing a patient for diagnostic procedures. Immobilization and restraint can also be traumatizing to both the child and parent. The **Children’s Gentle Immobilizer** is a new paradigm in providing a safe, comfortable and non-threatening option to better cradle and soothe the patient as well as reducing stress for the non-parent support.
+
+---
 
 #### THE CHILDREN'S GENTLE IMMOBILIZER ALSO SATISFIES IMMOBILIZATION AND RESTRAINT GUIDLEINES FROM THE:
 
@@ -57,6 +61,7 @@ Child safety is paramount when immobilizing a patient for diagnostic procedures.
 - Society for Pediatric Radiology/Image Gently Alliance
 - Joint Commission for Immobilization
 
+---
 
 ### ADDITIONAL DETAILED BENEFITS OF THE CHILDREN'S GENTLE IMMOBILIZER
 
