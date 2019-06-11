@@ -20,17 +20,15 @@ Decreasing child movement helps to improve the radiologic image quality as well 
 
 *Patricia Rae Quattromani, co-inventor and product designer*
 
+---
+
 For more information contact:
 
-**SJMJC, L.L.C.**
+## SJMJC, L.L.C.
+**Phone:** <a href="tel:1-806-778-2183">(806)778-2183</a>
+**Email:** <sjmjc.lubbock@gmail.com>
 
-[(806) 778-2183]<a href="tel:1-806-778-2183">(806)778-2183</a>
-
-<sjmjc.lubbock@gmail.com>
-
-
-
-
+---
 
 #### IMMOBILIZERS
 Manual restraint techniques and commercial immobilizer devices may be used to keep the pediatric patient motionless. There are two techniques of immobilization. The first immobilizes for magnetic resonance imaging (MRI) or computed tomography (CT) procedures where the “static” device such as the “papoose” or “swaddle” are standard with no need to access and manipulate catheters or lines during imaging (x-ray pictures).
