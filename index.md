@@ -6,9 +6,9 @@
 The Children’s Gentle Immobilizer is designed for children weighing up to approx. 25 lbs.
 Decreasing child movement helps to improve the radiologic image quality as well as providing 3 key benefits.
 
-1.  Reduced radiation to technologist eyes, thyroid, and hands
-2.  Reduced radiation to the child
-3.  Reduced radiation to the child’s parent
+1. Reduced radiation to technologist eyes, thyroid, and hands
+2. Reduced radiation to the child
+3. Reduced radiation to the child’s parent
 
 ### INVENTORS
 *Frank Louis Quattromani, MD, Pediatric Radiologist*
@@ -57,31 +57,39 @@ The methodology designed into the Children’s Gentle Immobilizer places childre
 
 ### Reduced Radiation Exposure
 
-The opportunity to reduce radiation exposure is a critical issue within pediatric radiology and is an exceptional benefit provided by the Children’s Gentle Immobilizer as it limits exposure by decreasing repeats as well as lessening the area of the body exposed.  The Image Gently Alliance (associated with the Society for Pediatric Radiology) intends to raise awareness about methods to reduce radiation dose during pediatric imaging procedures. The Alliance states: > * “Children require special attention when receiving care in the hospital environment. Medical imaging procedures can be lifesaving for children who are sick or injured, but children are more sensitive than adults to the radiation these procedures deliver.”
+The opportunity to reduce radiation exposure is a critical issue within pediatric radiology and is an exceptional benefit provided by the Children’s Gentle Immobilizer as it limits exposure by decreasing repeats as well as lessening the area of the body exposed. The Image Gently Alliance (associated with the Society for Pediatric Radiology) intends to raise awareness about methods to reduce radiation dose during pediatric imaging procedures. The Alliance states: > * “Children require special attention when receiving care in the hospital environment. Medical imaging procedures can be lifesaving for children who are sick or injured, but children are more sensitive than adults to the radiation these procedures deliver.”
 
-Child safety is paramount when immobilizing a patient for diagnostic procedures.  Immobilization and restraint can also be traumatizing to both the child and parent. The Children’s Gentle Immobilizer is a new paradigm in providing a safe, comfortable and non-threatening option to better cradle and soothe the patient as well as reducing stress for the non-parent support.
+Child safety is paramount when immobilizing a patient for diagnostic procedures. Immobilization and restraint can also be traumatizing to both the child and parent. The Children’s Gentle Immobilizer is a new paradigm in providing a safe, comfortable and non-threatening option to better cradle and soothe the patient as well as reducing stress for the non-parent support.
+
 The Children’s Gentle Immobilizer also satisfies immobilization and restraint guidelines from the:
-• American College of Pediatrics
-• American College of Pediatric Dentistry
-• American College of Radiology
-• Society for Pediatric Radiology/Image Gently Alliance
-• Joint Commission for Immobilization     Additional detailed benefits of Children’s Gentle Immobilizer
-Reduced Radiation Exposure
-• Less radiation exposure to pediatric patient as well as non-patient support, including parents, technologist and physician
-• Design ensures hands of non-patient support remain out of the radiologic field of interest
-Construction
-• Latex-free foam
-• Radiolucent to x-rays
-• Friction-based 4-point system eliminates need for straps or attachments
-• Quick and easy to apply and remove (<30 seconds)
-• Weighs approx. 10 ounces
-• Non-flammable
-Patient Comfort and Safety
-• Improved respiration due to lack of straps or restrictions across chest and abdomen
-• Respiration and circulation easily monitored during procedure
-• Restrains patient securely, safely and comfortably above the elbows and below the knees
-• Padded head support prevents patient head from contacting imaging table
-• Can be kept in blanket warmer prior to use
-• Open design allows medical staff to easily access any and all tubes and lines
-• Soothing when used to immobilize children with special needs
+
+- American College of Pediatrics
+- American College of Pediatric Dentistry
+- American College of Radiology
+- Society for Pediatric Radiology/Image Gently Alliance
+- Joint Commission for Immobilization
+
+
+### Additional detailed benefits of Children’s Gentle Immobilizer
+
+#### Reduced Radiation Exposure
+* Less radiation exposure to pediatric patient as well as non-patient support, including parents, technologist and physician
+* Design ensures hands of non-patient support remain out of the radiologic field of interest
+
+#### Construction
+* Latex-free foam
+* Radiolucent to x-rays
+* Friction-based 4-point system eliminates need for straps or attachments
+* Quick and easy to apply and remove (<30 seconds)
+* Weighs approx. 10 ounces
+* Non-flammable
+
+#### Patient Comfort and Safety
+* Improved respiration due to lack of straps or restrictions across chest and abdomen
+* Respiration and circulation easily monitored during procedure
+* Restrains patient securely, safely and comfortably above the elbows and below the knees
+* Padded head support prevents patient head from contacting imaging table
+* Can be kept in blanket warmer prior to use
+* Open design allows medical staff to easily access any and all tubes and lines
+* Soothing when used to immobilize children with special needs
 
