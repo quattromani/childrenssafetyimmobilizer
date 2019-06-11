@@ -17,14 +17,13 @@ Decreasing child movement helps to improve the radiologic image quality as well 
 * Former consultant to the United States Army Office of the Surgeon General
 * (Retired), U.S. Army Colonel (06)
 
-* Patricia Rae Quattromani, co-inventor and product designer*
+*Patricia Rae Quattromani, co-inventor and product designer*
 
 For more information contact:
-SJMJC, L.L.C.
-806-778-2183
-sjmjc.lubbock@gmail.com
-Children’s
-Safety          Immobilizer
+
+*SJMJC, L.L.C.*
+<tel:+8067782183>
+<sjmjc.lubbock@gmail.com>
 
 
 
