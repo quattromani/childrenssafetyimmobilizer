@@ -1,9 +1,9 @@
 # THE CHILDREN'S GENTLE IMMOBILIZER
 #### Patent Pending #62/773,347
 
-### The Children’s Gentle Immobilizer is a simple, durable or one time use design, versatile, one-piece radiolucent child medical positioning aid which holds secure all four extremities individually in an antimicrobial-infused soft foam wrap with no extraneous straps, boards, velcro, medical tape, bandages, clamps, pins or fabrics.
+### The **Children’s Gentle Immobilizer** is a simple, durable or one time use design, versatile, one-piece radiolucent child medical positioning aid which holds secure all four extremities individually in an antimicrobial-infused soft foam wrap with no extraneous straps, boards, velcro, medical tape, bandages, clamps, pins or fabrics.
 
-The Children’s Gentle Immobilizer is designed for children weighing up to approx. 25 lbs.
+The **Children’s Gentle Immobilizer** is designed for children weighing up to approx. 25 lbs.
 
 Decreasing child movement helps to improve the radiologic image quality as well as providing 3 key benefits:
 
@@ -22,12 +22,13 @@ Decreasing child movement helps to improve the radiologic image quality as well 
 
 ---
 
-For more information contact:
+## For more information contact:
 
-## SJMJC, L.L.C.
-**Phone:** <a href="tel:1-806-778-2183">(806)778-2183</a>
+**SJMJC, L.L.C.**
 
-**Email:** <sjmjc.lubbock@gmail.com>
+**PHONE:** <a href="tel:1-806-778-2183">(806)778-2183</a>
+
+**EMAIL:** <sjmjc.lubbock@gmail.com>
 
 ---
 
@@ -36,17 +37,17 @@ Manual restraint techniques and commercial immobilizer devices may be used to ke
 
 The second technique consists of immobilization of the child while still selectively exposing all necessary lines and catheters for interactive and simultaneous manipulation during imaging.
 
-The methodology designed into the Children’s Gentle Immobilizer places children in a warm, cushioned and open device for radiologic procedures where constant and continuous line, tube and catheter repositioning, and manipulation is easily accessible. “Open device” is intended to mean that the chest and abdomen or entire torso remains unrestrained allowing for better respiration. Examples of procedures where access to the perineum and pelvis of the child are required include the voiding cysto-urethrogram (bladder and kidney) studies and contrast colon studies.
+The methodology designed into the **Children’s Gentle Immobilizer** places children in a warm, cushioned and open device for radiologic procedures where constant and continuous line, tube and catheter repositioning, and manipulation is easily accessible. “Open device” is intended to mean that the chest and abdomen or entire torso remains unrestrained allowing for better respiration. Examples of procedures where access to the perineum and pelvis of the child are required include the voiding cysto-urethrogram (bladder and kidney) studies and contrast colon studies.
 
 #### REDUCED RADIATION EXPOSURE
 
-The opportunity to reduce radiation exposure is a critical issue within pediatric radiology and is an exceptional benefit provided by the Children’s Gentle Immobilizer as it limits exposure by decreasing repeats as well as lessening the area of the body exposed. The Image Gently Alliance (associated with the Society for Pediatric Radiology) intends to raise awareness about methods to reduce radiation dose during pediatric imaging procedures.
+The opportunity to reduce radiation exposure is a critical issue within pediatric radiology and is an exceptional benefit provided by the **Children’s Gentle Immobilizer** as it limits exposure by decreasing repeats as well as lessening the area of the body exposed. The Image Gently Alliance (associated with the Society for Pediatric Radiology) intends to raise awareness about methods to reduce radiation dose during pediatric imaging procedures.
 
 The Alliance states:
 
 > > “Children require special attention when receiving care in the hospital environment. Medical imaging procedures can be lifesaving for children who are sick or injured, but children are more sensitive than adults to the radiation these procedures deliver.”
 
-Child safety is paramount when immobilizing a patient for diagnostic procedures. Immobilization and restraint can also be traumatizing to both the child and parent. The Children’s Gentle Immobilizer is a new paradigm in providing a safe, comfortable and non-threatening option to better cradle and soothe the patient as well as reducing stress for the non-parent support.
+Child safety is paramount when immobilizing a patient for diagnostic procedures. Immobilization and restraint can also be traumatizing to both the child and parent. The **Children’s Gentle Immobilizer** is a new paradigm in providing a safe, comfortable and non-threatening option to better cradle and soothe the patient as well as reducing stress for the non-parent support.
 
 #### THE CHILDREN'S GENTLE IMMOBILIZER ALSO SATISFIES IMMOBILIZATION AND RESTRAINT GUIDLEINES FROM THE:
 
@@ -57,13 +58,13 @@ Child safety is paramount when immobilizing a patient for diagnostic procedures.
 - Joint Commission for Immobilization
 
 
-### Additional detailed benefits of Children’s Gentle Immobilizer
+### ADDITIONAL DETAILED BENEFITS OF THE CHILDREN'S GENTLE IMMOBILIZER
 
-#### Reduced Radiation Exposure
+#### REDUCED RADIATION EXPOSURE
 - Less radiation exposure to pediatric patient as well as non-patient support, including parents, technologist and physician
 - Design ensures hands of non-patient support remain out of the radiologic field of interest
 
-#### Construction
+#### CONSTRUCTION
 - Latex-free foam
 - Radiolucent to x-rays
 - Friction-based 4-point system eliminates need for straps or attachments
@@ -71,7 +72,7 @@ Child safety is paramount when immobilizing a patient for diagnostic procedures.
 - Weighs approx. 10 ounces
 - Non-flammable
 
-#### Patient Comfort and Safety
+#### PATIENT COMFORT AND SAFETY
 - Improved respiration due to lack of straps or restrictions across chest and abdomen
 - Respiration and circulation easily monitored during procedure
 - Restrains patient securely, safely and comfortably above the elbows and below the knees
