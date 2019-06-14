@@ -2,7 +2,7 @@
 
 ### The **Children’s Gentle Immobilizer** is a simple, durable or one time use design, versatile, one-piece radiolucent child medical positioning aid which holds secure all four extremities individually in an antimicrobial-infused soft foam wrap with no extraneous straps, boards, velcro, medical tape, bandages, clamps, pins or fabrics.
 
-![Children’s Gentle Immobilizer](/images/unit.png)
+![Children’s Gentle Immobilizer](/images/unit.jpg)
 
 The **Children’s Gentle Immobilizer** is designed for children weighing up to approx. 25 lbs.
 
