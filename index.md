@@ -40,6 +40,12 @@ The second technique consists of immobilization of the child while still selecti
 
 The methodology designed into the **Children’s Gentle Immobilizer** places children in a warm, cushioned and open device for radiologic procedures where constant and continuous line, tube and catheter repositioning, and manipulation is easily accessible. “Open device” is intended to mean that the chest and abdomen or entire torso remains unrestrained allowing for better respiration. Examples of procedures where access to the perineum and pelvis of the child are required include the voiding cysto-urethrogram (bladder and kidney) studies and contrast colon studies.
 
+<video width="400" controls>
+  <source src="IMG_7031.mp4" type="video/mp4">
+  <source src="IMG_7031.ogg" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video>
+
 ---
 
 #### REDUCED RADIATION EXPOSURE
@@ -78,6 +84,11 @@ Child safety is paramount when immobilizing a patient for diagnostic procedures.
 - Weighs approx. 10 ounces
 - Non-flammable
 
+![Children’s Gentle Immobilizer](/images/IMG_0767.jpg)
+![Children’s Gentle Immobilizer](/images/IMG_0861.jpg)
+![Children’s Gentle Immobilizer](/images/IMG_1011.jpg)
+![Children’s Gentle Immobilizer](/images/IMG_1027.jpg)
+
 #### PATIENT COMFORT AND SAFETY
 - Improved respiration due to lack of straps or restrictions across chest and abdomen
 - Respiration and circulation easily monitored during procedure
@@ -86,6 +97,8 @@ Child safety is paramount when immobilizing a patient for diagnostic procedures.
 - Can be kept in blanket warmer prior to use
 - Open design allows medical staff to easily access any and all tubes and lines
 - Soothing when used to immobilize children with special needs
+
+![Children’s Gentle Immobilizer](/images/IMG_1031.jpg)
 
 ---
 
