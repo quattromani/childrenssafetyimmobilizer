@@ -40,7 +40,7 @@ The second technique consists of immobilization of the child while still selecti
 
 The methodology designed into the **Children’s Gentle Immobilizer** places children in a warm, cushioned and open device for radiologic procedures where constant and continuous line, tube and catheter repositioning, and manipulation is easily accessible. “Open device” is intended to mean that the chest and abdomen or entire torso remains unrestrained allowing for better respiration. Examples of procedures where access to the perineum and pelvis of the child are required include the voiding cysto-urethrogram (bladder and kidney) studies and contrast colon studies.
 
-<video controls>
+<video controls style="width: 100% !important; height: auto !important;">
   <source src="/images/IMG_7031.mp4" type="video/mp4">
   <source src="/images/IMG_7031.ogg" type="video/ogg">
   Your browser does not support HTML5 video.
