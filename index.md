@@ -1,6 +1,6 @@
 # THE CHILDREN'S GENTLE IMMOBILIZER
 
-### The **Children’s Gentle Immobilizer** is a simple, durable or one time use design, versatile, one-piece radiolucent child medical positioning aid which holds secure all four extremities individually in an antimicrobial-infused soft foam wrap with no extraneous straps, boards, velcro, medical tape, bandages, clamps, pins or fabrics.
+### The **Children’s Gentle Immobilizer** is a simple, durable or one-time use design, versatile, one-piece radiolucent child medical positioning aid which holds secure all four extremities individually in an antimicrobial-infused soft foam wrap with no extraneous straps, boards, velcro, medical tape, bandages, clamps, pins or fabrics.
 
 ![Children’s Gentle Immobilizer](/images/unit.jpg)
 
@@ -8,7 +8,7 @@ The **Children’s Gentle Immobilizer** is designed for children weighing up to 
 
 Decreasing child movement helps to improve the radiologic image quality as well as providing 3 key benefits:
 
-1. Reduced radiation to technologist eyes, thyroid, and hands
+1. Reduced radiation to technologist's eyes, thyroid, and hands
 2. Reduced radiation to the child
 3. Reduced radiation to the child’s parent
 
@@ -16,7 +16,7 @@ Decreasing child movement helps to improve the radiologic image quality as well 
 *Frank Louis Quattromani, MD, Pediatric Radiologist*
 * University Medical Center, Lubbock, Texas
 * Clinical Professor of Pediatrics and Pathology, Texas Tech University, Lubbock, Texas
-* Former consultant to the United States Army Office of the Surgeon General
+* A former consultant to the United States Army Office of the Surgeon General
 * (Retired), U.S. Army Colonel (06)
 
 *Patricia Rae Quattromani, co-inventor and product designer*
@@ -38,7 +38,7 @@ Manual restraint techniques and commercial immobilizer devices may be used to ke
 
 The second technique consists of immobilization of the child while still selectively exposing all necessary lines and catheters for interactive and simultaneous manipulation during imaging.
 
-The methodology designed into the **Children’s Gentle Immobilizer** places children in a warm, cushioned and open device for radiologic procedures where constant and continuous line, tube and catheter repositioning, and manipulation is easily accessible. “Open device” is intended to mean that the chest and abdomen or entire torso remains unrestrained allowing for better respiration. Examples of procedures where access to the perineum and pelvis of the child are required include the voiding cysto-urethrogram (bladder and kidney) studies and contrast colon studies.
+The methodology designed into the **Children’s Gentle Immobilizer** places children in a warm, cushioned and open device for radiologic procedures where the constant and continuous line, tube and catheter repositioning, and manipulation is easily accessible. “Open device” is intended to mean that the chest and abdomen or entire torso remains unrestrained allowing for better respiration. Examples of procedures where access to the perineum and pelvis of the child are required include the voiding cysto-urethrogram (bladder and kidney) studies and contrast colon studies.
 
 <video controls style="width: 100% !important; height: auto !important;">
   <source src="/images/IMG_7031.mp4" type="video/mp4">
@@ -62,7 +62,7 @@ The **Children’s Gentle Immobilizer** is a new paradigm in providing a safe, c
 
 ---
 
-## THE CHILDREN'S GENTLE IMMOBILIZER ALSO SATISFIES IMMOBILIZATION AND RESTRAINT GUIDLEINES FROM THE:
+## THE CHILDREN'S GENTLE IMMOBILIZER ALSO SATISFIES IMMOBILIZATION AND RESTRAINT GUIDELINES FROM THE:
 
 - American College of Pediatrics
 - American College of Pediatric Dentistry
@@ -75,8 +75,8 @@ The **Children’s Gentle Immobilizer** is a new paradigm in providing a safe, c
 ## ADDITIONAL DETAILED BENEFITS OF THE CHILDREN'S GENTLE IMMOBILIZER:
 
 ## REDUCED RADIATION EXPOSURE
-- Less radiation exposure to pediatric patient as well as non-patient support, including parents, technologist and physician
-- Design ensures hands of non-patient support remain out of the radiologic field of interest
+- Less radiation exposure to pediatric patient as well as non-patient support, including parents, technologist, and physician
+- The design ensures hands of non-patient support remain out of the radiologic field of interest
 
 ## CONSTRUCTION
 - Latex-free foam
