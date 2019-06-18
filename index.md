@@ -12,7 +12,7 @@ Decreasing child movement helps to improve the radiologic image quality as well 
 2. Reduced radiation to the child
 3. Reduced radiation to the child’s parent
 
-### INVENTORS
+## INVENTORS
 *Frank Louis Quattromani, MD, Pediatric Radiologist*
 * University Medical Center, Lubbock, Texas
 * Clinical Professor of Pediatrics and Pathology, Texas Tech University, Lubbock, Texas
@@ -33,7 +33,7 @@ Decreasing child movement helps to improve the radiologic image quality as well 
 
 ---
 
-#### IMMOBILIZERS
+### IMMOBILIZERS
 Manual restraint techniques and commercial immobilizer devices may be used to keep the pediatric patient motionless. There are two techniques of immobilization. The first immobilizes for magnetic resonance imaging (MRI) or computed tomography (CT) procedures where the “static” device such as the “papoose” or “swaddle” are standard with no need to access and manipulate catheters or lines during imaging (x-ray pictures).
 
 The second technique consists of immobilization of the child while still selectively exposing all necessary lines and catheters for interactive and simultaneous manipulation during imaging.
@@ -48,7 +48,7 @@ The methodology designed into the **Children’s Gentle Immobilizer** places chi
 
 ---
 
-#### REDUCED RADIATION EXPOSURE
+### REDUCED RADIATION EXPOSURE
 
 The opportunity to reduce radiation exposure is a critical issue within pediatric radiology and is an exceptional benefit provided by the **Children’s Gentle Immobilizer** as it limits exposure by decreasing repeats as well as lessening the area of the body exposed. The Image Gently Alliance (associated with the Society for Pediatric Radiology) intends to raise awareness about methods to reduce radiation dose during pediatric imaging procedures.
 
@@ -60,7 +60,7 @@ Child safety is paramount when immobilizing a patient for diagnostic procedures.
 
 ---
 
-#### THE CHILDREN'S GENTLE IMMOBILIZER ALSO SATISFIES IMMOBILIZATION AND RESTRAINT GUIDLEINES FROM THE:
+### THE CHILDREN'S GENTLE IMMOBILIZER ALSO SATISFIES IMMOBILIZATION AND RESTRAINT GUIDLEINES FROM THE:
 
 - American College of Pediatrics
 - American College of Pediatric Dentistry
@@ -70,13 +70,13 @@ Child safety is paramount when immobilizing a patient for diagnostic procedures.
 
 ---
 
-### ADDITIONAL DETAILED BENEFITS OF THE CHILDREN'S GENTLE IMMOBILIZER
+## ADDITIONAL DETAILED BENEFITS OF THE CHILDREN'S GENTLE IMMOBILIZER
 
-#### REDUCED RADIATION EXPOSURE
+### REDUCED RADIATION EXPOSURE
 - Less radiation exposure to pediatric patient as well as non-patient support, including parents, technologist and physician
 - Design ensures hands of non-patient support remain out of the radiologic field of interest
 
-#### CONSTRUCTION
+### CONSTRUCTION
 - Latex-free foam
 - Radiolucent to x-rays
 - Friction-based 4-point system eliminates need for straps or attachments
@@ -89,7 +89,7 @@ Child safety is paramount when immobilizing a patient for diagnostic procedures.
 ![Children’s Gentle Immobilizer](/images/IMG_1011.jpg)
 ![Children’s Gentle Immobilizer](/images/IMG_1027.jpg)
 
-#### PATIENT COMFORT AND SAFETY
+### PATIENT COMFORT AND SAFETY
 - Improved respiration due to lack of straps or restrictions across chest and abdomen
 - Respiration and circulation easily monitored during procedure
 - Restrains patient securely, safely and comfortably above the elbows and below the knees
