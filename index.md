@@ -1,10 +1,10 @@
-# THE CHILDREN'S GENTLE IMMOBILIZER
+# THE CHILDREN'S Safety IMMOBILIZER
 
-### The **Children’s Gentle Immobilizer** is a simple, durable or one-time use design, versatile, one-piece radiolucent child medical positioning aid which holds secure all four extremities individually in an antimicrobial-infused soft foam wrap with no extraneous straps, boards, velcro, medical tape, bandages, clamps, pins or fabrics.
+### The **Children’s Safety Immobilizer** is a simple, durable or one-time use design, versatile, one-piece radiolucent child medical positioning aid which holds secure all four extremities individually in an antimicrobial-infused soft foam wrap with no extraneous straps, boards, velcro, medical tape, bandages, clamps, pins or fabrics.
 
-![Children’s Gentle Immobilizer](/images/unit.jpg)
+![Children’s Safety Immobilizer](/images/unit.jpg)
 
-The **Children’s Gentle Immobilizer** is designed for children weighing up to approx. 25 lbs.
+The **Children’s Safety Immobilizer** is designed for children weighing up to approx. 25 lbs.
 
 Decreasing child movement helps to improve the radiologic image quality as well as providing 3 key benefits:
 
@@ -38,7 +38,7 @@ Manual restraint techniques and commercial immobilizer devices may be used to ke
 
 The second technique consists of immobilization of the child while still selectively exposing all necessary lines and catheters for interactive and simultaneous manipulation during imaging.
 
-The methodology designed into the **Children’s Gentle Immobilizer** places children in a warm, cushioned and open device for radiologic procedures where the constant and continuous line, tube and catheter repositioning, and manipulation is easily accessible. “Open device” is intended to mean that the chest and abdomen or entire torso remains unrestrained allowing for better respiration. Examples of procedures where access to the perineum and pelvis of the child are required include the voiding cysto-urethrogram (bladder and kidney) studies and contrast colon studies.
+The methodology designed into the **Children’s Safety Immobilizer** places children in a warm, cushioned and open device for radiologic procedures where the constant and continuous line, tube and catheter repositioning, and manipulation is easily accessible. “Open device” is intended to mean that the chest and abdomen or entire torso remains unrestrained allowing for better respiration. Examples of procedures where access to the perineum and pelvis of the child are required include the voiding cysto-urethrogram (bladder and kidney) studies and contrast colon studies.
 
 <video controls style="width: 100% !important; height: auto !important;">
   <source src="/images/IMG_7031.mp4" type="video/mp4">
@@ -50,7 +50,7 @@ The methodology designed into the **Children’s Gentle Immobilizer** places chi
 
 ## REDUCED RADIATION EXPOSURE
 
-The opportunity to reduce radiation exposure is a critical issue within pediatric radiology and is an exceptional benefit provided by the **Children’s Gentle Immobilizer** as it limits exposure by decreasing repeats as well as lessening the area of the body exposed. The Image Gently Alliance (associated with the Society for Pediatric Radiology) intends to raise awareness about methods to reduce radiation dose during pediatric imaging procedures.
+The opportunity to reduce radiation exposure is a critical issue within pediatric radiology and is an exceptional benefit provided by the **Children’s Safety Immobilizer** as it limits exposure by decreasing repeats as well as lessening the area of the body exposed. The Image Gently Alliance (associated with the Society for Pediatric Radiology) intends to raise awareness about methods to reduce radiation dose during pediatric imaging procedures.
 
 The Alliance states:
 
@@ -58,11 +58,11 @@ The Alliance states:
 
 Child safety is paramount when immobilizing a patient for diagnostic procedures. Immobilization and restraint can also be traumatizing to both the child and parent.
 
-The **Children’s Gentle Immobilizer** is a new paradigm in providing a safe, comfortable and non-threatening option to better cradle and soothe the patient as well as reducing stress for the non-parent support.
+The **Children’s Safety Immobilizer** is a new paradigm in providing a safe, comfortable and non-threatening option to better cradle and soothe the patient as well as reducing stress for the non-parent support.
 
 ---
 
-## THE CHILDREN'S GENTLE IMMOBILIZER ALSO SATISFIES IMMOBILIZATION AND RESTRAINT GUIDELINES FROM THE:
+## THE CHILDREN'S Safety IMMOBILIZER ALSO SATISFIES IMMOBILIZATION AND RESTRAINT GUIDELINES FROM THE:
 
 - American College of Pediatrics
 - American College of Pediatric Dentistry
@@ -72,7 +72,7 @@ The **Children’s Gentle Immobilizer** is a new paradigm in providing a safe, c
 
 ---
 
-## ADDITIONAL DETAILED BENEFITS OF THE CHILDREN'S GENTLE IMMOBILIZER:
+## ADDITIONAL DETAILED BENEFITS OF THE CHILDREN'S Safety IMMOBILIZER:
 
 ## REDUCED RADIATION EXPOSURE
 - Less radiation exposure to pediatric patient as well as non-patient support, including parents, technologist, and physician
@@ -86,10 +86,10 @@ The **Children’s Gentle Immobilizer** is a new paradigm in providing a safe, c
 - Weighs approx. 10 ounces
 - Non-flammable
 
-![Children’s Gentle Immobilizer](/images/IMG_0767.jpg)
-![Children’s Gentle Immobilizer](/images/IMG_0861.jpg)
-![Children’s Gentle Immobilizer](/images/IMG_1011.jpg)
-![Children’s Gentle Immobilizer](/images/IMG_1027.jpg)
+![Children’s Safety Immobilizer](/images/IMG_0767.jpg)
+![Children’s Safety Immobilizer](/images/IMG_0861.jpg)
+![Children’s Safety Immobilizer](/images/IMG_1011.jpg)
+![Children’s Safety Immobilizer](/images/IMG_1027.jpg)
 
 ##  PATIENT COMFORT AND SAFETY
 - Improved respiration due to lack of straps or restrictions across chest and abdomen
@@ -100,7 +100,7 @@ The **Children’s Gentle Immobilizer** is a new paradigm in providing a safe, c
 - Open design allows medical staff to easily access any and all tubes and lines
 - Soothing when used to immobilize children with special needs
 
-![Children’s Gentle Immobilizer](/images/IMG_1031.jpg)
+![Children’s Safety Immobilizer](/images/IMG_1031.jpg)
 
 ---
 
