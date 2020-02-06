@@ -1,4 +1,4 @@
-# THE PEDIATRIC POSITION HOLDER
+#<center>THE PEDIATRIC POSITION HOLDER</center>
 
 ### The **Pediatric Position Holder** is a simple, durable or one-time use design, versatile, one-piece radiolucent child medical positioning aid which holds secure all four extremities individually in an antimicrobial-infused soft foam wrap with no extraneous straps, boards, velcro, medical tape, bandages, clamps, pins or fabrics.
 
