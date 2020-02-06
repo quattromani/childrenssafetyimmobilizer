@@ -1,8 +1,10 @@
 # Setup
-name: The Pediatric Position Holder
-title: The Pediatric Position Holder
+name: The "Q" -Pediatric Position Holder
+title: The "Q" - Pediatric Position Holder
 tagline: A one-piece radiolucent child medical positioning aid.
-description: 'The Q Holder pediatric positioner is a revolutionary new pediatric child friendly device which is effective, safe, simple and versatile. The Q Holder standardizes the process of immobilization, offering consistency across all modes of care for the infant and child.'
+description: >--
+'The "Q" Pediatric Position Holder is a revolutionary new pediatric child friendly device which is effective, safe, simple and versatile.
+The "Q" Pediatric Position Holder standardizes the process of immobilization, offering consistency across all modes of care for the infant and child.'
 baseurl: ""
 paginate: 1
 locale: "en"
