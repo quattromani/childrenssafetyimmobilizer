@@ -1,16 +1,10 @@
-#<center>THE PEDIATRIC POSITION HOLDER</center>
+# THE PEDIATRIC POSITION HOLDER
 
 ### The **Pediatric Position Holder** is a simple, durable or one-time use design, versatile, one-piece radiolucent child medical positioning aid which holds secure all four extremities individually in an antimicrobial-infused soft foam wrap with no extraneous straps, boards, velcro, medical tape, bandages, clamps, pins or fabrics.
 
 ![Pediatric Position Holder](/images/unit.jpg)
 
 The **Pediatric Position Holder** is designed for children weighing up to approx. 25 lbs.
-
-The Pediatric Position Holder is a revolutionary new
-pediatric child friendly device which is effective, safe, simple and versatile. 
-
-The Pediatric Position Holder standardizes the process of immobilization, offering 
-consistency across all modes of care for the infant and child
 
 Decreasing child movement helps to improve the radiologic image quality as well as providing 3 key benefits:
 
@@ -19,12 +13,11 @@ Decreasing child movement helps to improve the radiologic image quality as well 
 3. Reduced radiation to the child’s parent
 
 ## How does it work?
-The Pediatric Position Holder keeps the arms and legs out away from the chest and abdomen so the
-child’s neurovascular, cardiovascular and respirations can be easily monitored during the procedures. Respirations are not obstructed.
+The Pediatric Position Holder keeps the arms and legs out away from the chest and abdomen so the child’s neurovascular, cardiovascular and respirations can be easily monitored during the procedures. Respirations are not obstructed.
 
 The Pediatric Position Holder utilizes friction so there are no belts or straps. The Pediatric Position Holder is made from one single piece of soft ½ inch thick polyester foam. The soft foam is gentler on the child’s extremities than the strong hands of the health care provider.
  
-The versatile design represents pure positioning innovation to ensure that all tubes and lines are not disturbed during the procedures. The holder is radiolucent for medical imaging, holds the child still for fewer repeat examinations and can be applied and removed in seconds. The foam holder firmly supports the head and neck. The holder is intended to compliment (not replace) the practice of the Child Life Specialist (CCLS)
+The versatile design represents pure positioning innovation to ensure that all tubes and lines are not disturbed during the procedures. The holder is radiolucent for medical imaging, holds the child still for fewer repeat examinations and can be applied and removed in seconds. The foam holder firmly supports the head and neck. The holder is intended to compliment (not replace) the practice of the Child Life Specialist (CCLS).
  
 Additional benefits:
 -	Recyclable                          
@@ -40,7 +33,8 @@ Additional benefits:
 -	Proudly made in the USA
 
 ## What Parents are Saying about the Pediatric Position Holder
-> “Months ago my baby had a VCUG the old way – the technician had to manually restrain her during the procedure and it was very upsetting to watch. My baby hated it. I was so apprehensive when we returned for our follow-up examination. This time the technician used the Pediatric Position Holder. It was so much better for my baby and much less stressful for me as a parent. It made the procedure easier for everyone!”
+> “Months ago my baby had a VCUG the old way – the technician had to manually restrain her during the procedure and it was very upsetting to watch. My baby hated it. I was so apprehensive when we returned for our follow-up examination. This time the technician used the Pediatric Position Holder. It was so much better for my baby and much less stressful for me as a parent. It made the procedure easier for everyone!”  
+
 ~	Mom of 6 month old infant, Lubbock, TX
 
 ## INVENTORS
@@ -52,7 +46,7 @@ Additional benefits:
 
 *Patricia Rae Quattromani, co-inventor and product designer*
 
-**Patent#: 62/773 347**
+**Patent: #62/773,347**
 ---
 
 ## For more information contact:
@@ -147,5 +141,3 @@ The **Pediatric Position Holder** is a new paradigm in providing a safe, comfort
 ![Pediatric Position Holder](/images/IMG_1031.jpg)
 
 ---
-
-#### Patent Pending #62/773,347
