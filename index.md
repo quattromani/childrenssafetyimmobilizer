@@ -1,15 +1,19 @@
 # THE PEDIATRIC POSITION HOLDER
 
-### The **Pediatric Position Holder** is a simple, durable or one-time use design, versatile, one-piece radiolucent child medical positioning aid which holds secure all four extremities individually in an antimicrobial-infused soft foam wrap with no extraneous straps, boards, velcro, medical tape, bandages, clamps, pins or fabrics.
+### **The "Q" Pediatric Position Holder** is a simple, durable or one-time use design, versatile, one-piece radiolucent child medical positioning aid which holds secure all four extremities individually in an antimicrobial-infused soft foam wrap with no extraneous straps, boards, velcro, medical tape, bandages, clamps, pins or fabrics.
 
 ![Pediatric Position Holder](/images/unit.jpg)
 
-The **Pediatric Position Holder** is designed for children weighing up to approx. 30 lbs.
+## Why is it called the "Q" holder?
+
+The "Q" Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. "Dr. Q"), a board certified pediatric radiologist.
+
+**The "Q" Pediatric Position Holder** is designed for children weighing up to approx. 30 lbs.
 
 ## HOW DOES IT WORK?
-The Pediatric Position Holder keeps the arms and legs out away from the chest and abdomen so the child’s neurovascular, cardiovascular and respirations can be easily monitored during the procedures. Respirations are not obstructed.
+The "Q" Pediatric Position Holder keeps the arms and legs out away from the chest and abdomen so the child’s neurovascular, cardiovascular and respirations can be easily monitored during the procedures. Respirations are not obstructed.
 
-The Pediatric Position Holder utilizes friction so there are no belts or straps. The Pediatric Position Holder is made from one single piece of soft ½ inch thick polyester foam. The soft foam is gentler on the child’s extremities than the strong hands of the health care providers.
+The "Q" Pediatric Position Holder utilizes friction so there are no belts or straps. The Pediatric Position Holder is made from one single piece of soft ½ inch thick polyester foam. The soft foam is gentler on the child’s extremities than the strong hands of the health care providers.
  
 The versatile design represents a pure positioning innovation to ensure that all tubes and lines are not disturbed during the procedures. The holder is radiolucent for medical imaging, holds the child still for fewer repeat examinations and can be applied and removed in seconds. The foam holder firmly supports the head and neck. The holder is intended to compliment (not replace) the practice of the Child Life Specialist.
  
@@ -29,7 +33,7 @@ Additional Characteristics:
 - Friction-based Hold
 
 ## WHAT PARENTS ARE SAYING ABOUT THE PEDIATRIC POSITION HOLDER
-> “Months ago my baby had a VCUG the old way – the technician had to manually restrain my daughter during the procedure and it was very upsetting to watch. My baby hated it. I was so apprehensive when we returned for our follow-up examination. This time the thecnologist used the "Q" Pediatric Position Holder. It was so much better for my baby and much less stressful for me as a parent. It made the procedure easier for everyone!”  
+> “Months ago my baby had a VCUG the old way – the technician had to manually restrain my daughter during the procedure and it was very upsetting to watch. My baby hated it. I was so apprehensive when we returned for our follow-up examination. This time the thecnologist use The "Q" Pediatric Position Holder. It was so much better for my baby and much less stressful for me as a parent. It made the procedure easier for everyone!”  
 
 ~	Mom of 6 month old infant, Lubbock, TX
 
@@ -52,6 +56,7 @@ Additional Characteristics:
 **PHONE:** <a href="tel:1-806-778-2183">(806)778-2183</a> or <a href="tel:1-241-778-0373">(806)241-0373</a>
 
 **EMAIL:** <f1quattromani@gmail.com>
+
 **WEBSITE:** [PediatricPositionHolder.com](https://pediatricpositionholder.com)
 
 ---
