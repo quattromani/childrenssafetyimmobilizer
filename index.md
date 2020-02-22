@@ -99,7 +99,6 @@ The Alliance states:
 
 ![Pediatric Position Holder](/images/IMG_1641.jpg)
 ![Pediatric Position Holder](/images/IMG_1672.jpg)
-![Pediatric Position Holder](/images/IMG_1783.jpg)
 ![Pediatric Position Holder](/images/IMG_1983.jpg)
 ![Pediatric Position Holder](/images/IMG_1999.jpg)
 
