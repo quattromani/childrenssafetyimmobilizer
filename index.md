@@ -6,7 +6,7 @@
 
 ## Why is it called the "Q" holder?
 
-The "Q" Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. "Dr. Q"), a board certified pediatric radiologist.
+**The "Q" Pediatric Position Holder** was created by Dr. Frank Quattromani (a.k.a. "Dr. Q"), a board certified pediatric radiologist.
 
 **The "Q" Pediatric Position Holder** is designed for children weighing up to approx. 30 lbs.
 
@@ -28,7 +28,7 @@ Additional Characteristics:
 -	Hypoallergenic
 -	Reduces motion artifacts for imaging
 -	Gender neutral
--	Proudly made in the USA
+-	Proudly made in the USA <i class="fas fa-flag-usa"></i>
 - Radiolucent to X-Ray
 - Friction-based Hold
 
