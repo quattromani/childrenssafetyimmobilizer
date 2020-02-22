@@ -1,8 +1,8 @@
 # THE PEDIATRIC POSITION HOLDER
 
-### **The "Q" Pediatric Position Holder** is a simple, durable or one-time use design, versatile, one-piece radiolucent child medical positioning aid which holds secure all four extremities individually in an antimicrobial-infused soft foam wrap with no extraneous straps, boards, velcro, medical tape, bandages, clamps, pins or fabrics.
+### **The "Q" Pediatric Position Holder** (immobilizer) is a simple, durable or one-time use design, versatile, one-piece radiolucent child medical positioning aid which holds secure all four extremities individually in an antimicrobial-infused soft foam wrap with no extraneous straps, boards, velcro, medical tape, bandages, clamps, pins or fabrics.
 
-![Pediatric Position Holder](/images/pediatric-position-holder.jpg)
+![Pediatric Position Holder & Immobilizer](/images/pediatric-position-holder.jpg)
 
 ## Why is it called the "Q" holder?
 
@@ -11,9 +11,9 @@
 **The "Q" Pediatric Position Holder** is designed for children weighing up to approx. 30 lbs.
 
 ## HOW DOES IT WORK?
-The "Q" Pediatric Position Holder keeps the arms and legs out away from the chest and abdomen so the child’s neurovascular, cardiovascular and respirations can be easily monitored during the procedures. Respirations are not obstructed.
+The "Q" Pediatric Position Holder (immobilizer) keeps the arms and legs out away from the chest and abdomen so the child’s neurovascular, cardiovascular and respirations can be easily monitored during the procedures. Respirations are not obstructed.
 
-The "Q" Pediatric Position Holder utilizes friction so there are no belts or straps. The Pediatric Position Holder is made from one single piece of soft ½ inch thick polyester foam. The soft foam is gentler on the child’s extremities than the strong hands of the health care providers.
+The "Q" Pediatric Position Holder (immobilizer) utilizes friction so there are no belts or straps. The "Q" Pediatric Position Holder (immobilizer) is made from one single piece of soft ½ inch thick polyester foam. The soft foam is gentler on the child’s extremities than the strong hands of the health care providers.
  
 The versatile design represents a pure positioning innovation to ensure that all tubes and lines are not disturbed during the procedures. The holder is radiolucent for medical imaging, holds the child still for fewer repeat examinations and can be applied and removed in seconds. The foam holder firmly supports the head and neck. The holder is intended to compliment (not replace) the practice of the Child Life Specialist.
  
@@ -66,9 +66,9 @@ Currently, there is no uniform standard agreement on how children should be temp
 
 Unfortunately, these solutions and methods are used inconsistently and can often be ineffective and difficult to implement. The Pediatric Position Holder ends the practice of physically overpowering the child to gain control and render the child motionless. The Pediatric Position Holder is available by prescription only, used in a highly monitored setting under the care of a certified health care provider and is removed immediately after the procedure. The holding time is limited in duration to support a specific position and is not considered restraint intervention by the American Academy of Pediatrics.
 
-The methodology designed into the **Pediatric Position Holder** places the child in a warm, cushioned and open device for radiologic procedures where the lines, tubes, and catheters are easily accessible. Our “Open device” is intended to allow the chest and abdomen or entire torso remains unrestrained allowing for better respiration. Examples of procedures where access to the perineum and pelvis of the child are required include the voiding cysto-urethrogram (bladder and kidney) studies and contrast colon studies.
+The methodology designed into **The "Q" Pediatric Position Holder** (immobilizer) places the child in a warm, cushioned and open device for radiologic procedures where the lines, tubes, and catheters are easily accessible. Our “Open device” is intended to allow the chest and abdomen or entire torso remains unrestrained allowing for better respiration. Examples of procedures where access to the perineum and pelvis of the child are required include the voiding cysto-urethrogram (bladder and kidney) studies and contrast colon studies.
 
-The Pediatric Position Holder is a multifunctional solution to provide immobilization for the following procedures, including:
+The "Q" Pediatric Position Holder (immobilizer) is a multifunctional solution to provide immobilization for the following procedures, including:
 
 -	Lancing abscesses
 -	Repairing lacerations
@@ -87,20 +87,20 @@ The Pediatric Position Holder is a multifunctional solution to provide immobiliz
 ---
 
 ## REDUCED RADIATION EXPOSURE
-The opportunity to reduce radiation exposure is a critical issue within pediatric radiology and is an exceptional benefit provided by the **Pediatric Position Holder**. The Image Gently Alliance (associated with the Society for Pediatric Radiology) intends to raise awareness about methods to reduce radiation dose during pediatric imaging procedures.
+The opportunity to reduce radiation exposure is a critical issue within pediatric radiology and is an exceptional benefit provided by  **The "Q" Pediatric Position Holder** (immobilizer). The Image Gently Alliance (associated with the Society for Pediatric Radiology) intends to raise awareness about methods to reduce radiation dose during pediatric imaging procedures.
 
 The Alliance states:
 
 > “Children require special attention when receiving care in the hospital environment. Medical imaging procedures can be lifesaving for children who are sick or injured, but children are more sensitive than adults to the radiation these procedures deliver.”
 
-**The "Q" Pediatric Position Holder** is a new paradigm in providing a safe, comfortable and non-threatening option to better cradle and soothe the patient as well as reducing stress on the parents.
+**The "Q" Pediatric Position Holder** (immobilizer) is a new paradigm in providing a safe, comfortable and non-threatening option to better cradle and soothe the patient as well as reducing stress on the parents.
 
 ---
 
-![Pediatric Position Holder](/images/IMG_1641.jpg)
-![Pediatric Position Holder](/images/IMG_1672.jpg)
-![Pediatric Position Holder](/images/IMG_1983.jpg)
-![Pediatric Position Holder](/images/IMG_1999.jpg)
+![Pediatric Position Holder & Immobilizer](/images/IMG_1641.jpg)
+![Pediatric Position Holder & Immobilizer](/images/IMG_1672.jpg)
+![Pediatric Position Holder & Immobilizer](/images/IMG_1983.jpg)
+![Pediatric Position Holder & Immobilizer](/images/IMG_1999.jpg)
 
 ##  PATIENT COMFORT AND SAFETY
 - Improved respiration due to lack of straps or restrictions across chest and abdomen
@@ -110,6 +110,6 @@ The Alliance states:
 - Open design allows medical staff to easily access any and all tubes and lines
 - Soothing when used to immobilize children with special needs
 
-![Pediatric Position Holder](/images/IMG_8546.jpg)
+![Pediatric Position Holder & Immobilizer](/images/IMG_8546.jpg)
 
 ---
