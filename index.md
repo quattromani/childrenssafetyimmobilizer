@@ -97,10 +97,11 @@ The Alliance states:
 
 ---
 
-![Pediatric Position Holder](/images/IMG_0767.jpg)
-![Pediatric Position Holder](/images/IMG_0861.jpg)
-![Pediatric Position Holder](/images/IMG_1011.jpg)
-![Pediatric Position Holder](/images/IMG_1027.jpg)
+![Pediatric Position Holder](/images/IMG_1641.jpg)
+![Pediatric Position Holder](/images/IMG_1672.jpg)
+![Pediatric Position Holder](/images/IMG_1783.jpg)
+![Pediatric Position Holder](/images/IMG_1983.jpg)
+![Pediatric Position Holder](/images/IMG_1999.jpg)
 
 ##  PATIENT COMFORT AND SAFETY
 - Improved respiration due to lack of straps or restrictions across chest and abdomen
@@ -110,6 +111,6 @@ The Alliance states:
 - Open design allows medical staff to easily access any and all tubes and lines
 - Soothing when used to immobilize children with special needs
 
-![Pediatric Position Holder](/images/IMG_1031.jpg)
+![Pediatric Position Holder](/images/IMG_8546.jpg)
 
 ---
