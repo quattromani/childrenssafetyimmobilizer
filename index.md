@@ -1,6 +1,6 @@
 # THE PEDIATRIC POSITION HOLDER
 
-### **The "Q" Pediatric Position Holder** (immobilizer) is a simple, durable or one-time use design, versatile, one-piece radiolucent child medical positioning aid which holds secure all four extremities individually in an antimicrobial-infused soft foam wrap with no extraneous straps, boards, velcro, medical tape, bandages, clamps, pins or fabrics.
+### **The "Q" Pediatric Position Holder** (immobilizer) is a simple, durable or single-patient use, one-piece radiolucent child medical positioning aid which holds secure all four extremities individually in a comfortable foam wrap with no extraneous straps, boards, hook & loop fasteners, medical tape, bandages, clamps, pins or fabrics.
 
 ![Pediatric Position Holder & Immobilizer](/images/pediatric-position-holder.jpg)
 
@@ -11,7 +11,7 @@
 **The "Q" Pediatric Position Holder** is designed for children weighing up to approx. 30 lbs.
 
 ## HOW DOES IT WORK?
-The "Q" Pediatric Position Holder (immobilizer) keeps the arms and legs out away from the chest and abdomen so the child’s neurovascular, cardiovascular and respirations can be easily monitored during the procedures. Respirations are not obstructed.
+The "Q" Pediatric Position Holder (immobilizer) keeps the arms and legs out away from the chest and abdomen so the child’s neurovascular, cardiovascular and respirations can be easily monitored during the procedures. Respirations are not obstructed because the chest amd abdomen are not covered.
 
 The "Q" Pediatric Position Holder (immobilizer) utilizes friction so there are no belts or straps. The "Q" Pediatric Position Holder (immobilizer) is made from one single piece of soft ½ inch thick polyester foam. The soft foam is gentler on the child’s extremities than the strong hands of the health care providers.
  
@@ -105,10 +105,10 @@ The Alliance states:
 ##  PATIENT COMFORT AND SAFETY
 - Improved respiration due to lack of straps or restrictions across chest and abdomen
 - Respiration and circulation easily monitored during procedure
-- Padded head and neck support prevents patient head from contacting the hard imaging table
+- Padded head and neck support prevents patient head from contacting the X-Ray table
 - Can be placed in a blanket warmer prior to use
 - Open design allows medical staff to easily access any and all tubes and lines
-- Soothing when used to immobilize children with special needs
+- Soothing when used to stabilize and hold securely motionless children with special needs
 
 ![Pediatric Position Holder & Immobilizer](/images/IMG_8546.jpg)
 
