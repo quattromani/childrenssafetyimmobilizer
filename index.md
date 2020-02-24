@@ -99,7 +99,7 @@ The Alliance states:
 
 ![Pediatric Position Holder & Immobilizer](/images/IMG_1641.jpg)
 ![Pediatric Position Holder & Immobilizer](/images/IMG_1672.jpg)
-![Pediatric Position Holder & Immobilizer](/images/A82C3814-EC4F-456B-9FCA-E3D7A93AAC0E.jpg)
+![Pediatric Position Holder & Immobilizer](/images/A82C3814-EC4F-456B-9FCA-E3D7A93AAC0E.jpeg)
 ![Pediatric Position Holder & Immobilizer](/images/IMG_1999.jpg)
 
 ##  PATIENT COMFORT AND SAFETY
