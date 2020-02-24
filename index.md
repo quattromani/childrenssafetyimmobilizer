@@ -2,7 +2,7 @@
 
 ### **The "Q" Pediatric Position Holder** (immobilizer) is a simple, durable or single-patient use, one-piece radiolucent child medical positioning aid which holds secure all four extremities individually in a comfortable foam wrap with no extraneous straps, boards, hook & loop fasteners, medical tape, bandages, clamps, pins or fabrics.
 
-![Pediatric Position Holder & Immobilizer](/images/pediatric-position-holder.jpg)
+![Pediatric Position Holder & Immobilizer](/images/hero-min.png)
 
 ## Why is it called the "Q" holder?
 
