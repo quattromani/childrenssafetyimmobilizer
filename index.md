@@ -1,6 +1,6 @@
 # THE PEDIATRIC POSITION HOLDER
 
-### **The "Q" Pediatric Position Holder** (immobilizer) is a simple, durable or single-patient use, one-piece radiolucent child medical positioning aid which holds secure all four extremities individually in a comfortable foam wrap with no extraneous straps, boards, hook & loop fasteners, medical tape, bandages, clamps, pins or fabrics.
+### **The "Q" Pediatric Position Holder** (immobilizer) is a simple, durable or single-patient use, one-piece radiolucent child medical positioning aid which holds secure all four extremities individually in a comfortable foam wrap.
 
 ![Pediatric Position Holder & Immobilizer](/images/hero-min.png)
 
@@ -8,14 +8,26 @@
 
 **The "Q" Pediatric Position Holder** was created by Dr. Frank Quattromani (a.k.a. "Dr. Q"), a board certified pediatric radiologist.
 
+## HOW DOES IT WORK?
+
 **The "Q" Pediatric Position Holder** is designed for children weighing up to approx. 30 lbs.
 
-## HOW DOES IT WORK?
 The "Q" Pediatric Position Holder (immobilizer) keeps the arms and legs out away from the chest and abdomen so the child’s neurovascular, cardiovascular and respirations can be easily monitored during the procedures. Respirations are not obstructed because the chest amd abdomen are not covered.
 
 The "Q" Pediatric Position Holder (immobilizer) utilizes friction so there are no belts or straps. The "Q" Pediatric Position Holder (immobilizer) is made from one single piece of soft ½ inch thick polyester foam. The soft foam is gentler on the child’s extremities than the strong hands of the health care providers.
  
-The versatile design represents a pure positioning innovation to ensure that all tubes and lines are not disturbed during the procedures. The holder is radiolucent for medical imaging, holds the child still for fewer repeat examinations and can be applied and removed in seconds. The foam holder firmly supports the head and neck. The holder is intended to compliment (not replace) the practice of the Child Life Specialist.
+The holder is intended to compliment and not replace the practice of the child life specialist.
+
+The new CONTOURED ERGONOMIC designis a pure POSITIONING INNOVATION which:
+
+<ol type="a">
+  <li>Reduces excessive force on childs extremities.</li>
+  <li>Contours to the child's body rather than the child being forced to conform to the immobilizer.</li>
+  <li>Reduces excessive motion.</li>
+  <li>Minimizes pressure points on the child's extremities.</li>
+  <li>Provides for clearance of tubes and lines.</li>
+  <li>Firmly contours to support the heas and neck as a unit.</li>
+</ol>
  
 Additional Characteristics:
 -	Recyclable                          
@@ -33,7 +45,7 @@ Additional Characteristics:
 - Friction-based Hold
 
 ## WHAT PARENTS ARE SAYING ABOUT THE PEDIATRIC POSITION HOLDER
-> “Months ago my baby had a VCUG the old way – the technician had to manually restrain my daughter during the procedure and it was very upsetting to watch. My baby hated it. I was so apprehensive when we returned for our follow-up examination. This time the thecnologist use The "Q" Pediatric Position Holder. It was so much better for my baby and much less stressful for me as a parent. It made the procedure easier for everyone!”  
+> “Months ago my baby had a VCUG the old way – the technician had to manually restrain my daughter during the procedure and it was very upsetting to watch. My baby hated it. I was so apprehensive when we returned for our follow-up examination. This time the technologist used The "Q" Pediatric Position Holder. It was so much better for my baby and much less stressful for me as a parent. It made the procedure easier for everyone!”  
 
 ~	Mom of 6 month old infant, Lubbock, TX
 
@@ -62,11 +74,11 @@ Additional Characteristics:
 ---
 
 ## IMMOBILIZERS
-Currently, there is no uniform standard agreement on how children should be temporarily held immobile for various medical procedures. Instead, there are a variety of solutions and methods for holding a child motionless during a medical procedure, including blankets, sheets, pillowcases, towels, medical tape, ace bandages, manual physical force and procedural sedation.
+Currently, there is no uniform standard agreement on how children should be temporarily held immobile for various medical procedures. Instead, there are a variety of solutions and methods for holding a child motionless during a medical procedure, including blankets, sheets, "burrito-ing", pillowcases, towels, medical tape, ace bandages, manual physical force and procedural sedation.
 
-Unfortunately, these solutions and methods are used inconsistently and can often be ineffective and difficult to implement. The Pediatric Position Holder ends the practice of physically overpowering the child to gain control and render the child motionless. The Pediatric Position Holder is available by prescription only, used in a highly monitored setting under the care of a certified health care provider and is removed immediately after the procedure. The holding time is limited in duration to support a specific position and is not considered restraint intervention by the American Academy of Pediatrics.
+Unfortunately, these solutions and methods are used inconsistently and can often be ineffective and difficult to implement. The Pediatric Position Holder ends the practice of physically overpowering the child to gain control to render the child motionless. The Pediatric Position Holder is available by prescription only, used in a highly monitored setting under the care of a certified health care provider and is removed immediately after the procedure. The holding time is limited in duration to support a specific position and is not considered restraint intervention by the American Academy of Pediatrics.
 
-The methodology designed into **The "Q" Pediatric Position Holder** (immobilizer) places the child in a warm, cushioned and open device for radiologic procedures where the lines, tubes, and catheters are easily accessible. Our “Open device” is intended to allow the chest and abdomen or entire torso remains unrestrained allowing for better respiration. Examples of procedures where access to the perineum and pelvis of the child are required include the voiding cysto-urethrogram (bladder and kidney) studies and contrast colon studies.
+The methodology designed into **The "Q" Pediatric Position Holder** (immobilizer) places the child in a warm, cushioned and open device for radiologic procedures where the lines, tubes, and catheters are easily accessible. Our “Open device” is intended to allow the chest and abdomen or entire torso remain unrestrained allowing for better respiration. Examples of procedures where access to the perineum and pelvis of the child are required include the voiding cysto-urethrogram studies and contrast colon studies.
 
 The "Q" Pediatric Position Holder (immobilizer) is a multifunctional solution to provide immobilization for the following procedures, including:
 
@@ -87,7 +99,7 @@ The "Q" Pediatric Position Holder (immobilizer) is a multifunctional solution to
 ---
 
 ## REDUCED RADIATION EXPOSURE
-The opportunity to reduce radiation exposure is a critical issue within pediatric radiology and is an exceptional benefit provided by  **The "Q" Pediatric Position Holder** (immobilizer). The Image Gently Alliance (associated with the Society for Pediatric Radiology) intends to raise awareness about methods to reduce radiation dose during pediatric imaging procedures.
+The opportunity to reduce radiation exposure is a critical issue within pediatric radiology and is an exceptional benefit provided by  **The "Q" Pediatric Position Holder** (immobilizer).
 
 The Alliance states:
 
@@ -104,8 +116,8 @@ The Alliance states:
 
 ##  PATIENT COMFORT AND SAFETY
 - Improved respiration due to lack of straps or restrictions across chest and abdomen
-- Respiration and circulation easily monitored during procedure
-- Padded head and neck support prevents patient head from contacting the X-Ray table
+- Respiration and peripheral circulation easily monitored during procedure
+- Padded head and neck support prevents child's head from contacting the X-Ray table
 - Can be placed in a blanket warmer prior to use
 - Open design allows medical staff to easily access any and all tubes and lines
 - Soothing when used to stabilize and hold securely motionless children with special needs
