@@ -18,7 +18,7 @@ The "Q" Pediatric Position Holder (immobilizer) utilizes friction so there are n
  
 The holder is intended to compliment and not replace the practice of the child life specialist.
 
-The new CONTOURED ERGONOMIC designis a pure POSITIONING INNOVATION which:
+The new CONTOURED ERGONOMIC design is a pure POSITIONING INNOVATION which:
 
 <ol type="a">
   <li>Reduces excessive force on childs extremities.</li>
