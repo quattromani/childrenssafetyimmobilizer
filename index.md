@@ -46,7 +46,7 @@ Additional Characteristics:
 
 ## WHAT PARENTS ARE SAYING ABOUT THE PEDIATRIC POSITION HOLDER
 
-![Mother & Child Pediatric Position Holder & Immobilizer](/images/IMG_1970.jpg)
+<img src="/images/IMG_1970.jpg" alt="Mother & Child Pediatric Position Holder & Immobilizer" title="Mother & Child" width="500"  />
 
 > “Months ago my baby had a VCUG the old way – the technician had to manually restrain my daughter during the procedure and it was very upsetting to watch. My baby hated it. I was so apprehensive when we returned for our follow-up examination. This time the technologist used The "Q" Pediatric Position Holder. It was so much better for my baby and much less stressful for me as a parent. It made the procedure easier for everyone!”  
 
