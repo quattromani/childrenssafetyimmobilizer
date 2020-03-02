@@ -125,3 +125,6 @@ The Alliance states:
 - Soothing when used to stabilize and hold securely motionless children with special needs
 
 ![Pediatric Position Holder & Immobilizer](/images/IMG_8546.jpg)
+
+---
+<small>&copy; Copyright {{currentYear}}, SJMJC, LLC.</small>
