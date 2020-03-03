@@ -15,7 +15,7 @@
 The "Q" Pediatric Position Holder (immobilizer) keeps the arms and legs out away from the chest and abdomen so the child’s neurovascular, cardiovascular and respirations can be easily monitored during the procedures. Respirations are not obstructed because the chest amd abdomen are not covered.
 
 The "Q" Pediatric Position Holder (immobilizer) utilizes friction so there are no belts or straps. The "Q" Pediatric Position Holder (immobilizer) is made from one single piece of soft ½ inch thick polyester foam. The soft foam is gentler on the child’s extremities than the strong hands of the health care providers.
- 
+
 The holder is intended to compliment and not replace the practice of the child life specialist.
 
 The new CONTOURED ERGONOMIC design is a pure POSITIONING INNOVATION which:
@@ -28,9 +28,9 @@ The new CONTOURED ERGONOMIC design is a pure POSITIONING INNOVATION which:
   <li>Provides for clearance of tubes and lines.</li>
   <li>Firmly contours to support the heas and neck as a unit.</li>
 </ol>
- 
+
 Additional Characteristics:
--	Recyclable                          
+-	Recyclable
 -	100% polyester
 -	Latex-free
 -	Rx only
@@ -47,7 +47,7 @@ Additional Characteristics:
 ## WHAT PARENTS ARE SAYING ABOUT THE PEDIATRIC POSITION HOLDER
 ![Mother & Child - Pediatric Position Holder & Immobilizer](/images/IMG_1970.jpg)
 
-> “Months ago my baby had a VCUG the old way – the technician had to manually restrain my daughter during the procedure and it was very upsetting to watch. My baby hated it. I was so apprehensive when we returned for our follow-up examination. This time the technologist used The "Q" Pediatric Position Holder. It was so much better for my baby and much less stressful for me as a parent. It made the procedure easier for everyone!”  
+> “Months ago my baby had a VCUG the old way – the technician had to manually restrain my daughter during the procedure and it was very upsetting to watch. My baby hated it. I was so apprehensive when we returned for our follow-up examination. This time the technologist used The "Q" Pediatric Position Holder. It was so much better for my baby and much less stressful for me as a parent. It made the procedure easier for everyone!”
 
 ~	Mom of 6 month old infant, Lubbock, TX
 
@@ -113,7 +113,7 @@ The Alliance states:
 
 ![Pediatric Position Holder & Immobilizer](/images/IMG_1641.jpg)
 ![Pediatric Position Holder & Immobilizer](/images/IMG_1672.jpg)
-![Pediatric Position Holder & Immobilizer](/images/A82C3814-EC4F-456B-9FCA-E3D7A93AAC0E.jpeg)
+![Pediatric Position Holder & Immobilizer](/images/my-first-new-years.jpg)
 ![Pediatric Position Holder & Immobilizer](/images/IMG_1999.jpg)
 
 ##  PATIENT COMFORT AND SAFETY
