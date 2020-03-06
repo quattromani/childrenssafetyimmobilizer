@@ -132,6 +132,6 @@ The opportunity to reduce radiation exposure is a critical issue within pediatri
 
 [1] Infant immobilization and pediatric papooses: We've come a long way. Journal of Emergency Nursing Oct. 2007
 
-[2] https://www.channel3000.com/university-of-wisconsin-child-abuse-doctor-leaves-a-trail-of-accusations-of-bullying-from-colleagues-parents/
+[2] [UW Doctor Leaves a Trail of Accusations of Bullying from Colleagues and Parents](https://www.channel3000.com/university-of-wisconsin-child-abuse-doctor-leaves-a-trail-of-accusations-of-bullying-from-colleagues-parents/)
 
 <small>&copy; Copyright {{currentYear}}, SJMJC, LLC.</small>
