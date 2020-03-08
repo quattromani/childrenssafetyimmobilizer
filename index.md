@@ -1,3 +1,7 @@
+## Why is it called the "Q"?
+
+**The "Q" Pediatric Position Holder** was created by Dr. Frank Quattromani (a.k.a. "Dr. Q"), a board certified pediatric radiologist.
+
 # THE PEDIATRIC POSITION HOLDER
 
 ### **The "Q" Pediatric Position Holder** (immobilizer) is a simple, durable or single-patient use, one-piece radiolucent child medical positioning aid which holds secure all four extremities individually in a comfortable foam wrap.
@@ -11,9 +15,12 @@ Currently, there is no uniform standard agreement on how children should be temp
 
 Unfortunately, these solutions and methods are used inconsistently and can often be ineffective and difficult to implement. The Pediatric Position Holder ends the practice of physically overpowering the child to gain control to render the child motionless. The Pediatric Position Holder is used in a highly monitored setting under the care of a certified health care provider and is removed immediately after the procedure. The holding time is limited in duration to support a specific position and is not considered restraint intervention by the American Academy of Pediatrics.
 
-## Why is it called the "Q" holder?
+---
 
-**The "Q" Pediatric Position Holder** was created by Dr. Frank Quattromani (a.k.a. "Dr. Q"), a board certified pediatric radiologist.
+## Design
+The methodology designed into **The "Q" Pediatric Position Holder** (immobilizer) places the child in a warm, cushioned and open device for radiologic procedures where the lines, tubes, and catheters are easily accessible. Our “Open device” is intended to allow the chest and abdomen or entire torso to remain unrestrained allowing for better respiration. Examples of procedures where access to the perineum and pelvis of the child are required include the voiding cysto-urethrogram studies and contrast colon studies.
+
+---
 
 ## How does it work?
 
@@ -25,6 +32,9 @@ The "Q" Pediatric Position Holder (immobilizer) utilizes friction so there are n
 
 The holder is intended to compliment and not replace the practice of the child life specialist.
 
+---
+
+## What are the Ergonomic features?
 The new CONTOURED ERGONOMIC design is a pure POSITIONING INNOVATION which:
 
 <ol type="a">
@@ -36,32 +46,9 @@ The new CONTOURED ERGONOMIC design is a pure POSITIONING INNOVATION which:
   <li>Firmly contours to support the head and neck as a unit.</li>
 </ol>
 
-Additional Characteristics:
--	Recyclable
--	100% polyester
--	Latex-free
--	Single patient use (NOT to be reprocessed or reused)
--	Non-sterile
--	CT, MRI and ultrasound safe
--	Hypoallergenic
--	Reduces motion artifacts for imaging
--	Gender neutral
--	Proudly made in the USA <i class="fas fa-flag-usa"></i>
-- Radiolucent to X-Ray
-- Friction-based Hold
-
-## What are parents saying about the Pediatric Position Holder?
-![Mother & Child - Pediatric Position Holder & Immobilizer](/images/IMG_1970.jpg)
-
-> “Months ago my baby had a VCUG the old way – the technician had to manually restrain my daughter during the procedure and it was very upsetting to watch. My baby hated it. I was so apprehensive when we returned for our follow-up examination. This time the technologist used The "Q" Pediatric Position Holder. It was so much better for my baby and much less stressful for me as a parent. It made the procedure easier for everyone!”
-
-~	Mom of 6 month old infant, Lubbock, TX
-
 ---
 
-## Design
-The methodology designed into **The "Q" Pediatric Position Holder** (immobilizer) places the child in a warm, cushioned and open device for radiologic procedures where the lines, tubes, and catheters are easily accessible. Our “Open device” is intended to allow the chest and abdomen or entire torso to remain unrestrained allowing for better respiration. Examples of procedures where access to the perineum and pelvis of the child are required include the voiding cysto-urethrogram studies and contrast colon studies.
-
+## How is it multifunctional?
 The "Q" Pediatric Position Holder (immobilizer) is a multifunctional solution to provide immobilization for the following procedures, including:
 
 -	Lancing abscesses
@@ -72,15 +59,17 @@ The "Q" Pediatric Position Holder (immobilizer) is a multifunctional solution to
 -	Performing ECGs, ultrasound and CT examinations
 -	And more
 
+---
+
 <video controls style="width: 100% !important; height: auto !important;">
   <source src="/images/IMG_7031.mp4" type="video/mp4">
   <source src="/images/IMG_7031.ogg" type="video/ogg">
-  Your browser does not support HTML5 video.
+   Your browser does not support HTML5 video.
 </video>
 
 ---
 
-## Reduced radiation exposure
+## How can it reduce Radiation?
 The opportunity to reduce radiation exposure is a critical issue within pediatric radiology and is an exceptional benefit provided by  **The "Q" Pediatric Position Holder** (immobilizer).
 
 > “Children require special attention when receiving care in the hospital environment. Medical imaging procedures can be lifesaving for children who are sick or injured, but children are more sensitive than adults to the radiation these procedures deliver.”
@@ -94,7 +83,9 @@ The opportunity to reduce radiation exposure is a critical issue within pediatri
 ![Pediatric Position Holder & Immobilizer](/images/my-first-new-years.jpg)
 ![Pediatric Position Holder & Immobilizer](/images/IMG_1999.jpg)
 
-##  Patient comfort and safety
+---
+
+##  Why is it more comfortable and safe?
 - Improved respiration due to lack of straps or restrictions across chest and abdomen
 - Respiration and peripheral circulation easily monitored during procedure
 - Padded head and neck support prevents child's head from contacting the X-Ray table
@@ -106,7 +97,32 @@ The opportunity to reduce radiation exposure is a critical issue within pediatri
 
 ---
 
-## Inventors
+## What sre some additional characteristics?
+-	Recyclable
+-	100% polyester
+-	Latex-free
+-	Single patient use (NOT to be reprocessed or reused)
+-	Non-sterile
+-	CT, MRI and ultrasound safe
+-	Hypoallergenic
+-	Reduces motion artifacts for imaging
+-	Gender neutral
+-	Proudly made in the USA <i class="fas fa-flag-usa"></i>
+- Radiolucent to X-Ray
+- Friction-based Hold
+
+---
+
+## What are parents saying about the device?
+![Mother & Child - Pediatric Position Holder & Immobilizer](/images/IMG_1970.jpg)
+
+> “Months ago my baby had a VCUG the old way – the technician had to manually restrain my daughter during the procedure and it was very upsetting to watch. My baby hated it. I was so apprehensive when we returned for our follow-up examination. This time the technologist used The "Q" Pediatric Position Holder. It was so much better for my baby and much less stressful for me as a parent. It made the procedure easier for everyone!”
+
+~	Mom of 6 month old infant, Lubbock, TX
+
+---
+
+## Who are the inventors?
 *Frank Louis Quattromani, MD, Pediatric Radiologist and Col. (ret.), US Army Medical Department*
 * University Medical Center, Lubbock, Texas
 * Clinical Professor of Pediatrics and Pathology, Texas Tech University School of Medicine, Lubbock, Texas
