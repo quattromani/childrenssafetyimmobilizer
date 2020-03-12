@@ -108,7 +108,8 @@ a) Material Characteristics
 -	Proudly made in the USA <i class="fas fa-flag-usa"></i>
 - Radiolucent to X-Ray
 - Friction-based Hold
-b) Physcological Characteristics
+
+b) Psychological Characteristics
 - Warm
 - Friendly
 - No ties, straps or holding
