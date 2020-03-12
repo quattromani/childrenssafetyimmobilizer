@@ -1,14 +1,9 @@
-For more information contact:
-SJMJC, L.L.C.
+## For more information contact:
 
-Phone: (806)778-2183 or (806)241-0373
+**SJMJC, L.L.C.**
 
-Email: f1quattromani@gmail.com
+**Phone:** <a href="tel:1-806-778-2183">(806)778-2183</a> or <a href="tel:1-241-778-0373">(806)241-0373</a>
 
-Website: PediatricPositionHolder.com
+**Email:** <f1quattromani@gmail.com>
 
-[1] Infant immobilization and pediatric papooses: We’ve come a long way. Journal of Emergency Nursing Oct. 2007
-
-[2] UW Doctor Leaves a Trail of Accusations of Bullying from Colleagues and Parents
-
-© Copyright , SJMJC, LLC.
+**Website:** [PediatricPositionHolder.com](https://pediatricpositionholder.com)
