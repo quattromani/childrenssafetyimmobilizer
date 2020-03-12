@@ -145,7 +145,7 @@ b) Psychological Characteristics
 
 ---
 
-## 12) For more information contactus at:
+## 12) For more information contact us at:
 
 **SJMJC, L.L.C.**
 
