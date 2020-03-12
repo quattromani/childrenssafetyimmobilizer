@@ -1,5 +1,3 @@
-<h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-
 ## 1) Introduction
 
 The Pediatric Position Holder is a revolutionary new pediatric child friendly, single patient use immobilizer which is effective, safe, simple and versatile. The Pediatric Position Holder is a new emerging medical technology for children that standardizes the process of immobilization. The holder offers consistency across all modes of care for the infant and child. Our 1/2" thick, soft polyester foam holder has no extraneous straps, boards, or hook & loop attachments. Our hope is that we can lessen the anxiety, fear, and distress that are common responses during imaging and other medical procedures.<sup>[1]</sup>
