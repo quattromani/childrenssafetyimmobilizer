@@ -90,6 +90,7 @@ The opportunity to reduce radiation exposure is a critical issue within pediatri
 - Open design allows medical staff to easily access any and all tubes and lines
 - Soothing when used to stabilize and hold securely motionless children with special needs
 
+![Pediatric Position Holder & Immobilizer](/images/IMG_2130-min.jpg)
 ![Pediatric Position Holder & Immobilizer](/images/IMG_8546.jpg)
 
 ---
