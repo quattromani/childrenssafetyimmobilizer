@@ -1,4 +1,4 @@
-# Pediatric Position Holder
+<h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
 
 ## 1) Introduction
 
