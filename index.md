@@ -2,9 +2,6 @@
 
 The Pediatric Position Holder is a revolutionary new pediatric child friendly, single patient use immobilizer which is effective, safe, simple and versatile. The Pediatric Position Holder is a new emerging medical technology for children that standardizes the process of immobilization. The holder offers consistency across all modes of care for the infant and child. Our 1/2" thick, soft polyester foam holder has no extraneous straps, boards, or hook & loop attachments. Our hope is that we can lessen the anxiety, fear, and distress that are common responses during imaging and other medical procedures.<sup>[1]</sup>
 
----
-
-## Immobilizers
 Currently, there is no uniform standard agreement on how children should be temporarily held immobile for various medical procedures. Instead, there are a variety of solutions and methods for holding a child motionless during a medical procedure, including blankets, sheets, "burrito-ing", pillowcases, towels, medical tape, ace bandages, manual physical force and procedural sedation.
 
 Unfortunately, these solutions and methods are used inconsistently and can often be ineffective and difficult to implement. The Pediatric Position Holder ends the practice of physically overpowering the child to gain control to render the child motionless. The Pediatric Position Holder is used in a highly monitored setting under the care of a certified health care provider and is removed immediately after the procedure. The holding time is limited in duration to support a specific position and is not considered restraint intervention by the American Academy of Pediatrics.
