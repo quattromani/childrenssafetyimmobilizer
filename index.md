@@ -95,7 +95,12 @@ The opportunity to reduce radiation exposure is a critical issue within pediatri
 - Soothing when used to stabilize and hold securely motionless children with special needs
 
 ![Pediatric Position Holder & Immobilizer](/images/IMG_2130-min.jpg)
-![Pediatric Position Holder & Immobilizer](/images/IMG_8546.jpg)
+![Pediatric Position Holder & Immobilizer](/images/IMG_1778-min_832x.jpg)
+![Pediatric Position Holder & Immobilizer](/images/IMG_1977-min_832x.jpg)
+![Pediatric Position Holder & Immobilizer](/images/IMG_1980-min_832x.jpg)
+![Pediatric Position Holder & Immobilizer](/images/IMG_2063-min_832x.jpg)
+![Pediatric Position Holder & Immobilizer](/images/IMG_2081-min_832x.jpg)
+![Pediatric Position Holder & Immobilizer](/images/IMG_2127.jpg)
 
 ---
 
