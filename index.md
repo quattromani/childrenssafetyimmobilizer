@@ -100,7 +100,7 @@ The opportunity to reduce radiation exposure is a critical issue within pediatri
 ![Pediatric Position Holder & Immobilizer](/images/IMG_1980-min_832x.jpg)
 ![Pediatric Position Holder & Immobilizer](/images/IMG_2063-min_832x.jpg)
 ![Pediatric Position Holder & Immobilizer](/images/IMG_2081-min_832x.jpg)
-![Pediatric Position Holder & Immobilizer](/images/IMG_2127.jpg)
+![Pediatric Position Holder & Immobilizer](/images/IMG_2127-min_832x.jpg)
 
 ---
 
