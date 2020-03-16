@@ -2,7 +2,7 @@
 title: The "Q"
 ---
 
-## 1) Introduction
+## Introduction
 
 The Pediatric Position Holder is a revolutionary new pediatric child friendly, single patient use immobilizer which is effective, safe, simple and versatile. The Pediatric Position Holder is a new emerging medical technology for children that standardizes the process of immobilization. The holder offers consistency across all modes of care for the infant and child. Our 1/2" thick, soft polyester foam holder has no extraneous straps, boards, or hook & loop attachments. Our hope is that we can lessen the anxiety, fear, and distress that are common responses during imaging and other medical procedures.<sup>[1]</sup>
 
@@ -12,20 +12,20 @@ Unfortunately, these solutions and methods are used inconsistently and can often
 
 ---
 
-## 2) Why is it called the "Q"?
+## Why is it called the "Q"?
 The “Q” Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “Dr. Q”), a board certified pediatric radiologist.
 
 ![Pediatric Position Holder & Immobilizer](/images/hero-min.png)
 
 ---
 
-## 3) Why this design?
+## Why this design?
 
 Our positioner allows us to "hold without handling.” The methodology designed into **The "Q" Pediatric Position Holder** (immobilizer) places the child in a warm, cushioned and open device for medical procedures where the lines, tubes, and catheters are easily accessible. Our “Open device” is intended to allow the chest and abdomen or entire torso to remain unrestrained allowing for better respiration. Examples of procedures where access to the perineum and pelvis of the child are required include the voiding cysto-urethrogram studies and contrast colon studies.
 
 ---
 
-## 4) How does it work?
+## How does it work?
 
 **The "Q" Pediatric Position Holder** is designed for children weighing up to approx. 30 lbs.
 
@@ -37,7 +37,7 @@ The holder is intended to compliment and not replace the practice of the child l
 
 ---
 
-## 5) What are the ergonomic features?
+## What are the ergonomic features?
 The new CONTOURED ERGONOMIC design is a pure POSITIONING INNOVATION which:
 
 <ol type="a">
@@ -51,7 +51,7 @@ The new CONTOURED ERGONOMIC design is a pure POSITIONING INNOVATION which:
 
 ---
 
-## 6) How is it multifunctional?
+## How is it multifunctional?
 The "Q" Pediatric Position Holder (immobilizer) is a multifunctional solution to provide immobilization for the following procedures, including:
 
 -	Lancing abscesses
@@ -72,7 +72,7 @@ The "Q" Pediatric Position Holder (immobilizer) is a multifunctional solution to
 
 ---
 
-## 7) How can it reduce Radiation?
+## How can it reduce Radiation?
 The opportunity to reduce radiation exposure is a critical issue within pediatric radiology and is an exceptional benefit provided by  **The "Q" Pediatric Position Holder** (immobilizer).
 
 > “Children require special attention when receiving care in the hospital environment. Medical imaging procedures can be lifesaving for children who are sick or injured, but children are more sensitive than adults to the radiation these procedures deliver.”
@@ -86,7 +86,7 @@ The opportunity to reduce radiation exposure is a critical issue within pediatri
 
 ---
 
-## 8) Why is it more comfortable and safe?
+## Why is it more comfortable and safe?
 - Improved respiration due to lack of straps or restrictions across chest and abdomen
 - Respiration and peripheral circulation easily monitored during procedure
 - Padded head and neck support prevents child's head from contacting the hard X-Ray table
@@ -104,7 +104,7 @@ The opportunity to reduce radiation exposure is a critical issue within pediatri
 
 ---
 
-## 9) What are some additional characteristics?
+## What are some additional characteristics?
 a) Material Characteristics
 -	Recyclable
 -	100% polyester
@@ -128,7 +128,7 @@ b) Psychological Characteristics
 
 ---
 
-## 10) What are parents saying about the device?
+## What are parents saying about the device?
 ![Mother & Child - Pediatric Position Holder & Immobilizer](/images/IMG_1970.jpg)
 
 > “Months ago my baby had a VCUG the old way – the technician had to manually restrain my daughter during the procedure and it was very upsetting to watch. My baby hated it. I was so apprehensive when we returned for our follow-up examination. This time the technologist used The "Q" Pediatric Position Holder. It was so much better for my baby and much less stressful for me as a parent. It made the procedure easier for everyone!”
@@ -137,7 +137,7 @@ b) Psychological Characteristics
 
 ---
 
-## 11) Who are the inventors?
+## Who are the inventors?
 *Frank Louis Quattromani, MD, Pediatric Radiologist*
 * University Medical Center, Lubbock, Texas
 * Clinical Professor of Pediatrics and Pathology, Texas Tech University School of Medicine, Lubbock, Texas
@@ -150,7 +150,7 @@ b) Psychological Characteristics
 
 ---
 
-## 12) For more information contact us at:
+## For more information contact us at:
 
 **SJMJC, L.L.C.**
 
@@ -167,5 +167,5 @@ b) Psychological Characteristics
 [2] [UW Doctor Leaves a Trail of Accusations of Bullying from Colleagues and Parents](https://www.channel3000.com/university-of-wisconsin-child-abuse-doctor-leaves-a-trail-of-accusations-of-bullying-from-colleagues-parents/)
     Dee J. Hall (https://www.channel3000.com/author/dee-J-hall/) February 29, 2020 
     
-<small>&copy; Copyright {{currentYear}}, SJMJC, LLC.</small>
+&copy; Copyright {{currentYear}}, SJMJC, LLC.
 
