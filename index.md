@@ -18,13 +18,15 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 
 The Q is for single-patient use only to ensure compliance with infection prevention requirements and protocols.
 
-![Pediatric Position Holder & Immobilizer](/images/hero-min.png)
+![Getting comfortable and playing with The Q before procedure - Pediatric Position Holder & Immobilizer](/images/hero-min.png)
 
 ---
 
 ## Design
 
 The design keeps the arms and legs away form the chest and abdomen leaving the chest "open" for better respirations.
+
+![Chest and abdomen free for respirations - Pediatric Position Holder & Immobilizer](/images/IMG_1778-min_832x.jpg)
 
 Our positioner allows us to "hold without handling.” The methodology designed into The Q pediatric position holder places the child in a warm, cushioned and open design for medical procedures where the lines, tubes, and catheters are easily accessible. Our “Open design” is intended to allow the chest and abdomen or entire torso to remain unrestrained allowing for better respiration. The Q is intended to compliment and not replace the child life specialist.
 
@@ -84,7 +86,6 @@ The Q assists children to remain montionless for diagnostic X-Rays, thus fewer e
 
 ---
 
-![Pediatric Position Holder & Immobilizer](/images/IMG_1778-min_832x.jpg)
 ![Pediatric Position Holder & Immobilizer](/images/IMG_1977-min_832x.jpg)
 ![Pediatric Position Holder & Immobilizer](/images/IMG_1980-min_832x.jpg)
 ![Pediatric Position Holder & Immobilizer](/images/IMG_2063-min_832x.jpg)
