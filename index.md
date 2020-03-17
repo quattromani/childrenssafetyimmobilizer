@@ -12,17 +12,17 @@ Unfortunately, current solutions and methods are used inconsistently and can oft
 
 ---
 
-The “Q” Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “Dr. Q”), a board certified pediatric radiologist.
+The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “Dr. Q”), a board certified pediatric radiologist.
 
-The Q is for single-patient use only to ensure compliance with tinfection prevention requirements and protocols.
+The Q is for single-patient use only to ensure compliance with infection prevention requirements and protocols.
 
 ![Pediatric Position Holder & Immobilizer](/images/hero-min.png)
 
 ---
 
-The design keeps the arms and legs away form the chest and abdomen leaving the chest open for better respirations.
+The design keeps the arms and legs away form the chest and abdomen leaving the chest "open" for better respirations.
 
-Our positioner allows us to "hold without handling.” The methodology designed into The Q holder places the child in a warm, cushioned and open design for medical procedures where the lines, tubes, and catheters are easily accessible. Our “Open design” is intended to allow the chest and abdomen or entire torso to remain unrestrained allowing for better respiration. The Q is intrended to compliment and not replace the child life specialist.
+Our positioner allows us to "hold without handling.” The methodology designed into The Q pediatric position holder places the child in a warm, cushioned and open design for medical procedures where the lines, tubes, and catheters are easily accessible. Our “Open design” is intended to allow the chest and abdomen or entire torso to remain unrestrained allowing for better respiration. The Q is intended to compliment and not replace the child life specialist.
 
 ---
 
@@ -30,7 +30,7 @@ The Q Pediatric Position Holder is designed for children weighing up to approx. 
 
 ---
 
-The new CONTOURED ERGONOMIC design is a pure POSITIONING INNOVATION which:
+The new contoured ergonomic design is a pure positioning innovation which:
 
 <ol type="a">
   <li>Reduces excessive force on the child's extremities.</li>
@@ -100,11 +100,11 @@ The Q assists children to remain montionless for diagnostic X-Rays, thus fewer e
 
 ---
 
-## Parents are positive about the Q
+## Parents are positive about The Q
 
 ![Mother & Child - Pediatric Position Holder & Immobilizer](/images/IMG_1970.jpg)
 
-> “Months ago my baby had a VCUG the old way – the technician had to manually restrain my daughter during the procedure and it was very upsetting to watch. My baby hated it. I was so apprehensive when we returned for our follow-up examination. This time the technologist used The "Q" Pediatric Position Holder. It was so much better for my baby and much less stressful for me as a parent. It made the procedure easier for everyone!”
+> “Months ago my baby had a VCUG the old way – the technician had to manually restrain my daughter during the procedure and it was very upsetting to watch. My baby hated it. I was so apprehensive when we returned for our follow-up examination. This time the technologist used The Q Pediatric Position Holder. It was so much better for my baby and much less stressful for me as a parent. It made the procedure easier for everyone!”
 
 ~	Mom of 6 month old infant, Lubbock, TX
 
@@ -131,11 +131,10 @@ The Q assists children to remain montionless for diagnostic X-Rays, thus fewer e
 
 **Email:** <f1quattromani@gmail.com>
 
-**Website:** [PediatricPositionHolder.com - The Q](https://pediatricpositionholder.com)
+**Website:** [The Q - PediatricPositionHolder.com](https://pediatricpositionholder.com)
 
 ---
 
 [1] Infant immobilization and pediatric papooses: We've come a long way. Journal of Emergency Nursing Oct. 2007; 33:451-5
     
 &copy; Copyright {{currentYear}}, SJMJC, LLC.
-
