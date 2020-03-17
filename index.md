@@ -12,6 +12,8 @@ Unfortunately, current solutions and methods are used inconsistently and can oft
 
 ---
 
+## Why we call it The Q
+
 The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “Dr. Q”), a board certified pediatric radiologist.
 
 The Q is for single-patient use only to ensure compliance with infection prevention requirements and protocols.
@@ -20,15 +22,15 @@ The Q is for single-patient use only to ensure compliance with infection prevent
 
 ---
 
+## Design
+
 The design keeps the arms and legs away form the chest and abdomen leaving the chest "open" for better respirations.
 
 Our positioner allows us to "hold without handling.” The methodology designed into The Q pediatric position holder places the child in a warm, cushioned and open design for medical procedures where the lines, tubes, and catheters are easily accessible. Our “Open design” is intended to allow the chest and abdomen or entire torso to remain unrestrained allowing for better respiration. The Q is intended to compliment and not replace the child life specialist.
 
 ---
 
-The Q Pediatric Position Holder is designed for children weighing up to approx. 30 lbs.
-
----
+## The ergonomic features
 
 The new contoured ergonomic design is a pure positioning innovation which:
 
@@ -42,6 +44,8 @@ The new contoured ergonomic design is a pure positioning innovation which:
 </ol>
 
 ---
+
+## It's multifunctional
 
 The Q Pediatric Position Holder is a multifunctional solution to hold the child immobile for the following procedures, including:
 
@@ -63,7 +67,11 @@ The Q Pediatric Position Holder is a multifunctional solution to hold the child 
 
 ---
 
+## Radiation reduction
+
 The opportunity to reduce radiation exposure is a critical issue within pediatric radiology and is an exceptional benefit provided by The Q Holder.
+
+The Q Pediatric Position Holder is designed for children weighing up to approx. 30 lbs.
 
 The Q assists children to remain montionless for diagnostic X-Rays, thus fewer exposures could mean less radiation. The Q allows the radiologic technologists to remain further from the primary and scatter radiation.
 
@@ -84,6 +92,8 @@ The Q assists children to remain montionless for diagnostic X-Rays, thus fewer e
 ![Pediatric Position Holder & Immobilizer](/images/IMG_2127-min_832x.jpg)
 
 ---
+
+## Additional features and characteristics
 
 -	100% polyester
 -	Latex-free
