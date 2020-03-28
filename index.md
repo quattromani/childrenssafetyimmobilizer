@@ -147,8 +147,6 @@ The Q assists children to remain montionless for diagnostic X-Rays, thus fewer e
 
 The Q is for single-patient use only to ensure compliance with infection prevention requirements and protocols.
 
----
-
 | ![Pediatric Position Holder & Immobilizer](/images/IMG_2127-min_832x.jpg)| 
 |:--:| 
 | *The Q is a better and easier experience on both child and parent* |
