@@ -25,14 +25,9 @@ Today it is commonplace to tie-down, tape down, or hold down.
 
 Unfortunately, current solutions and methods are used inconsistently and can often be ineffective and difficult to implement. The Q Holder ends the practice of physically overpowering the child to gain control and render the child motionless. The Pediatric Position Holder is used in a highly monitored setting under the care of a certified health care provider and is removed immediately after the procedure. The holding time is limited in duration to support a specific position and is not considered restraint intervention by the American Academy of Pediatrics.
 
-| ![Pediatric Position Holder & Immobilizer](/images/IMG_2141-min_832x.jpg) | 
-|:--:| 
-| *Pillow case and ace bandage on hard board* |
-
-
-| ![Pediatric Position Holder & Immobilizer](/images/IMG_2142-min_832x.jpg) | 
-|:--:| 
-| *Sheets and ace bandages.* |
+| ![Pediatric Position Holder & Immobilizer](/images/IMG_2141-min_832x.jpg) | ![Pediatric Position Holder & Immobilizer](/images/IMG_2142-min_832x.jpg) | 
+|:--:|:--:|
+| *Pillow case and ace bandage on hard board* | *Sheets and ace bandages.* |
 
 ---
 
