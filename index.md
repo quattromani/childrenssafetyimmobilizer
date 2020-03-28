@@ -7,7 +7,9 @@ The Q Pediatric Position Holder is a revolutionary new pediatric child friendly,
 | ![Young Female Pediatric Patient holding The Q Position Holder & Immobilizer](/images/IMG_2130-min_832x.jpg) | 
 |:--:| 
 | *When utilizing a play-based approach, our holder can be considerably less stressful* |
+
 <br>
+
 | ![Getting comfortable and playing with The Q before procedure - Pediatric Position Holder & Immobilizer](/images/hero-min.png) | 
 |:--:| 
 | *Therapeutic play allows the child to express anxiety and fear* |
@@ -41,7 +43,9 @@ The Q Pediatric Position Holder is a multifunctional solution to hold the child 
 | ![Chest and abdomen free for respirations - Pediatric Position Holder & Immobilizer](/images/IMG_1778-min_832x.jpg) | 
 |:--:| 
 | *When fully deployed, our Q holder leaves the chest and abdomen free for unrestricted respirations* |
+
 <br>
+
 | ![Pediatric Position Holder & Immobilizer](/images/IMG_1999.jpg) | 
 |:--:| 
 | *The Q does not interefer with tubes and lines* |
@@ -63,13 +67,19 @@ The Q Pediatric Position Holder is a multifunctional solution to hold the child 
 - Friction-based Hold
 
 | ![Pediatric Position Holder & Immobilizer](/images/my-first-new-years.jpg) | 
+
 <br>
+
 | ![Pediatric Position Holder & Immobilizer](/images/IMG_1977-min_832x.jpg) |  ![Pediatric Position Holder & Immobilizer](/images/IMG_1980-min_832x.jpg) | 
+
 <br>
+
 | ![Pediatric Position Holder & Immobilizer](/images/IMG_2081-min_832x.jpg) | 
 |:--:| 
 | *Help the child focus somewhere else* |
+
 <br>
+
 | ![Pediatric Position Holder & Immobilizer](/images/IMG_2144-min_832x.jpg) |
 
 Our positioner allows us to "hold without handling.” The methodology designed into The Q pediatric position holder places the child in a warm, cushioned and open design for medical procedures where the lines, tubes, and catheters are easily accessible. The Q is intended to compliment and not replace the child life specialist.
@@ -102,7 +112,9 @@ The design keeps the arms and legs away form the chest and abdomen leaving the c
 | ![Pediatric Position Holder & Immobilizer](/images/IMG_2143-min_832x.jpg)| 
 |:--:| 
 | *Appropriate positioning improves the experience for the child and parent* |
+
 <br>
+
 <video controls style="width: 100% !important; height: auto !important;" title="Infant child playing with The Q pediatric position holder and immobilizer before procedure">
   <source src="/images/IMG_7031.mp4" type="video/mp4">
   <source src="/images/IMG_7031.ogg" type="video/ogg">
