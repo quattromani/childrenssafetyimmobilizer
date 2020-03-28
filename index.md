@@ -2,7 +2,7 @@
 title: The "Q"
 ---
 
-The Q Pediatric Position Holder is a revolutionary new pediatric child friendly, single patient use immobilizer which is effective, safe, simple and versatile. The Q Position Holder is a new emerging medical technology for children that standardizes the process of immobilization. The Q holder offers consistency across all modes of care for the infant and child. Our 1/2" thick, soft polyester foam holder has no extraneous straps, boards, or hook & loop attachments. Our hope is that we can lessen the anxiety, fear, and distress which are ways that children respond essentially, there is no tie down, tape or hold down during imaging and other medical procedures.<sup>[1]</sup>
+The Q Pediatric Position Holder is a revolutionary new pediatric child friendly, single patient use immobilizer which is effective, safe, simple and versatile. The Q Position Holder is a new emerging medical technology for children that standardizes the process of immobilization. The Q holder offers consistency across all modes of care for the infant and child. Our 1/2" thick, soft polyester foam holder has no extraneous straps, boards, or hook & loop attachments. Our hope is that we can lessen the anxiety, fear, and distress which are ways that children respond to medical procedures.<sup>[1]</sup>
 
 | ![Young Female Pediatric Patient holding The Q Position Holder & Immobilizer](/images/IMG_2130-min_832x.jpg) | 
 |:--:| 
