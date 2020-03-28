@@ -8,12 +8,11 @@ The Q Pediatric Position Holder is a revolutionary new pediatric child friendly,
 |:--:| 
 | *When utilizing a play-based approach, our holder can be considerably less stressful* |
 
+<br>
 
 | ![Getting comfortable and playing with The Q before procedure - Pediatric Position Holder & Immobilizer](/images/hero-min.png) | 
 |:--:| 
 | *Therapeutic play allows the child to express anxiety and fear* |
-
----
 
 ## Why we call it The Q
 
@@ -29,8 +28,6 @@ Unfortunately, current solutions and methods are used inconsistently and can oft
 |:--:|:--:|
 | *Pillow case and ace bandage on hard board* | *Sheets and ace bandages.* |
 
----
-
 ## Our Pediatric Position Holder is multifunctional
 
 The Q Pediatric Position Holder is a multifunctional solution to hold the child immobile for the following procedures, including:
@@ -43,18 +40,16 @@ The Q Pediatric Position Holder is a multifunctional solution to hold the child 
 -	Performing ECGs, ultrasound and CT examinations
 -	And more
 
----
-
 | ![Chest and abdomen free for respirations - Pediatric Position Holder & Immobilizer](/images/IMG_1778-min_832x.jpg) | 
 |:--:| 
 | *When fully deployed, our Q holder leaves the chest and abdomen free for unrestricted respirations* |
 
+<br>
 
 | ![Pediatric Position Holder & Immobilizer](/images/IMG_1999.jpg) | 
 |:--:| 
 | *The Q does not interefer with tubes and lines* |
 
----
 
 ## Additional features and characteristics
 
@@ -73,15 +68,17 @@ The Q Pediatric Position Holder is a multifunctional solution to hold the child 
 
 | ![Pediatric Position Holder & Immobilizer](/images/my-first-new-years.jpg) | 
 
----
+<br>
 
 | ![Pediatric Position Holder & Immobilizer](/images/IMG_1977-min_832x.jpg) |  ![Pediatric Position Holder & Immobilizer](/images/IMG_1980-min_832x.jpg) | 
 
+<br>
 
 | ![Pediatric Position Holder & Immobilizer](/images/IMG_2081-min_832x.jpg) | 
 |:--:| 
 | *Help the child focus somewhere else* |
 
+<br>
 
 | ![Pediatric Position Holder & Immobilizer](/images/IMG_2144-min_832x.jpg) |
 
@@ -112,13 +109,11 @@ The new contoured ergonomic design is a pure positioning innovation which:
 
 The design keeps the arms and legs away form the chest and abdomen leaving the chest "open" for better respirations.
 
----
-
 | ![Pediatric Position Holder & Immobilizer](/images/IMG_2143-min_832x.jpg)| 
 |:--:| 
 | *Appropriate positioning improves the experience for the child and parent* |
 
----
+<br>
 
 <video controls style="width: 100% !important; height: auto !important;" title="Infant child playing with The Q pediatric position holder and immobilizer before procedure">
   <source src="/images/IMG_7031.mp4" type="video/mp4">
@@ -150,8 +145,6 @@ The Q assists children to remain montionless for diagnostic X-Rays, thus fewer e
 |:--:| 
 | *Involving the parent calms the child* |
 
----
-
 The Q is for single-patient use only to ensure compliance with infection prevention requirements and protocols.
 
 ---
@@ -159,11 +152,6 @@ The Q is for single-patient use only to ensure compliance with infection prevent
 | ![Pediatric Position Holder & Immobilizer](/images/IMG_2127-min_832x.jpg)| 
 |:--:| 
 | *The Q is a better and easier experience on both child and parent* |
-
----
-
-
----
 
 ## Creators
 *Frank Louis Quattromani, MD, Pediatric Radiologist*
