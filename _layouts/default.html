@@ -24,7 +24,10 @@
 
     <header class="page-header" role="banner">
       <img src="/images/{{ site.logo }}" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" width="250" />
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+      <h1 class="project-name">
+        {{ site.name }}
+        {{ site.title | default: site.github.repository_name }}
+      </h1>
     </header>
 
     <main id="content" class="main-content" role="main">
