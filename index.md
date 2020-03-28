@@ -77,7 +77,6 @@ The Q Pediatric Position Holder is a multifunctional solution to hold the child 
 
 | ![Pediatric Position Holder & Immobilizer](/images/my-first-new-years.jpg) | 
 |:--:| 
-| ** |
 
 ---
 
