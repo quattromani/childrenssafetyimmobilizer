@@ -2,43 +2,45 @@
 title: The "Q"
 ---
 
-The Q Pediatric Position Holder is a revolutionary new pediatric child friendly, single patient use immobilizer which is effective, safe, simple and versatile. The Q Position Holder is a new emerging medical technology for children that standardizes the process of immobilization. The Q holder offers consistency across all modes of care for the infant and child. Our 1/2" thick, soft polyester foam holder has no extraneous straps, boards, or hook & loop attachments. Our hope is that we can lessen the anxiety, fear, and distress which are ways that children respond to medical procedures.<sup>[1]</sup>
+The Q Pediatric Position Holder is a revolutionary new pediatric child friendly, single patient use immobilizer which is effective, safe, simple and versatile. The Q Position Holder is an emerging medical technology for children that standardizes the process of immobilization. The Q holder offers consistency across all modes of care for the infant and child. Our 1/2" thick, soft polyester foam holder has no extraneous straps, boards, or hook & loop attachments. Our hope is that we can lessen the anxiety, fear, and distress which are ways that children respond to medical procedures.<sup>[1]</sup>
+
+- The Q Holder is used for hsort periods in highly monitored settings
 
 | ![Young Female Pediatric Patient holding The Q Position Holder & Immobilizer](/images/IMG_2130-min_832x.jpg) | 
 |:--:| 
-| *When utilizing a play-based approach, our holder can be considerably less stressful* |
+| *Therapeutic play allows the child to express anxiety and fear. The colorful Q holder allows for medical play and helps the child to focus on the artwork.* |
 
 <br>
 
 | ![Getting comfortable and playing with The Q before procedure - Pediatric Position Holder & Immobilizer](/images/hero-min.png) | 
 |:--:| 
-| *Therapeutic play allows the child to express anxiety and fear* |
+| *When utilizing a play-based approach, our holder can be considerably less stressful* |
 
 ## Why we call it The Q
 
 The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “Dr. Q”), a board certified pediatric radiologist.
 
-Currently, there is no uniform standard agreement on how children should be temporarily held immobile for various medical procedures. Instead, there are a variety of solutions and methods for holding a child motionless during a medical procedure, including blankets, sheets, "burrito-ing", pillowcases, towels, medical tape, ace bandages, manual physical force and procedural sedation.
+<video controls style="width: 100% !important; height: auto !important;" title="Infant child playing with The Q pediatric position holder and immobilizer before procedure">
+  <source src="/images/IMG_7031.mp4" type="video/mp4">
+  <source src="/images/IMG_7031.ogg" type="video/ogg">
+   Your browser does not support HTML5 video.
+</video>
+
+## Currently 
+there is no uniform standard agreement on how children should be temporarily held immobile for various medical procedures.
 
 Today it is commonplace to tie-down, tape down, or hold down.
 
-Unfortunately, current solutions and methods are used inconsistently and can often be ineffective and difficult to implement. The Q Holder ends the practice of physically overpowering the child to gain control and render the child motionless. The Pediatric Position Holder is used in a highly monitored setting under the care of a certified health care provider and is removed immediately after the procedure. The holding time is limited in duration to support a specific position and is not considered restraint intervention by the American Academy of Pediatrics.
-
-| ![Pediatric Position Holder & Immobilizer](/images/IMG_2141-min_832x.jpg) | ![Pediatric Position Holder & Immobilizer](/images/IMG_2142-min_832x.jpg) | 
-|:--:|:--:|
-| *Pillow case and ace bandage on hard board* | *Sheets and ace bandages.* |
+The Q Holder ends the practice of physically overpowering the child to gain control and render the child motionless. 
 
 ## Our Pediatric Position Holder is multifunctional
 
 The Q Pediatric Position Holder is a multifunctional solution to hold the child immobile for the following procedures, including:
 
--	Lancing abscesses
--	Repairing lacerations
--	Starting intravenous lines
--	Maintaining a sterile field
--	Performing basic radiologic procedures
--	Performing ECGs, ultrasound and CT examinations
--	And more
+| -	Lancing abscesses | -	Performing basic radiologic procedures |
+| -	Repairing lacerations | -	Performing ECGs, ultrasound and CT examinations |
+| -	Starting intravenous lines | - And more |
+| -	Maintaining a sterile field | |
 
 | ![Chest and abdomen free for respirations - Pediatric Position Holder & Immobilizer](/images/IMG_1778-min_832x.jpg) | 
 |:--:| 
@@ -112,14 +114,6 @@ The design keeps the arms and legs away form the chest and abdomen leaving the c
 | ![Pediatric Position Holder & Immobilizer](/images/IMG_2143-min_832x.jpg)| 
 |:--:| 
 | *Appropriate positioning improves the experience for the child and parent* |
-
-<br>
-
-<video controls style="width: 100% !important; height: auto !important;" title="Infant child playing with The Q pediatric position holder and immobilizer before procedure">
-  <source src="/images/IMG_7031.mp4" type="video/mp4">
-  <source src="/images/IMG_7031.ogg" type="video/ogg">
-   Your browser does not support HTML5 video.
-</video>
 
 ---
 
