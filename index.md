@@ -151,13 +151,11 @@ The Q is for single-patient use only to ensure compliance with infection prevent
 
 *Patricia Rae Quattromani, co-inventor and product designer*
 
-**Patent: #62/773,347**
+
 
 ---
 
 ## For more information contact us at:
-
-**SJMJC, L.L.C.**
 
 **Phone:** <a href="tel:1-806-778-2183">(806)778-2183</a> or <a href="tel:1-241-778-0373">(806)241-0373</a>
 
