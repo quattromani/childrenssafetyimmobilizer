@@ -42,16 +42,33 @@ The Q Pediatric Position Holder is a multifunctional solution to hold the child 
 | -	Starting intravenous lines | - And more |
 | -	Maintaining a sterile field | |
 
+<br>
+
 | ![Chest and abdomen free for respirations - Pediatric Position Holder & Immobilizer](/images/IMG_1778-min_832x.jpg) | 
 |:--:| 
 | *When fully deployed, our Q holder leaves the chest and abdomen free for unrestricted respirations* |
 
 <br>
 
-| ![Pediatric Position Holder & Immobilizer](/images/IMG_1999.jpg) | 
+| ![Pediatric Position Holder & Immobilizer](/images/my-first-new-years.jpg) | 
 |:--:| 
-| *The Q does not interefer with tubes and lines* |
+| *The Q positioner maximizes contact, minimizes movement allowing for sufficient immobilization without unnecessary hands-on.* |
 
+<br>
+
+| ![Pediatric Position Holder & Immobilizer](/images/IMG_1977-min_832x.jpg) |  ![Pediatric Position Holder & Immobilizer](/images/IMG_1980-min_832x.jpg) | 
+
+<center><h4>Appropriate positioning improves the experience for the child and parent</h4></center>
+
+| ![Pediatric Position Holder & Immobilizer](/images/IMG_2081-min_832x.jpg) | 
+|:--:| 
+| *Helping the child focus somewhere else* |
+
+<br>
+  
+| ![Pediatric Position Holder & Immobilizer](/images/IMG_2143-min_832x.jpg)| 
+|:--:| 
+| *Appropriate positioning improves the experience for the child and parent* |
 
 ## Additional features and characteristics
 
@@ -67,22 +84,6 @@ The Q Pediatric Position Holder is a multifunctional solution to hold the child 
 -	Single patient use (NOT to be reprocessed or reused)
 -	Proudly made in the USA <i class="fas fa-flag-usa"></i>
 - Friction-based Hold
-
-| ![Pediatric Position Holder & Immobilizer](/images/my-first-new-years.jpg) | 
-
-<br>
-
-| ![Pediatric Position Holder & Immobilizer](/images/IMG_1977-min_832x.jpg) |  ![Pediatric Position Holder & Immobilizer](/images/IMG_1980-min_832x.jpg) | 
-
-<br>
-
-| ![Pediatric Position Holder & Immobilizer](/images/IMG_2081-min_832x.jpg) | 
-|:--:| 
-| *Help the child focus somewhere else* |
-
-<br>
-
-| ![Pediatric Position Holder & Immobilizer](/images/IMG_2144-min_832x.jpg) |
 
 Our positioner allows us to "hold without handling.” The methodology designed into The Q pediatric position holder places the child in a warm, cushioned and open design for medical procedures where the lines, tubes, and catheters are easily accessible. The Q is intended to compliment and not replace the child life specialist.
 
@@ -110,10 +111,6 @@ The new contoured ergonomic design is a pure positioning innovation which:
 ## Design
 
 The design keeps the arms and legs away form the chest and abdomen leaving the chest "open" for better respirations.
-
-| ![Pediatric Position Holder & Immobilizer](/images/IMG_2143-min_832x.jpg)| 
-|:--:| 
-| *Appropriate positioning improves the experience for the child and parent* |
 
 ---
 
