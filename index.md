@@ -81,9 +81,10 @@ The Q Pediatric Position Holder is a multifunctional solution to hold the child 
 -	Reduces motion artifacts for imaging
 -	Gender neutral
 -	Non-sterile
--	Single patient use (NOT to be reprocessed or reused)
+-	Single patient use (NOT to be reprocessed or reused)<sup>*</sup>
 -	Proudly made in the USA <i>![American Flag Icon](/images/united-states-of-america-flag-icon-32.png)</i>
 - Friction-based Hold
+* Single patient use ensures comp;iance with infection preventive requirements and protocols
 
 Our positioner allows us to "hold without handling.” The methodology designed into The Q pediatric position holder places the child in a warm, cushioned and open design for medical procedures where the lines, tubes, and catheters are easily accessible. The Q is intended to compliment and not replace the child life specialist.
 
