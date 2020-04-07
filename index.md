@@ -65,10 +65,38 @@ The Q Pediatric Position Holder is a multifunctional solution to hold the child 
 | *Helping the child focus somewhere else* |
 
 <br>
-  
-| ![Pediatric Position Holder & Immobilizer](/images/IMG_2143-min_832x.jpg)| 
+
+| ![Pediatric Position Holder & Immobilizer](/images/IMG_2059-min_832x.jpg) | 
 |:--:| 
-| *Appropriate positioning improves the experience for the child and parent* |
+| *Helping the child focus somewhere else* |
+
+## Design
+
+The design keeps the arms and legs away form the chest and abdomen leaving the chest "open" for better respirations.
+
+The contoured ergonomic design is pure positioning innovation:
+
+- Reduces excessive force on the child's extremities without over-handling
+- Contours to the child rather than forcing the child to fit the positioner
+- Reduces excessive motion
+- Minimizes pressure points
+- Does not interferer with tubes, lines and catheters
+- The Q supports the head and neck as a unit
+- Designed for a more comfortable hold
+
+## Certified Child Life Specialists (CCLS)
+
+- Child Life Specialists focus on the psychosocial aspect of the child providing coping mechanisms for procedures.
+- Coping skills minimize the adverse effects of the childs experience.
+- The CCLS uses a family centered approach.
+- The Q is intended to compliemnts the work of the CCLS.
+- The CCLS can incorporate the Q as one of the "comfort kit" tools by using it for medical play.
+
+| ![Pediatric Position Holder & Immobilizer](/images/IMG_1641.jpg) |
+|:--:| 
+| *Comfortable, relaxed patients allow technicians to capture better images* |
+
+---
 
 ## Additional features and characteristics
 
@@ -87,31 +115,6 @@ The Q Pediatric Position Holder is a multifunctional solution to hold the child 
 \* Single patient use ensures comp;iance with infection preventive requirements and protocols
 
 Our positioner allows us to "hold without handling.” The methodology designed into The Q pediatric position holder places the child in a warm, cushioned and open design for medical procedures where the lines, tubes, and catheters are easily accessible. The Q is intended to compliment and not replace the child life specialist.
-
----
-
-## The ergonomic features
-
-The new contoured ergonomic design is a pure positioning innovation which:
-
-<ol type="a">
-  <li>Reduces excessive force on the child's extremities.</li>
-  <li>Contours to the child's body rather than the child being forced to conform to the immobilizer.</li>
-  <li>Reduces excessive motion.</li>
-  <li>Minimizes pressure points on the child's extremities.</li>
-  <li>Provides for clearance of tubes and lines.</li>
-  <li>Firmly contours to support the head and neck as a unit.</li>
-</ol>
-
-| ![Pediatric Position Holder & Immobilizer](/images/IMG_1641.jpg) |
-|:--:| 
-| *Comfortable, relaxed patients allow technicians to capture better images* |
-
----
-
-## Design
-
-The design keeps the arms and legs away form the chest and abdomen leaving the chest "open" for better respirations.
 
 ---
 
