@@ -116,15 +116,15 @@ The design keeps the arms and legs away form the chest and abdomen leaving the c
 
 ## Radiation reduction
 
-The opportunity to reduce radiation exposure is a critical issue within pediatric radiology and is an exceptional benefit provided by The Q Holder.
+The opportunity to reduce radiation exposure is a critical issue within pediatric radiology and is an exceptional benefit provided by The Q Holder. The Q assists children to remain montionless for diagnostic X-Rays, thus fewer exposures could mean less radiation. 
 
-The Q assists children to remain montionless for diagnostic X-Rays, thus fewer exposures could mean less radiation. The Q allows the radiologic technologists to remain further from the primary and scatter radiation.
+The Q allows the radiologic technologists to remain further from the primary and scatter radiation.
 
 ---
 
 ## Parents are positive about The Q
 
-![Mother & Child - Pediatric Position Holder & Immobilizer](/images/IMG_1970.jpg)
+| ![Mother & Child - Pediatric Position Holder & Immobilizer](/images/IMG_1970.jpg) |
 
 > “Months ago my baby had a VCUG the old way – the technician had to manually restrain my daughter during the procedure and it was very upsetting to watch. My baby hated it. I was so apprehensive when we returned for our follow-up examination. This time the technologist used The Q Pediatric Position Holder. It was so much better for my baby and much less stressful for me as a parent. It made the procedure easier for everyone!”
 
@@ -133,14 +133,19 @@ The Q assists children to remain montionless for diagnostic X-Rays, thus fewer e
 ---
 
 | ![Pediatric Position Holder & Immobilizer](/images/IMG_1672.jpg) | 
-|:--:| 
-| *Involving the parent calms the child* |
+
+> “My daughter was so happy you let me stay in the room during the procedure. My daughter stayed focused on me and the Q holder and less on the room and scary machines.”
+
+~	Dad of 2 year old from Clovis, NM
+
 
 The Q is for single-patient use only to ensure compliance with infection prevention requirements and protocols.
 
 | ![Pediatric Position Holder & Immobilizer](/images/IMG_2127-min_832x.jpg)| 
-|:--:| 
-| *The Q is a better and easier experience on both child and parent* |
+
+> “My son was wiggling too much to allow the technologist to get good ultrasound pictures. After we applied the foam holder, the technologist was able to get clearer pictures.”
+
+~	Mom of 16 month old from Hobbs, NM
 
 ## Creators
 *Frank Louis Quattromani, MD, Pediatric Radiologist*
