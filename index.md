@@ -11,7 +11,7 @@ title: The "Q"
 
 | ![Young Female Pediatric Patient holding The Q Position Holder & Immobilizer](/images/IMG_2130-min_832x.jpg) | 
 |:--:| 
-| *Therapeutic play allows the child to express anxiety and fear. The colorful Q holder allows for medical play and helps the child to focus on the artwork.* |
+| *The colorful Q holder may be therapeutic and allows for medical play and helps the child to focus on the artwork.* |
 
 <br>
 
