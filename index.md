@@ -29,12 +29,9 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
    Your browser does not support HTML5 video.
 </video>
 
-## Currently 
-there is no uniform standard agreement on how children should be temporarily held immobile for various medical procedures.
-
-Today it is commonplace to tie-down, tape down, or hold down.
-
-The Q Holder ends the practice of physically overpowering the child to gain control and render the child motionless. 
+## Currently: 
+- there is no uniform standard agreement on how children should be temporarily held immobile for various medical procedures.
+- today it is commonplace to tie-down, tape down, or physically hold down.
 
 ## Our Pediatric Position Holder is multifunctional
 
@@ -69,16 +66,10 @@ The Q Pediatric Position Holder is a multifunctional solution to hold the child 
 
 <br>
 
-| ![Pediatric Position Holder & Immobilizer](/images/IMG_2059-min_832x.jpg) | 
-|:--:| 
-| *Helping the child focus somewhere else* |
-
 ## Design
 
-The design keeps the arms and legs away form the chest and abdomen leaving the chest "open" for better respirations.
-
-The contoured ergonomic design is pure positioning innovation:
-
+- The design keeps the arms and legs away form the chest and abdomen leaving the chest "open" for better respirations.
+- The contoured ergonomic design is pure positioning innovation:
 - Reduces excessive force on the child's extremities without over-handling
 - Contours to the child rather than forcing the child to fit the positioner
 - Reduces excessive motion
@@ -115,7 +106,8 @@ The contoured ergonomic design is pure positioning innovation:
 -	Single patient use (NOT to be reprocessed or reused)<sup>*</sup>
 -	Proudly made in the USA <i>![American Flag Icon](/images/united-states-of-america-flag-icon-32.png)</i>
 - Friction-based Hold
-\* Single patient use ensures comp;iance with infection preventive requirements and protocols
+
+\* Single patient use ensures compliance with infection preventive requirements and protocols
 
 Our positioner allows us to "hold without handling.” The methodology designed into The Q pediatric position holder places the child in a warm, cushioned and open design for medical procedures where the lines, tubes, and catheters are easily accessible. The Q is intended to compliment and not replace the child life specialist.
 
@@ -123,7 +115,7 @@ Our positioner allows us to "hold without handling.” The methodology designed 
 
 ## Radiation reduction
 
-The opportunity to reduce radiation exposure is a critical issue within pediatric radiology and is an exceptional benefit provided by The Q Holder. The Q assists children to remain montionless for diagnostic X-Rays, thus fewer exposures could mean less radiation. 
+The opportunity to reduce radiation exposure is a critical issue within pediatric radiology. The Q assists children to remain montionless for diagnostic X-Rays, thus fewer exposures could mean less radiation. 
 
 The Q allows the radiologic technologists to remain further from the primary and scatter radiation.
 
@@ -133,7 +125,7 @@ The Q allows the radiologic technologists to remain further from the primary and
 
 | ![Mother & Child - Pediatric Position Holder & Immobilizer](/images/IMG_1970.jpg) |
 
-> “Months ago my baby had a VCUG the old way – the technician had to manually restrain my daughter during the procedure and it was very upsetting to watch. My baby hated it. I was so apprehensive when we returned for our follow-up examination. This time the technologist used The Q Pediatric Position Holder. It was so much better for my baby and much less stressful for me as a parent. It made the procedure easier for everyone!”
+> “Months ago my baby had a VCUG the old way – technologists had to manually restrain my daughter during the procedure.Therefore, I was so apprehensive when we returned for our follow-up examination. This time the technologist used The Q Pediatric Position Holder. It was so much better for my baby and much less stressful for me as a parent.”
 
 ~	Mom of 6 month old infant, Lubbock, TX
 
