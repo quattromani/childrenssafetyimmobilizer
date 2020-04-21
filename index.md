@@ -18,7 +18,7 @@ title: The "Q"
 - The Q leaves the chest and abdomen free for unrestricted breathing.
 - No other position holder leaves the chest, abdoemn and pelvis free for unrestricted respirations as well as uninterrupted tube and line placement.
 
-| ![Young Female Pediatric Patient holding The Q Position Holder & Immobilizer](/images/IMG_2130-min_832x.jpg) | 
+| ![Young Female Pediatric Patient holding The Q Position Holder & Immobilizer](/images/IMG_2130-min_832x_832x.jpg) | 
 |:--:| 
 | *The colorful Q holder may be therapeutic and allows for medical play and helps the child focus on the artwork.* |
 
