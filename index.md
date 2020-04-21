@@ -2,22 +2,31 @@
 title: The "Q"
 ---
 
+- Most pediatric medical procedures are better performed when the child is motionless.
+
+<video controls style="width: 100% !important; height: auto !important;" title="Infant child moving and wiggling during procedure">
+  <source src="/videos/wiggle.mp4" type="video/mp4">
+  <source src="/videos/wiggle.ogg" type="video/ogg">
+   Your browser does not support HTML5 video.
+</video>
+
 - The Q Pediatric Position Holder is a revolutionary new child friendly, single patient use immobilizer which is effective, safe, simple and versatile.
--  The Q Position Holder is an emerging medical technology for children that standardizes the process of immobilization.
-- Our 1/2" thick, soft polyester foam holder has no extraneous straps, boards, or hook & loop attachments.
+-  The Q Position Holder is an emerging medical technology for children that standardizes the process of immobilization for medical procedures.
+- Our 1/2" thick, soft polyurethane foam holder has no extraneous straps, boards, or hook & loop attachments.
 - Our hope is that we can lessen the anxiety, fear, and distress which are ways that children respond to medical procedures.<sup>[1]</sup>
 - The Q Holder is used only for short periods in highly monitored settings.
 - The Q leaves the chest and abdomen free for unrestricted breathing.
+- No other position holder leaves the chest, abdoemn and pelvis free for unrestricted respirations as well as uninterrupted tube and line placement.
 
 | ![Young Female Pediatric Patient holding The Q Position Holder & Immobilizer](/images/IMG_2130-min_832x.jpg) | 
 |:--:| 
-| *The colorful Q holder may be therapeutic and allows for medical play and helps the child to focus on the artwork.* |
+| *The colorful Q holder may be therapeutic and allows for medical play and helps the child focus on the artwork.* |
 
 <br>
 
 | ![Getting comfortable and playing with The Q before procedure - Pediatric Position Holder & Immobilizer](/images/hero-min.png) | 
 |:--:| 
-| *When utilizing a play-based approach, our holder can be considerably less stressful* |
+| *When utilizing a play-based approach, our holder can be considerably less stress. Not only do infants and children fidget and squirm, but they can easily become freightened in unfamiliar surroundings.* |
 
 ## Why we call it The Q
 
@@ -30,7 +39,7 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 </video>
 
 ## Currently: 
-- there is no uniform standard agreement on how children should be temporarily held immobile for various medical procedures.
+- up until now there has been no uniform standard agreement on how children should be temporarily held immobile for various medical procedures.
 - today it is commonplace to tie-down, tape down, or physically hold down.
 
 ## Our Pediatric Position Holder is multifunctional
@@ -72,27 +81,31 @@ The Q Pediatric Position Holder is a multifunctional solution to hold the child 
 
 ## Design
 
+- Designed with field-testing for maximum usability.
+- Designed to be compatible with all major commercial imaging systems.
+- Designed so as not to confine.
 - The design keeps the arms and legs away form the chest and abdomen leaving the chest "open" for better respirations.
-- The contoured ergonomic design is pure positioning innovation:
-- Reduces excessive force on the child's extremities without over-handling
-- Contours to the child rather than forcing the child to fit the positioner
-- Reduces excessive motion
-- Minimizes pressure points
-- Does not interferer with tubes, lines and catheters
-- The Q supports the head and neck as a unit
-- Designed for a more comfortable hold
+- The contoured ergonomic design is a pure positioning innovation.
+- Reduces excessive force on the child's extremities without over-handling.
+- Contours to the child rather than forcing the child to fit the positioner.
+- Reduces excessive motion.
+- Minimizes pressure points with a thick comfortable foam.
+- Does not interferer with tubes, lines and catheters.
+- The Q supports the head and neck as a unit.
+- Designed for a more comfortable hold.
+- Can be warmed in a towel warmer priot to use.
 
 ## Certified Child Life Specialists (CCLS)
 
 - Child Life Specialists focus on the psychosocial aspect of the child providing coping mechanisms for procedures.
-- Coping skills minimize the adverse effects of the childs experience.
+- Coping skills minimize the adverse effects on the child and parent.
 - The CCLS uses a family centered approach.
 - The Q is intended to compliemnts the work of the CCLS.
 - The CCLS can incorporate the Q as one of the "comfort kit" tools by using it for medical play.
 
 | ![Pediatric Position Holder & Immobilizer](/images/IMG_1641.jpg) |
 |:--:| 
-| *Comfortable, relaxed patients allow technicians to capture better images* |
+| *Comfortable, infants allow technicians to capture better images* |
 
 ---
 
@@ -107,19 +120,17 @@ The Q Pediatric Position Holder is a multifunctional solution to hold the child 
 -	Reduces motion artifacts for imaging
 -	Gender neutral
 -	Non-sterile
--	Single patient use (NOT to be reprocessed or reused)<sup>*</sup>
+-	Single patient use (NOT to be reprocessed or reused)<sup>*Single patient use ensures compliance with infection preventive requirements and protocols</sup>
 -	Proudly made in the USA <i>![American Flag Icon](/images/united-states-of-america-flag-icon-32.png)</i>
 - Friction-based Hold
 
-\* Single patient use ensures compliance with infection preventive requirements and protocols
-
-Our positioner allows us to "hold without handling.” The methodology designed into The Q pediatric position holder places the child in a warm, cushioned and open design for medical procedures where the lines, tubes, and catheters are easily accessible. The Q is intended to compliment and not replace the child life specialist.
+Our positioner allows us to "hold without handling.”
 
 ---
 
 ## Radiation reduction
 
-The opportunity to reduce radiation exposure is a critical issue within pediatric radiology. The Q assists children to remain montionless for diagnostic X-Rays, thus fewer exposures could mean less radiation. 
+The opportunity to reduce radiation exposure is a critical issue within the pediatric radiology community. The Q assists children to remain montionless for diagnostic X-Rays, thus fewer exposures could mean less radiation. 
 
 The Q allows the radiologic technologists to remain further from the primary and scatter radiation.
 
@@ -155,7 +166,7 @@ The Q is for single-patient use only to ensure compliance with infection prevent
 * University Medical Center, Lubbock, Texas
 * Clinical Professor of Pediatrics and Pathology, Texas Tech University School of Medicine, Lubbock, Texas
 * Former Radiology Consultant to the United States Army Office of the Surgeon General
-* (Retired), U.S. Army Colonel (06)
+* (Retired), U.S. Army Colonel (Medical Department)
 
 *Patricia Rae Quattromani, co-inventor and product designer*
 
@@ -169,14 +180,12 @@ The Q is for single-patient use only to ensure compliance with infection prevent
 
 **Email:** <f1quattromani@gmail.com>
 
-**Website:** [The Q - PediatricPositionHolder.com](https://pediatricpositionholder.com)
+**Website:** [www.PediatricPositionHolder.com| The Q](https://pediatricpositionholder.com)
 
 ---
 
 [1] Infant immobilization and pediatric papooses: We've come a long way. Journal of Emergency Nursing Oct. 2007; 33:451-5
     
-&copy; Copyright {{currentYear}}, SJMJC, LLC.
-
-**SJMJC, L.L.C.**
+&copy; Copyright {{ now.Year }}, SJMJC, LLC.
 
 **Patent: #62/773,347**
