@@ -186,6 +186,6 @@ The Q is for single-patient use only to ensure compliance with infection prevent
 
 [1] Infant immobilization and pediatric papooses: We've come a long way. Journal of Emergency Nursing Oct. 2007; 33:451-5
     
-&copy; Copyright {{ now.Year }}, SJMJC, LLC.
+&copy; Copyright 2020, SJMJC, LLC.
 
 **Patent: #62/773,347**
