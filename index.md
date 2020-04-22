@@ -44,15 +44,6 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 - up until now there has been no uniform standard agreement on how children should be temporarily held immobile for various medical procedures.
 - today it is commonplace to tie-down, tape down, or physically hold down.
 
-## Our Pediatric Position Holder is multifunctional
-
-The Q Pediatric Position Holder is a multifunctional solution to hold the child immobile for the following procedures, including:
-
-| -	Lancing abscesses | -	Performing basic radiologic procedures |
-| -	Repairing lacerations | -	Performing ECGs, ultrasound and CT examinations |
-| -	Starting intravenous lines | - And more |
-| -	Maintaining a sterile field | |
-
 <br>
 
 | ![Chest and abdomen free for respirations - Pediatric Position Holder & Immobilizer](/images/IMG_1778-min_832x.jpg) | 
