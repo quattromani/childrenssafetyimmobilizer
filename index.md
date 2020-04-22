@@ -10,6 +10,8 @@ title: The "Q"
    Your browser does not support HTML5 video.
 </video>
 
+<br>
+
 - The Q Pediatric Position Holder is a revolutionary new child friendly, single patient use immobilizer which is effective, safe, simple and versatile.
 -  The Q Position Holder is an emerging medical technology for children that standardizes the process of immobilization for medical procedures.
 - Our 1/2" thick, soft polyurethane foam holder has no extraneous straps, boards, or hook & loop attachments.
@@ -133,6 +135,20 @@ Our positioner allows us to "hold without handling.”
 The opportunity to reduce radiation exposure is a critical issue within the pediatric radiology community. The Q assists children to remain montionless for diagnostic X-Rays, thus fewer exposures could mean less radiation. 
 
 The Q allows the radiologic technologists to remain further from the primary and scatter radiation.
+
+| <video controls style="width: 100% !important; height: auto !important;" title="Infant child moving and wiggling during procedure">
+  <source src="/videos/IMG_0467.mp4" type="video/mp4">
+  <source src="/videos/IMG_0467.ogg" type="video/ogg">
+   Your browser does not support HTML5 video.
+</video> | <video controls style="width: 100% !important; height: auto !important;" title="Infant child moving and wiggling during procedure">
+  <source src="/videos/IMG_0469.mp4" type="video/mp4">
+  <source src="/videos/IMG_0469.ogg" type="video/ogg">
+   Your browser does not support HTML5 video.
+</video> | <video controls style="width: 100% !important; height: auto !important;" title="Infant child moving and wiggling during procedure">
+  <source src="/videos/IMG_0470.mp4" type="video/mp4">
+  <source src="/videos/IMG_0470.ogg" type="video/ogg">
+   Your browser does not support HTML5 video.
+</video> |
 
 ---
 
