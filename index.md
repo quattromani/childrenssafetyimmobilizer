@@ -127,19 +127,23 @@ The opportunity to reduce radiation exposure is a critical issue within the pedi
 
 The Q allows the radiologic technologists to remain further from the primary and scatter radiation.
 
-| <video controls style="width: 100% !important; height: auto !important;" title="Infant child moving and wiggling during procedure">
+<video controls style="width: 100% !important; height: auto !important;" title="Demostrating proper wrapping techniques">
   <source src="/videos/IMG_0467.mp4" type="video/mp4">
-  <source src="/videos/IMG_0467.ogg" type="video/ogg">
+  <source src="/videos/IMG_0467.ogv" type="video/ogg">
    Your browser does not support HTML5 video.
-</video> | <video controls style="width: 100% !important; height: auto !important;" title="Infant child moving and wiggling during procedure">
+</video>
+
+<video controls style="width: 100% !important; height: auto !important;" title="Demostrating proper wrapping & holding techniques">
   <source src="/videos/IMG_0469.mp4" type="video/mp4">
-  <source src="/videos/IMG_0469.ogg" type="video/ogg">
+  <source src="/videos/IMG_0469.ogv" type="video/ogg">
    Your browser does not support HTML5 video.
-</video> | <video controls style="width: 100% !important; height: auto !important;" title="Infant child moving and wiggling during procedure">
+</video>
+
+<video controls style="width: 100% !important; height: auto !important;" title="Demostrating proper wrapping & holding techniques">
   <source src="/videos/IMG_0470.mp4" type="video/mp4">
-  <source src="/videos/IMG_0470.ogg" type="video/ogg">
+  <source src="/videos/IMG_0470.ogv" type="video/ogg">
    Your browser does not support HTML5 video.
-</video> |
+</video>
 
 ---
 
