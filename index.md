@@ -127,23 +127,17 @@ The opportunity to reduce radiation exposure is a critical issue within the pedi
 
 The Q allows the radiologic technologists to remain further from the primary and scatter radiation.
 
-<video controls style="width: 100% !important; height: auto !important;" title="Demostrating proper wrapping techniques">
-  <source src="/videos/IMG_0467.mp4" type="video/mp4">
-  <source src="/videos/IMG_0467.ogv" type="video/ogg">
-   Your browser does not support HTML5 video.
-</video>
+<figure class="video_container">
+  <iframe src="/videos/IMG_0467.mp4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
-<video controls style="width: 100% !important; height: auto !important;" title="Demostrating proper wrapping & holding techniques">
-  <source src="/videos/IMG_0469.mp4" type="video/mp4">
-  <source src="/videos/IMG_0469.ogv" type="video/ogg">
-   Your browser does not support HTML5 video.
-</video>
+<figure class="video_container">
+  <iframe src="/videos/IMG_0469.mp4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
-<video controls style="width: 100% !important; height: auto !important;" title="Demostrating proper wrapping & holding techniques">
-  <source src="/videos/IMG_0470.mp4" type="video/mp4">
-  <source src="/videos/IMG_0470.ogv" type="video/ogg">
-   Your browser does not support HTML5 video.
-</video>
+<figure class="video_container">
+  <iframe src="/videos/IMG_0470.mp4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ---
 
