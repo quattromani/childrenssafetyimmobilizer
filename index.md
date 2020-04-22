@@ -127,17 +127,23 @@ The opportunity to reduce radiation exposure is a critical issue within the pedi
 
 The Q allows the radiologic technologists to remain further from the primary and scatter radiation.
 
-<figure class="video_container">
-  <iframe width="100%" src="/videos/IMG_0467.mp4" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+<video controls>
+  <source src="/videos/IMG_0467.mp4" type="video/mp4">
+  <source src="/videos/IMG_0467.ogv" type="video/ogg">
+  <p>Your browser doesn't support the HTML5 video tag.</p>
+</video>
 
-<figure class="video_container">
-  <iframe width="100%" src="/videos/IMG_0469.mp4" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+<video controls>
+  <source src="/videos/IMG_0469.mp4" type="video/mp4">
+  <source src="/videos/IMG_0469.ogv" type="video/ogg">
+  <p>Your browser doesn't support the HTML5 video tag.</p>
+</video>
 
-<figure class="video_container">
-  <iframe width="100%" src="/videos/IMG_0470.mp4" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+<video controls>
+  <source src="/videos/IMG_0470.mp4" type="video/mp4">
+  <source src="/videos/IMG_0470.ogv" type="video/ogg">
+  <p>Your browser doesn't support the HTML5 video tag.</p>
+</video>
 
 ---
 
