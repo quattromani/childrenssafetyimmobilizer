@@ -88,6 +88,12 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 - Designed for a more comfortable hold.
 - Can be warmed in a towel warmer priot to use.
 
+## Instructions
+
+| ![Pediatric Position Holder & Immobilizer](/images/Flat.jpg) | ![Pediatric Position Holder & Immobilizer](/images/wrapped.jpg) | 
+|---|---|
+| *Flat* | *Wrapped* |
+
 ## Certified Child Life Specialists (CCLS)
 
 - Child Life Specialists focus on the psychosocial aspect of the child providing coping mechanisms for procedures.
