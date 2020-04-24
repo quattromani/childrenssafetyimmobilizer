@@ -91,7 +91,7 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 ## Instructions
 
 | ![Pediatric Position Holder & Immobilizer](/images/Flat_832x.jpg) | ![Pediatric Position Holder & Immobilizer](/images/wrapped_832x.jpg) | 
-|---|---|
+|:--:|:--:| 
 | *Flat* | *Wrapped* |
 
 ## Certified Child Life Specialists (CCLS)
