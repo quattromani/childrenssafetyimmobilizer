@@ -2,9 +2,7 @@
 title: The "Q"
 ---
 
-| ![Pediatric Position Holder & Immobilizer Drawing](/images/PPH-drawing.PNG) | 
-
-<video style="width: 100% !important; height: auto !important;" title="Technical Drawing of the Pediatric Position Holder" poster="/images/PPH-drawing.png">
+<video style="width: 100% !important; height: auto !important;" title="Technical Drawing of the Pediatric Position Holder" poster="/images/PPH-drawing.PNG">
   <source src="/videos/PPH-drawing.mp4" type="video/mp4">
   <source src="/videos/PPH-drawing.ogg" type="video/ogg">
    Your browser does not support HTML5 video.
