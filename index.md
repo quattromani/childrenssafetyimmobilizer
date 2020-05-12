@@ -2,17 +2,21 @@
 title: The "Q"
 ---
 
-<video controls style="width: 100% !important; height: auto !important;" title="Technical Drawing of the Pediatric Position Holder" poster="/images/PPH-drawing.PNG">
-  <source src="/videos/PPH-drawing.mp4" type="video/mp4">
-  <source src="/videos/PPH-drawing.ogg" type="video/ogg">
-   Your browser does not support HTML5 video.
-</video>
+
 
 - Most pediatric medical procedures are better performed when the child is motionless.
 
 <video controls style="width: 100% !important; height: auto !important;" title="Infant child moving and wiggling during procedure">
   <source src="/videos/wiggle.mp4" type="video/mp4">
   <source src="/videos/wiggle.ogg" type="video/ogg">
+   Your browser does not support HTML5 video.
+</video>
+
+<br>
+
+<video controls style="width: 100% !important; height: auto !important;" title="Technical Drawing of the Pediatric Position Holder" poster="/images/PPH-drawing.PNG">
+  <source src="/videos/PPH-drawing.mp4" type="video/mp4">
+  <source src="/videos/PPH-drawing.ogg" type="video/ogg">
    Your browser does not support HTML5 video.
 </video>
 
@@ -26,9 +30,19 @@ title: The "Q"
 - The Q leaves the chest and abdomen free for unrestricted breathing.
 - No other position holder leaves the chest, abdoemn and pelvis free for unrestricted respirations as well as uninterrupted tube and line placement.
 
-| ![Young Female Pediatric Patient holding The Q Position Holder & Immobilizer](/images/IMG_2130-min_832x_832x.jpg) | 
+| ![Pediatric Position Holder & Immobilizer](/images/flat-holder.jpeg) |  ![Pediatric Position Holder & Immobilizer](/images/holder.jpeg) | 
+
+<br>
+
+| ![Getting comfortable and playing with The Q before procedure - Pediatric Position Holder & Immobilizer](/images/one-arm.jpeg) | 
 |:--:| 
-| *The colorful Q holder may be therapeutic and allows for medical play and helps the child focus on the artwork.* |
+| *One Arm* |
+
+<br>
+
+| ![Getting comfortable and playing with The Q before procedure - Pediatric Position Holder & Immobilizer](/images/one-arm.jpeg) | 
+|:--:| 
+| *Two Arms* |
 
 <br>
 
