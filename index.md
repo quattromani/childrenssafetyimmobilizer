@@ -32,23 +32,17 @@ title: The "Q"
 
 | ![Pediatric Position Holder & Immobilizer](/images/flat-holder.jpeg) |  ![Pediatric Position Holder & Immobilizer](/images/holder.jpeg) | 
 
-<br>
-
-| ![Getting comfortable and playing with The Q before procedure - Pediatric Position Holder & Immobilizer](/images/one-arm.jpeg) | 
+| ![One Arm Immobilized - Pediatric Position Holder & Immobilizer](/images/one-arm.jpeg) | 
 |:--:| 
 | *One Arm* |
 
-<br>
-
-| ![Getting comfortable and playing with The Q before procedure - Pediatric Position Holder & Immobilizer](/images/one-arm.jpeg) | 
+| ![Two Arm Immobilization - Pediatric Position Holder & Immobilizer](/images/two-arms.jpeg) | 
 |:--:| 
 | *Two Arms* |
 
-<br>
-
-| ![Getting comfortable and playing with The Q before procedure - Pediatric Position Holder & Immobilizer](/images/hero-min.png) | 
+| ![Two Arms One Leg Immobilization - Pediatric Position Holder & Immobilizer](/images/two-arms-one-leg.jpeg) | 
 |:--:| 
-| *When utilizing a play-based approach, our holder can be considerably less stress. Not only do infants and children fidget and squirm, but they can easily become freightened in unfamiliar surroundings.* |
+| *Two Arms One Leg* |
 
 ## Why we call it The Q
 
