@@ -2,15 +2,7 @@
 title: The "Q"
 ---
 
-- Most pediatric medical procedures are better performed when the child is motionless.
-
-<video controls style="width: 100% !important; height: auto !important;" title="Infant child moving and wiggling during procedure">
-  <source src="/videos/wiggle.mp4" type="video/mp4">
-  <source src="/videos/wiggle.ogg" type="video/ogg">
-   Your browser does not support HTML5 video.
-</video>
-
-## Introducing The Q - Pediatric Position Holder
+# Introducing The Q - Pediatric Position Holder
 
 <video controls style="width: 100% !important; height: auto !important;" title="Technical Drawing of the Pediatric Position Holder" poster="/images/PPH-drawing.PNG">
   <source src="/videos/PPH-drawing.mp4" type="video/mp4">
@@ -18,7 +10,13 @@ title: The "Q"
    Your browser does not support HTML5 video.
 </video>
 
-<br>
+- Most pediatric medical procedures are better performed when the child is motionless.
+
+<video controls style="width: 100% !important; height: auto !important;" title="Infant child moving and wiggling during procedure">
+  <source src="/videos/wiggle.mp4" type="video/mp4">
+  <source src="/videos/wiggle.ogg" type="video/ogg">
+   Your browser does not support HTML5 video.
+</video>
 
 - The Q Pediatric Position Holder is a revolutionary new child friendly, single patient use immobilizer which is effective, safe, simple and versatile.
 -  The Q Position Holder is an emerging medical technology for children that standardizes the process of immobilization for medical procedures.
