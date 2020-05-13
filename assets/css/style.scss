@@ -3,7 +3,8 @@
 
 @import "{{ site.theme }}";
 
-html {
+html,
+body {
   font-family: 'Roboto', sans-serif;
 }
 
