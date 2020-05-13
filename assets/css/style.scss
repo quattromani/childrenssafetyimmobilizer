@@ -44,3 +44,7 @@ h1 + h2 {
   white-space: nowrap; /* added line */
   border: 0;
 }
+
+video[poster]{
+ object-fit: fill;
+}
