@@ -18,7 +18,7 @@ title: The "Q"
       <li>Our hope is that we can lessen the anxiety, fear, and distress which are ways that children respond to medical procedures.<sup>[1]</sup></li>
       <li>The Q Holder is used only for short periods in highly monitored settings.</li>
       <li>The Q leaves the chest and abdomen free for unrestricted breathing.</li>
-      <li> No other position holder leaves the chest, abdoemn and pelvis free for unrestricted respirations as well as uninterrupted tube and line placement.</li>
+      <li> No other position holder leaves the chest, abdomen and pelvis free for unrestricted respirations as well as uninterrupted tube and line placement.</li>
     </ul>
 
 
