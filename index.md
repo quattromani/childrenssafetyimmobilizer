@@ -27,6 +27,8 @@ title: The "Q"
    Your browser does not support HTML5 video.
 </video>
 
+## The Q solves immobilization challenges better and with less stress on the patient
+
 | ![Pediatric Position Holder & Immobilizer](/images/flat-holder.jpeg) |  ![Pediatric Position Holder & Immobilizer](/images/holder.jpeg) | 
 
 | ![One Arm Immobilized - Pediatric Position Holder & Immobilizer](/images/one-arm.jpeg) | 
