@@ -6,18 +6,22 @@ title: The "Q"
 ## A Pediatric Position Holder
 
 <figure>
-<video controls style="width: 100% !important; height: auto !important;" title="Technical Drawing of the Pediatric Position Holder" poster="/images/PPH-drawing.PNG">
-  <source src="/videos/PPH-drawing.mp4" type="video/mp4">
-  <source src="/videos/PPH-drawing.ogg" type="video/ogg">
-   Your browser does not support HTML5 video.
-</video>
-<figcaption>- The Q Pediatric Position Holder is a revolutionary new child friendly, single patient use immobilizer which is effective, safe, simple and versatile.
--  The Q Position Holder is an emerging medical technology for children that standardizes the process of immobilization for medical procedures.
-- Our 1/2" thick, soft polyurethane foam holder has no extraneous straps, boards, or hook & loop attachments.
-- Our hope is that we can lessen the anxiety, fear, and distress which are ways that children respond to medical procedures.<sup>[1]</sup>
-- The Q Holder is used only for short periods in highly monitored settings.
-- The Q leaves the chest and abdomen free for unrestricted breathing.
-- No other position holder leaves the chest, abdoemn and pelvis free for unrestricted respirations as well as uninterrupted tube and line placement.</figcaption>
+  <video controls style="width: 100% !important; height: auto !important;" title="Technical Drawing of the Pediatric Position Holder" poster="/images/PPH-drawing.PNG">
+    <source src="/videos/PPH-drawing.mp4" type="video/mp4">
+    <source src="/videos/PPH-drawing.ogg" type="video/ogg">
+    Your browser does not support HTML5 video.
+  </video>
+  <figcaption>
+    <ul>
+      <li>The Q Pediatric Position Holder is a revolutionary new child friendly, single patient use immobilizer which is effective, safe, simple and versatile.</li>
+      <li>The Q Position Holder is an emerging medical technology for children that standardizes the process of immobilization for medical procedures.</li>
+      <li>Our 1/2" thick, soft polyurethane foam holder has no extraneous straps, boards, or hook & loop attachments.</li>
+      <li>Our hope is that we can lessen the anxiety, fear, and distress which are ways that children respond to medical procedures.<sup>[1]</sup></li>
+      <li>The Q Holder is used only for short periods in highly monitored settings.</li>
+      <li>The Q leaves the chest and abdomen free for unrestricted breathing.</li>
+      <li> No other position holder leaves the chest, abdoemn and pelvis free for unrestricted respirations as well as uninterrupted tube and line placement.</li>
+    </ul>
+  </figcaption>
 </figure>
 
 <figure>
