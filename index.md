@@ -2,8 +2,6 @@
 title: The "Q"
 ---
 
-
-
 - Most pediatric medical procedures are better performed when the child is motionless.
 
 <video controls style="width: 100% !important; height: auto !important;" title="Infant child moving and wiggling during procedure">
@@ -12,7 +10,7 @@ title: The "Q"
    Your browser does not support HTML5 video.
 </video>
 
-<br>
+## Introducing The Q - Pediatric Position Holder
 
 <video controls style="width: 100% !important; height: auto !important;" title="Technical Drawing of the Pediatric Position Holder" poster="/images/PPH-drawing.PNG">
   <source src="/videos/PPH-drawing.mp4" type="video/mp4">
