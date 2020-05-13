@@ -52,7 +52,7 @@ title: The "Q"
 |:--:| 
 | *Ultrasound on Back* |
 
-| ![An IV line - Pediatric Position Holder & Immobilizer](/images/ultrasound-back.jpeg) | 
+| ![An IV line - Pediatric Position Holder & Immobilizer](/images/IV-line.jpeg) | 
 |:--:| 
 | *IV Line* |
 
