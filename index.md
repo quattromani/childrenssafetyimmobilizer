@@ -42,7 +42,19 @@ title: The "Q"
 
 | ![Two Arms One Leg Immobilization - Pediatric Position Holder & Immobilizer](/images/two-arms-one-leg.jpeg) | 
 |:--:| 
-| *Two Arms One Leg* |
+| *Two Arms One Leg - Inner Fold* |
+
+| ![Two Arms One Leg Immobilization - Pediatric Position Holder & Immobilizer](/images/two-arms-two-legs.jpeg) | 
+|:--:| 
+| *Two Arms Both Legs - Outer Fold* |
+
+| ![Two Arms Both Legs Immobilization - Pediatric Position Holder & Immobilizer](/images/ultrasound-back.jpeg) | 
+|:--:| 
+| *Ultrasound on Back* |
+
+| ![An IV line - Pediatric Position Holder & Immobilizer](/images/ultrasound-back.jpeg) | 
+|:--:| 
+| *IV Line* |
 
 ## Why we call it The Q
 
@@ -191,6 +203,10 @@ The Q is for single-patient use only to ensure compliance with infection prevent
 > “My son was wiggling too much to allow the technologist to get good ultrasound pictures. After we applied the foam holder, the technologist was able to get clearer pictures.”
 
 ~	Mom of 16 month old from Hobbs, NM
+
+| ![Casting Procedure - Pediatric Position Holder & Immobilizer](/images/cast.jpeg) | 
+|:--:| 
+| *Casting Procedure* |
 
 ## Creators
 *Frank Louis Quattromani, MD, Pediatric Radiologist*
