@@ -21,7 +21,7 @@ title: The "Q"
 
 ## Most pediatric medical procedures are better performed when the child is motionless
 
-<video controls style="width: 100% !important; height: auto !important;" title="Infant child moving and wiggling during procedure">
+<video controls style="width: 100% !important; height: auto !important;" title="Infant child moving and wiggling during procedure" poster="/images/wiggle.PNG">
   <source src="/videos/wiggle.mp4" type="video/mp4">
   <source src="/videos/wiggle.ogg" type="video/ogg">
    Your browser does not support HTML5 video.
