@@ -2,7 +2,8 @@
 title: The "Q"
 ---
 
-# Introducing The Q - Pediatric Position Holder
+# Introducing The Q
+## A Pediatric Position Holder
 
 <video controls style="width: 100% !important; height: auto !important;" title="Technical Drawing of the Pediatric Position Holder" poster="/images/PPH-drawing.PNG">
   <source src="/videos/PPH-drawing.mp4" type="video/mp4">
