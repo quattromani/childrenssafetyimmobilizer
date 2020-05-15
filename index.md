@@ -67,11 +67,11 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 
 | ![Chest and abdomen free for respirations - Pediatric Position Holder & Immobilizer](/images/IMG_1778-min_832x.jpg) | 
 |:--:| 
-| When fully deployed, our Q holder leaves the chest and abdomen free for unrestricted respirations |
+| When fully deployed, the Q holder leaves the chest and abdomen free for unrestricted respirations |
 
 <br>
 
-| ![Pediatric Position Holder & Immobilizer](/images/my-first-new-years.jpg) | 
+| ![Securing the NEck, Head, and Arms - Pediatric Position Holder & Immobilizer](/images/my-first-new-years.jpg) | 
 |:--:| 
 | The Q positioner maximizes contact, minimizes movement allowing for sufficient immobilization without unnecessary hands-on. |
 
