@@ -117,7 +117,7 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 
 | ![Pediatric Position Holder & Immobilizer](/images/CCLS.jpeg) | ![Pediatric Position Holder & Immobilizer](/images/CCLS-2.jpeg) |
 |:--:|:--:|
-| Medical play involving medical materials allows children to “play” out their feelings or anxieties regarding medical experiences | Children who participate in Medical Play experience less procedural disrtress |
+| Medical allows children to “play” out their feelings or anxieties regarding medical experiences | Children who participate in Medical Play experience less procedural disrtress |
 
 ---
 
