@@ -33,37 +33,31 @@ title: The "Q"
 
 | ![One Arm Immobilized - Pediatric Position Holder & Immobilizer](/images/one-arm.jpeg) | 
 |:--:| 
-| *One Arm* |
+| One Arm |
 
 | ![Two Arm Immobilization - Pediatric Position Holder & Immobilizer](/images/two-arms.jpeg) | 
 |:--:| 
-| *Two Arms* |
+| Two Arms |
 
 | ![Two Arms One Leg Immobilization - Pediatric Position Holder & Immobilizer](/images/two-arms-one-leg.jpeg) | 
 |:--:| 
-| *Two Arms One Leg - Inner Fold* |
+| Two Arms One Leg - Note the Inner Fold |
 
 | ![Two Arms One Leg Immobilization - Pediatric Position Holder & Immobilizer](/images/two-arms-two-legs.jpeg) | 
 |:--:| 
-| *Two Arms Both Legs - Outer Fold* |
+| Two Arms Both Legs - Outer Fold Surrounds and Secures |
 
 | ![Two Arms Both Legs Immobilization - Pediatric Position Holder & Immobilizer](/images/ultrasound-back.jpeg) | 
 |:--:| 
-| *Ultrasound on Back* |
+| Ultrasound on Back |
 
 | ![An IV line - Pediatric Position Holder & Immobilizer](/images/IV-line.jpeg) | 
 |:--:| 
-| *IV Line* |
+| IV Line Placement |
 
 ## Why we call it The Q
 
 The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “Dr. Q”), a board certified pediatric radiologist.
-
-<video controls style="width: 100% !important; height: auto !important;" title="Infant child playing with The Q pediatric position holder and immobilizer before procedure">
-  <source src="/images/IMG_7031.mp4" type="video/mp4">
-  <source src="/images/IMG_7031.ogg" type="video/ogg">
-   Your browser does not support HTML5 video.
-</video>
 
 ## Currently: 
 - up until now there has been no uniform standard agreement on how children should be temporarily held immobile for various medical procedures.
@@ -73,13 +67,13 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 
 | ![Chest and abdomen free for respirations - Pediatric Position Holder & Immobilizer](/images/IMG_1778-min_832x.jpg) | 
 |:--:| 
-| *When fully deployed, our Q holder leaves the chest and abdomen free for unrestricted respirations* |
+| When fully deployed, our Q holder leaves the chest and abdomen free for unrestricted respirations |
 
 <br>
 
 | ![Pediatric Position Holder & Immobilizer](/images/my-first-new-years.jpg) | 
 |:--:| 
-| *The Q positioner maximizes contact, minimizes movement allowing for sufficient immobilization without unnecessary hands-on.* |
+| The Q positioner maximizes contact, minimizes movement allowing for sufficient immobilization without unnecessary hands-on. |
 
 <br>
 
@@ -87,15 +81,9 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 
 <br>
 
-| ![Pediatric Position Holder & Immobilizer](/images/IMG_1977-min_832x.jpg) |  ![Pediatric Position Holder & Immobilizer](/images/IMG_1980-min_832x.jpg) | 
-
-<center><h4>Appropriate positioning improves the experience for the child and parent</h4></center>
-
-| ![Pediatric Position Holder & Immobilizer](/images/IMG_2081-min_832x.jpg) | 
+| ![Pediatric Position Holder & Immobilizer](/images/IMG_1977-min_832x.jpg) | 
 |:--:| 
-| *Helping the child focus somewhere else* |
-
-<br>
+| Appropriate positioning improves the experience for the child and parent. |
 
 ## Design
 
@@ -113,11 +101,11 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 - Designed for a more comfortable hold.
 - Can be warmed in a towel warmer prior to use.
 
-## Instructions
+## The Q is simple while allowing a variety of holds
 
 | ![Pediatric Position Holder & Immobilizer](/images/Flat_832x.jpg) | ![Pediatric Position Holder & Immobilizer](/images/wrapped_832x.jpg) | 
 |:--:|:--:| 
-| *Flat* | *Wrapped* |
+| Patient laid flat on the Pediatric Position Holder | Patient wrapped in the Pediatric Position Holder |
 
 ## Certified Child Life Specialists (CCLS)
 
@@ -129,7 +117,7 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 
 | ![Pediatric Position Holder & Immobilizer](/images/IMG_1641.jpg) |
 |:--:| 
-| *Comfortable, infants allow technicians to capture better images* |
+| Comfortable, infants allow technicians to capture better images |
 
 ---
 
@@ -205,7 +193,7 @@ The Q is for single-patient use only to ensure compliance with infection prevent
 
 | ![Casting Procedure - Pediatric Position Holder & Immobilizer](/images/cast.jpeg) | 
 |:--:| 
-| *Casting Procedure* |
+| A casting procedure using The Q |
 
 ## Creators
 *Frank Louis Quattromani, MD, Pediatric Radiologist*
@@ -215,8 +203,6 @@ The Q is for single-patient use only to ensure compliance with infection prevent
 * (Retired), U.S. Army Colonel (Medical Department)
 
 *Patricia Rae Quattromani, co-inventor and product designer*
-
-
 
 ---
 
