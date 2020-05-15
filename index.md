@@ -115,9 +115,9 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 - The Q is intended to compliemnts the work of the CCLS.
 - The CCLS can incorporate the Q as one of the "comfort kit" tools by using it for medical play.
 
-| ![Pediatric Position Holder & Immobilizer](/images/IMG_1641.jpg) |
-|:--:| 
-| Comfortable, infants allow technicians to capture better images |
+| ![Pediatric Position Holder & Immobilizer](/images/CCLS.jpeg) | ![Pediatric Position Holder & Immobilizer](/images/CCLS-2.jpeg) |
+|:--:|:--:|
+| Comfortable, infants allow technicians to capture better images |. |
 
 ---
 
