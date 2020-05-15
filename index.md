@@ -33,11 +33,11 @@ title: The "Q"
 
 | ![One Arm Immobilized - Pediatric Position Holder & Immobilizer](/images/one-arm.jpeg) | 
 |:--:| 
-| One Arm |
+| One Arm Immobilized |
 
 | ![Two Arm Immobilization - Pediatric Position Holder & Immobilizer](/images/two-arms.jpeg) | 
 |:--:| 
-| Two Arms |
+| Two Arms Immobilized |
 
 | ![Two Arms One Leg Immobilization - Pediatric Position Holder & Immobilizer](/images/two-arms-one-leg.jpeg) | 
 |:--:| 
@@ -67,7 +67,7 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 
 | ![Chest and abdomen free for respirations - Pediatric Position Holder & Immobilizer](/images/IMG_1778-min_832x.jpg) | 
 |:--:| 
-| When fully deployed, the Q holder leaves the chest and abdomen free for unrestricted respirations |
+| When fully deployed, the Q holder leaves the chest and abdomen free for unrestricted respirations. |
 
 <br>
 
