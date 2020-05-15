@@ -111,7 +111,7 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 - Does not interferer with tubes, lines and catheters.
 - The Q supports the head and neck as a unit.
 - Designed for a more comfortable hold.
-- Can be warmed in a towel warmer priot to use.
+- Can be warmed in a towel warmer prior to use.
 
 ## Instructions
 
