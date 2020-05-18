@@ -202,7 +202,7 @@ The Q allows the radiologic technologists to remain further from the primary and
 
 **Phone:** <a href="tel:1-806-778-2183">(806)778-2183</a> or <a href="tel:1-241-778-0373">(806)241-0373</a>
 
-**Email:** <f1quattromani@gmail.com>
+**Email:** <theQ-PPP@gmail.com>
 
 **Website:** [www.PediatricPositionHolder.com - The Q](https://pediatricpositionholder.com)
 
