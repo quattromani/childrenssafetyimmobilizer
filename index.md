@@ -5,6 +5,10 @@ title: The "Q"
 # Introducing The Q
 ## A Pediatric Position Holder
 
+## Why we call it The Q
+
+The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “Dr. Q”), a board certified pediatric radiologist.
+
 <video controls style="width: 100% !important; height: auto !important;" title="Technical Drawing of the Pediatric Position Holder" poster="/images/PPH-drawing.PNG">
   <source src="/videos/PPH-drawing.mp4" type="video/mp4">
   <source src="/videos/PPH-drawing.ogg" type="video/ogg">
@@ -15,8 +19,7 @@ title: The "Q"
 - The Q Position Holder is an emerging medical technology for children that standardizes the process of immobilization for medical procedures.
 - Our 1/2" thick, soft polyurethane foam holder has no extraneous straps, boards, or hook & loop attachments.
 - Our hope is that we can lessen the anxiety, fear, and distress which are ways that children respond to medical procedures.<sup>[1]</sup>
-- The Q Holder is used only for short periods in highly monitored settings.
-- The Q leaves the chest and abdomen free for unrestricted breathing.
+- The Q Holder is used for short periods in highly monitored settings.
 - No other position holder leaves the chest, abdomen and pelvis free for unrestricted respirations as well as uninterrupted tube and line placement.
 
 ## Most pediatric medical procedures are better performed when the child is motionless
@@ -55,10 +58,6 @@ title: The "Q"
 |:--:| 
 | IV Line Placement |
 
-## Why we call it The Q
-
-The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “Dr. Q”), a board certified pediatric radiologist.
-
 ## Currently: 
 - up until now there has been no uniform standard agreement on how children should be temporarily held immobile for various medical procedures.
 - today it is commonplace to tie-down, tape down, or physically hold down.
@@ -94,11 +93,9 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 - The contoured ergonomic design is a pure positioning innovation.
 - Reduces excessive force on the child's extremities without over-handling.
 - Contours to the child rather than forcing the child to fit the positioner.
-- Reduces excessive motion.
-- Minimizes pressure points with a thick comfortable foam.
+- Minimizes pressure points with a ½" thick comfortable foam.
 - Does not interferer with tubes, lines and catheters.
 - The Q supports the head and neck as a unit.
-- Designed for a more comfortable hold.
 - Can be warmed in a towel warmer prior to use.
 
 ## The Q is simple while allowing a variety of holds
@@ -111,8 +108,7 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 
 - Child Life Specialists focus on the psychosocial aspect of the child providing coping mechanisms for procedures.
 - Coping skills minimize the adverse effects on the child and parent.
-- The CCLS uses a family centered approach.
-- The Q is intended to compliemnts the work of the CCLS.
+- The Q is intended to compliments the work of the CCLS.
 - The CCLS can incorporate the Q as one of the "comfort kit" tools by using it for medical play.
 
 | ![Pediatric Position Holder & Immobilizer](/images/CCLS.jpeg) | ![Pediatric Position Holder & Immobilizer](/images/CCLS-2.jpeg) |
@@ -123,7 +119,7 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 
 ## Additional features and characteristics
 
--	100% polyester
+-	100% polyeurethane
 -	Latex-free
 -	Hypoallergenic
 -	Recyclable
@@ -135,8 +131,7 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 -	Single patient use (NOT to be reprocessed or reused)<sup>*Single patient use ensures compliance with infection preventive requirements and protocols</sup>
 -	Proudly made in the USA <i>![American Flag Icon](/images/united-states-of-america-flag-icon-32.png)</i>
 - Friction-based Hold
-
-Our positioner allows us to "hold without handling.”
+- Our positioner allows us to "hold without handling.”
 
 ---
 
@@ -170,7 +165,7 @@ The Q allows the radiologic technologists to remain further from the primary and
 
 | ![Mother & Child - Pediatric Position Holder & Immobilizer](/images/IMG_1970.jpg) |
 
-> “Months ago my baby had a VCUG the old way – technologists had to manually restrain my daughter during the procedure.Therefore, I was so apprehensive when we returned for our follow-up examination. This time the technologist used The Q Pediatric Position Holder. It was so much better for my baby and much less stressful for me as a parent.”
+> “Months ago my baby had a VCUG the old way – technologists had to manually restrain my daughter during the procedure.Therefore, I was so apprehensive when we returned for our follow-up examination. This time the technologist used The Q. It was so much better for my baby and much less stressful for me as a parent.”
 
 ~	Mom of 6 month old infant, Lubbock, TX
 
@@ -182,12 +177,9 @@ The Q allows the radiologic technologists to remain further from the primary and
 
 ~	Dad of 2 year old from Clovis, NM
 
-
-The Q is for single-patient use only to ensure compliance with infection prevention requirements and protocols.
-
 | ![Pediatric Position Holder & Immobilizer](/images/IMG_2127-min_832x.jpg)| 
 
-> “My son was wiggling too much to allow the technologist to get good ultrasound pictures. After we applied the foam holder, the technologist was able to get clearer pictures.”
+> “My son was wiggling too much to allow the technologist to get good ultrasound pictures. After we put on the foam holder, the technologist was able to get clearer pictures.”
 
 ~	Mom of 16 month old from Hobbs, NM
 
@@ -206,7 +198,7 @@ The Q is for single-patient use only to ensure compliance with infection prevent
 
 ---
 
-## For more information contact us at:
+## *For more information contact us at:*
 
 **Phone:** <a href="tel:1-806-778-2183">(806)778-2183</a> or <a href="tel:1-241-778-0373">(806)241-0373</a>
 
@@ -220,4 +212,4 @@ The Q is for single-patient use only to ensure compliance with infection prevent
     
 &copy; Copyright 2020, SJMJC, LLC.
 
-**Patent: #62/773,347**
+**Patent Pending: #62/773,347**
