@@ -128,7 +128,8 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 -	Reduces motion artifacts for imaging
 -	Gender neutral
 -	Non-sterile
--	Single patient use (NOT to be reprocessed or reused)<sup>*Single patient use ensures compliance with infection preventive requirements and protocols</sup>
+-	Single patient use (NOT to be reprocessed or reused)
+<sup>*Single patient use ensures compliance with infection preventive requirements and protocols</sup>
 -	Proudly made in the USA <i>![American Flag Icon](/images/united-states-of-america-flag-icon-32.png)</i>
 - Friction-based Hold
 - Our positioner allows us to "hold without handling.”
