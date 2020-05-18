@@ -119,7 +119,7 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 
 ## Additional features and characteristics
 
--	100% polyeurethane
+-	100% polyurethane
 -	Latex-free
 -	Hypoallergenic
 -	Recyclable
