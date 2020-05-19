@@ -164,7 +164,7 @@ The Q allows the radiologic technologists to remain further from the primary and
 
 <figure>
   <img src="/images/IMG_2127-min_400x.jpg" alt="Parent and Child - Pediatric Position Holder & Immobilizer <">
-  <blockquote>“My son was wiggling too much to allow the technologist to get good ultrasound pictures. After we put on the foam holder, the technologist was able to get clearer pictures.”<blockquote>
+  <blockquote>“My son was wiggling too much to allow the technologist to get good ultrasound pictures. After we put on the foam holder, the technologist was able to get clearer pictures.”</blockquote>
   <h5>Mom of 16 month old from Hobbs, NM</h5>
 </figure>  
 
