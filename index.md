@@ -173,7 +173,7 @@ The Q allows the radiologic technologists to remain further from the primary and
 ~	Mom of 16 month old from Hobbs, NM
 
 ## Creators
-| ![Dr. Frank Louis Quattromani, M.D.](/images/IMG_3791.JPG) | *Frank Louis Quattromani, MD, Pediatric Radiologist*
+| ![Dr. Frank Louis Quattromani, M.D.](/images/IMG_3791.JPG) | *Frank Louis Quattromani, MD, Pediatric Radiologist
 * University Medical Center, Lubbock, Texas
 * Clinical Professor of Pediatrics and Pathology, Texas Tech University School of Medicine, Lubbock, Texas
 * Former Radiology Consultant to the United States Army Office of the Surgeon General
