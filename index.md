@@ -156,11 +156,15 @@ The Q allows the radiologic technologists to remain further from the primary and
 
 ~	Mom of 6 month old infant, Lubbock, TX
 
+<hr>
+
 ![Dad holding daughter - Pediatric Position Holder & Immobilizer <](/images/IMG_1672_400x.jpg)
 
 > “My daughter was so happy you let me stay in the room during the procedure. My daughter stayed focused on me and the Q holder and less on the room and scary machines.”
 
 ~	Dad of 2 year old from Clovis, NM
+
+<hr>
 
 ![Parent and Child - Pediatric Position Holder & Immobilizer >](/images/IMG_2127-min_400x.jpg)
 
