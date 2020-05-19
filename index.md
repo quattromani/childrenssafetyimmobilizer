@@ -40,7 +40,7 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 |:--:|:--:| 
 | ##### Both Arms And Legs Held Securely | ##### Legs Have a Perineum Flap |
 
-### The Q positioner maximizes contact, minimizes movement allowing for sufficient immobilization without unnecessary hands-on
+## The Q positioner maximizes contact, minimizes movement allowing for sufficient immobilization without unnecessary hands-on
 
 | ![One Arm Immobilized - Pediatric Position Holder & Immobilizer](/images/one-arm.jpeg) | ![Two Arm Immobilization - Pediatric Position Holder & Immobilizer](/images/two-arms.jpeg) | 
 |:--:|:--:|
