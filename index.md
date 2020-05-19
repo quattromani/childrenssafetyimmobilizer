@@ -5,7 +5,7 @@ title: The "Q"
 # Introducing The Q
 ## A Pediatric Position Holder
 
-## Why we call it The Q
+### **Why we call it The Q**
 
 The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “Dr. Q”), a board certified pediatric radiologist.
 
@@ -150,7 +150,7 @@ The Q allows the radiologic technologists to remain further from the primary and
 
 ## Parents are positive about The Q
 
-| ![Mother & Child - Pediatric Position Holder & Immobilizer](/images/IMG_1970.jpg) |
+| ![Mother & Child - Pediatric Position Holder & Immobilizer >](/images/IMG_1970_400x.jpg) |
 
 > “Months ago my baby had a VCUG the old way – technologists had to manually restrain my daughter during the procedure.Therefore, I was so apprehensive when we returned for our follow-up examination. This time the technologist used The Q. It was so much better for my baby and much less stressful for me as a parent.”
 
@@ -158,7 +158,7 @@ The Q allows the radiologic technologists to remain further from the primary and
 
 ---
 
-| ![Pediatric Position Holder & Immobilizer](/images/IMG_1672.jpg) | 
+| ![Dad holding daughter - Pediatric Position Holder & Immobilizer <](/images/IMG_1672_400x.jpg) | 
 
 > “My daughter was so happy you let me stay in the room during the procedure. My daughter stayed focused on me and the Q holder and less on the room and scary machines.”
 
@@ -166,7 +166,7 @@ The Q allows the radiologic technologists to remain further from the primary and
 
 ---
 
-| ![Pediatric Position Holder & Immobilizer](/images/IMG_2127-min_832x.jpg) | 
+| ![Parent and Child - Pediatric Position Holder & Immobilizer >](/images/IMG_2127-min_400x.jpg) | 
 
 > “My son was wiggling too much to allow the technologist to get good ultrasound pictures. After we put on the foam holder, the technologist was able to get clearer pictures.”
 
