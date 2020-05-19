@@ -98,11 +98,11 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 
 ## Radiation reduction
 
-![Pediatric Position Holder & Immobilizer >](/images/IMG_1977-min_832x.jpg)
-
 The opportunity to reduce radiation exposure is a critical issue within the pediatric radiology community. The Q assists children to remain montionless for diagnostic X-Rays, thus fewer exposures could mean less radiation. 
 
 The Q allows the radiologic technologists to remain further from the primary and scatter radiation.
+
+![Pediatric Position Holder & Immobilizer ><](/images/IMG_1977-min_832x.jpg)
 
 ## Design
 
