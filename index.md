@@ -151,24 +151,27 @@ The Q allows the radiologic technologists to remain further from the primary and
 ## Parents are positive about The Q
 
 <figure>
+  <img src="/images/IMG_1970_400x.png" alt="Mother & Child - Pediatric Position Holder & Immobilizer <">
+  > “Months ago my baby had a VCUG the old way – technologists had to manually restrain my daughter during the procedure.Therefore, I was so apprehensive when we returned for our follow-up examination. This time the technologist used The Q. It was so much better for my baby and much less stressful for me as a parent.”
 
-![Mother & Child - Pediatric Position Holder & Immobilizer <](/images/IMG_1970_400x.png)
-
-> “Months ago my baby had a VCUG the old way – technologists had to manually restrain my daughter during the procedure.Therefore, I was so apprehensive when we returned for our follow-up examination. This time the technologist used The Q. It was so much better for my baby and much less stressful for me as a parent.”
-
-~	Mom of 6 month old infant, Lubbock, TX
-
+  #####	Mom of 6 month old infant, Lubbock, TX
 </figure>
 
 <figure>
-  
-![Dad holding daughter - Pediatric Position Holder & Immobilizer >](/images/IMG_1672_400x.jpg)
+  <img src="/images/IMG_1672_400x.jpg" alt="Dad holding daughter - Pediatric Position Holder & Immobilizer >">
+  > “My daughter was so happy you let me stay in the room during the procedure. My daughter stayed focused on me and the Q holder and less on the room and scary machines.”
 
-> “My daughter was so happy you let me stay in the room during the procedure. My daughter stayed focused on me and the Q holder and less on the room and scary machines.”
-
-~	Dad of 2 year old from Clovis, NM
-
+  #####	Dad of 2 year old from Clovis, NM
 </figure>
+
+<figure>
+  <img src="/images/IMG_2127-min_400x.jpg" alt="Parent and Child - Pediatric Position Holder & Immobilizer <">
+  > “My son was wiggling too much to allow the technologist to get good ultrasound pictures. After we put on the foam holder, the technologist was able to get clearer pictures.”
+
+  #####	Mom of 16 month old from Hobbs, NM
+</figure>
+
+
 
 <figure>
   
