@@ -14,7 +14,6 @@ h1, h2, h3, h4, h5, h6 {
   color: black !important;
   font-family: 'Comfortaa', cursive;
   text-transform: uppercase;
-  clear: both;
 }
 
 h1 + h2,
@@ -70,10 +69,12 @@ video[poster]{
 
 img[alt$=">"] {
   float: right;
+  margin-left: 2rem;
 }
 
 img[alt$="<"] {
   float: left;
+  margin-left: 2rem;
 }
 
 img[alt$="><"] {
