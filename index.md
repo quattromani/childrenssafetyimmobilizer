@@ -110,21 +110,23 @@ The opportunity to reduce radiation exposure is a critical issue within the pedi
 
 The Q allows the radiologic technologists to remain further from the primary and scatter radiation.
 
-| <video controls style="width: 100% !important; height: auto !important;">
+<video controls style="width: 100% !important; height: auto !important;">
   <source src="/videos/IMG_0467.mp4" type="video/mp4">
   <source src="/videos/IMG_0467.ogv" type="video/ogg">
   <p>Your browser doesn't support the HTML5 video tag.</p>
-</video> | 
+</video> 
+
 <video controls style="width: 100% !important; height: auto !important;">
   <source src="/videos/IMG_0469.mp4" type="video/mp4">
   <source src="/videos/IMG_0469.ogv" type="video/ogg">
   <p>Your browser doesn't support the HTML5 video tag.</p>
-</video>  | <video controls style="width: 100% !important; height: auto !important;">
+</video>  
+
+<video controls style="width: 100% !important; height: auto !important;">
   <source src="/videos/IMG_0470.mp4" type="video/mp4">
   <source src="/videos/IMG_0470.ogv" type="video/ogg">
   <p>Your browser doesn't support the HTML5 video tag.</p>
-</video>  |
-|---|---|---|
+</video>
 
 | ![Pediatric Position Holder & Immobilizer](/images/IMG_1977-min_832x.jpg) | 
 |:--:| 
