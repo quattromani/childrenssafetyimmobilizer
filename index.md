@@ -24,21 +24,21 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 
 ## The Q solves immobilization challenges better and with less stress on the patient
 
-| ![Pediatric Position Holder & Immobilizer](/images/flat-holder.jpeg) |  ![Pediatric Position Holder & Immobilizer](/images/holder.jpeg) | 
-
-| ![Pediatric Position Holder & Immobilizer](/images/2_one_arm_wrapped.jpg) |  ![Pediatric Position Holder & Immobilizer](/images/3_two_arms_wrapped.jpg) | 
-
-| ![Pediatric Position Holder & Immobilizer](/images/4_two_arms_one_leg_wrapped.jpg) |  ![Pediatric Position Holder & Immobilizer](/images/5_both_arms_and_legs_wrapped.jpg) | 
-
-| ![Pediatric Position Holder & Immobilizer](/images/6_foldover.jpg) | 
-
+| ![Pediatric Position Holder & Immobilizer](/images/flat-holder.jpeg) |  ![Pediatric Position Holder & Immobilizer](/images/flat-holder.jpeg) | 
 
 ## The Q is simple while allowing a variety of holds
 
-| ![Pediatric Position Holder & Immobilizer](/images/Flat_832x.jpg) | ![Pediatric Position Holder & Immobilizer](/images/wrapped_832x.jpg) | 
+| ![Pediatric Position Holder & Immobilizer](/images/Flat_832x.jpg) | ![Pediatric Position Holder & Immobilizer](/images/2_one_arm_wrapped.jpg) | 
 |:--:|:--:| 
-| Patient laid flat on the Pediatric Position Holder | Patient wrapped in the Pediatric Position Holder |
+| Patient laid flat on the Pediatric Position Holder | One Arm Wrap |
 
+| ![Pediatric Position Holder & Immobilizer](/images/3_two_arms_wrapped.jpg) |  ![Pediatric Position Holder & Immobilizer](/images/4_two_arms_one_leg_wrapped.jpg) | 
+|:--:|:--:| 
+| Patient laid flat on the Pediatric Position Holder | One Arm Wrap |
+
+| ![Pediatric Position Holder & Immobilizer](/images/5_both_arms_and_legs_wrapped.jpg) |  ![Pediatric Position Holder & Immobilizer](/images/6_foldover.jpg) | 
+|:--:|:--:| 
+| Patient laid flat on the Pediatric Position Holder | One Arm Wrap |
 
 ### The Q positioner maximizes contact, minimizes movement allowing for sufficient immobilization without unnecessary hands-on
 
