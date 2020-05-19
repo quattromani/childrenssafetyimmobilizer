@@ -185,8 +185,6 @@ Former Radiology Consultant to the United States Army Office of the Surgeon Gene
 #### Patricia Rae Quattromani
 ##### Co-Inventor and Product Designer
 
----
-
 ## **For more information contact us at:**
 
 **Phone:** <a href="tel:1-806-778-2183">(806)778-2183</a> or <a href="tel:1-241-778-0373">(806)241-0373</a>
