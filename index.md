@@ -134,6 +134,8 @@ The Q allows the radiologic technologists to remain further from the primary and
 
 ## Design
 
+![Pediatric Position Holder & Immobilizer >](/images/IMG_2059-min_832x.png)  
+
 - Designed with field-testing for maximum usability.
 - Designed to be compatible with all major commercial imaging systems.
 - Designed so as not to confine.
@@ -145,8 +147,6 @@ The Q allows the radiologic technologists to remain further from the primary and
 - Does not interferer with tubes, lines and catheters.
 - The Q supports the head and neck as a unit.
 - Can be warmed in a towel warmer prior to use.
-
-| ![Pediatric Position Holder & Immobilizer](/images/IMG_2059-min_832x.png) | 
 
 ## Parents are positive about The Q
 
