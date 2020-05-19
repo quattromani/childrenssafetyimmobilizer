@@ -134,7 +134,7 @@ The Q allows the radiologic technologists to remain further from the primary and
 
 ## Design
 
-![Pediatric Position Holder & Immobilizer >](/images/IMG_2059-min_832x.png)  
+![Pediatric Position Holder & Immobilizer >](/images/IMG_2059-min_400x.png)  
 
 - Designed with field-testing for maximum usability.
 - Designed to be compatible with all major commercial imaging systems.
