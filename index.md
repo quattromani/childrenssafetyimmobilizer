@@ -35,21 +35,13 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 
 ### The Q positioner maximizes contact, minimizes movement allowing for sufficient immobilization without unnecessary hands-on
 
-| ![One Arm Immobilized - Pediatric Position Holder & Immobilizer](/images/one-arm.jpeg) | 
-|:--:| 
-| One Arm Immobilized |
+| ![One Arm Immobilized - Pediatric Position Holder & Immobilizer](/images/one-arm.jpeg) | ![Two Arm Immobilization - Pediatric Position Holder & Immobilizer](/images/two-arms.jpeg) | 
+|:--:|:--:|
+| One Arm Immobilized | Two Arms Immobilized |
 
-| ![Two Arm Immobilization - Pediatric Position Holder & Immobilizer](/images/two-arms.jpeg) | 
-|:--:| 
-| Two Arms Immobilized |
-
-| ![Two Arms One Leg Immobilization - Pediatric Position Holder & Immobilizer](/images/two-arms-one-leg.jpeg) | 
-|:--:| 
-| Two Arms One Leg - Note the Inner Fold |
-
-| ![Two Arms One Leg Immobilization - Pediatric Position Holder & Immobilizer](/images/two-arms-two-legs.jpeg) | 
-|:--:| 
-| Two Arms Both Legs - Outer Fold Surrounds and Secures |
+| ![Two Arms One Leg Immobilization - Pediatric Position Holder & Immobilizer](/images/two-arms-one-leg.jpeg) | ![Two Arms One Leg Immobilization - Pediatric Position Holder & Immobilizer](/images/two-arms-two-legs.jpeg) | 
+|:--:|:--:|
+| Two Arms One Leg - Note the Inner Fold | Two Arms Both Legs - Outer Fold Surrounds and Secures |
 
 | ![Two Arms Both Legs Immobilization - Pediatric Position Holder & Immobilizer](/images/ultrasound-back.jpeg) | 
 |:--:| 
