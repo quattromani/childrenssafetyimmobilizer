@@ -150,7 +150,7 @@ The Q allows the radiologic technologists to remain further from the primary and
 
 ## Parents are positive about The Q
 
-| ![Mother & Child - Pediatric Position Holder & Immobilizer >](/images/IMG_1970_400x.jpg) |
+| ![Mother & Child - Pediatric Position Holder & Immobilizer >](/images/IMG_1970_400x.png) |
 
 > “Months ago my baby had a VCUG the old way – technologists had to manually restrain my daughter during the procedure.Therefore, I was so apprehensive when we returned for our follow-up examination. This time the technologist used The Q. It was so much better for my baby and much less stressful for me as a parent.”
 
