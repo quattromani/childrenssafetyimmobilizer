@@ -177,10 +177,10 @@ The Q allows the radiologic technologists to remain further from the primary and
 
 #### Frank Louis Quattromani, M.D. 
 ##### Pediatric Radiologist
-University Medical Center, Lubbock, Texas
-Clinical Professor of Pediatrics and Pathology, Texas Tech University School of Medicine, Lubbock, Texas
-Former Radiology Consultant to the United States Army Office of the Surgeon General
-(Retired), U.S. Army Colonel (Medical Department) |
+University Medical Center, Lubbock, Texas  
+Clinical Professor of Pediatrics and Pathology, Texas Tech University School of Medicine, Lubbock, Texas  
+Former Radiology Consultant to the United States Army Office of the Surgeon General  
+(Retired), U.S. Army Colonel (Medical Department)  
 
 #### Patricia Rae Quattromani
 ##### Co-Inventor and Product Designer
