@@ -24,7 +24,7 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 
 ## The Q solves immobilization challenges better and with less stress on the patient
 
-| ![Pediatric Position Holder & Immobilizer](/images/flat-holder.jpeg) |  ![Pediatric Position Holder & Immobilizer](/images/flat-holder.jpeg) | 
+| ![Pediatric Position Holder & Immobilizer](/images/flat-holder.jpeg) |  ![Pediatric Position Holder & Immobilizer](/images/holder.jpeg) | 
 
 ## The Q is simple while allowing a variety of holds
 
