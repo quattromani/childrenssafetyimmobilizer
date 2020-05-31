@@ -10,8 +10,8 @@ title: The "Q"
 The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “Dr. Q”), a board certified pediatric radiologist.
 
 <video controls style="width: 100% !important; height: auto !important;" title="Technical Drawing of the Pediatric Position Holder" poster="/images/PPH-drawing.PNG">
-  <source src="/videos/PPH-drawing.mp4" type="video/mp4">
-  <source src="/videos/PPH-drawing.ogg" type="video/ogg">
+  <source src="/videos/PPH-drawing-short.mp4" type="video/mp4">
+  <source src="/videos/PPH-drawing-short.ogv" type="video/ogg">
   Your browser does not support HTML5 video.
 </video>
 
