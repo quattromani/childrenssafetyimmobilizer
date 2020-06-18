@@ -9,7 +9,7 @@ title: The "Q"
 
 The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “Dr. Q”), a board certified pediatric radiologist.
 
-<video controls style="width: 100% !important; height: auto !important;" title="Technical Drawing of the Pediatric Position Holder" poster="/images/PPH-drawing.PNG">
+<video controls autoplay style="width: 100% !important; height: auto !important;" title="Technical Drawing of the Pediatric Position Holder" poster="/images/PPH-drawing.PNG">
   <source src="/videos/PPH-drawing-short.mp4" type="video/mp4">
   <source src="/videos/PPH-drawing-short.ogv" type="video/ogg">
   Your browser does not support HTML5 video.
@@ -97,7 +97,7 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 
 ## Most pediatric medical procedures are better performed when the child is motionless
 
-<video controls style="width: 100% !important; height: auto !important;" title="Infant child moving and wiggling during procedure" poster="/images/wiggle.PNG">
+<video controls autoplay style="width: 100% !important; height: auto !important;" title="Infant child moving and wiggling during procedure" poster="/images/wiggle.PNG">
   <source src="/videos/wiggle.mp4" type="video/mp4">
   <source src="/videos/wiggle.ogg" type="video/ogg">
    Your browser does not support HTML5 video.
