@@ -9,11 +9,14 @@ title: The "Q"
 
 The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “Dr. Q”), a board certified pediatric radiologist.
 
-<video controls autoplay style="width: 100% !important; height: auto !important;" title="Technical Drawing of the Pediatric Position Holder" poster="/images/PPH-drawing.PNG">
+<video controls autoplay style="width: 100% !important; height: auto !important;" title="Technical Drawing of the Pediatric Position Holder" poster="/images/PPH-drawing.PNG" id="vid1">
   <source src="/videos/PPH-drawing-short.mp4" type="video/mp4">
   <source src="/videos/PPH-drawing-short.ogv" type="video/ogg">
   Your browser does not support HTML5 video.
 </video>
+<script>
+  document.getElementById('vid1').play();
+</script>
 
 - The Q Pediatric Position Holder is a revolutionary new child friendly, single patient use immobilizer which is effective, safe, simple and versatile.
 - The Q Position Holder is an emerging medical technology for children that standardizes the process of immobilization for medical procedures.
@@ -97,11 +100,14 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 
 ## Most pediatric medical procedures are better performed when the child is motionless
 
-<video controls autoplay style="width: 100% !important; height: auto !important;" title="Infant child moving and wiggling during procedure" poster="/images/wiggle.PNG">
+<video controls autoplay style="width: 100% !important; height: auto !important;" title="Infant child moving and wiggling during procedure" poster="/images/wiggle.PNG" id="vid2">
   <source src="/videos/wiggle.mp4" type="video/mp4">
   <source src="/videos/wiggle.ogg" type="video/ogg">
    Your browser does not support HTML5 video.
 </video>
+<script>
+  document.getElementById('vid2').play();
+</script>
 
 ## Radiation reduction
 
