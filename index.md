@@ -14,9 +14,6 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
   <source src="/videos/PPH-drawing-short.ogv" type="video/ogg">
   Your browser does not support HTML5 video.
 </video>
-<script>
-  document.getElementById('vid1').play();
-</script>
 
 - The Q Pediatric Position Holder is a revolutionary new child friendly, single patient use immobilizer which is effective, safe, simple and versatile.
 - The Q Position Holder is an emerging medical technology for children that standardizes the process of immobilization for medical procedures.
@@ -105,9 +102,6 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
   <source src="/videos/wiggle.ogg" type="video/ogg">
    Your browser does not support HTML5 video.
 </video>
-<script>
-  document.getElementById('vid2').play();
-</script>
 
 ## Radiation reduction
 
