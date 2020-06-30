@@ -58,8 +58,6 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 
 ## Design
 
-![Pediatric Position Holder & Immobilizer >](/images/IMG_2059-min_400x.png)  
-
 - Designed with field-testing for maximum usability.
 - Designed to be compatible with all major commercial imaging systems.
 - Designed so as not to give the sensation of being confined.
@@ -90,10 +88,31 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 - Friction-based Hold
 - Our positioner allows us to "hold without handling.”
 
+## The Q positioner maximizes contact, minimizes movement allowing for sufficient immobilization without unnecessary hands-on
+
+## Creators
+![Dr. Frank Louis Quattromani, M.D. >](/images/IMG_3791.JPG)
+
+#### Frank Louis Quattromani, M.D. 
+##### Pediatric Radiologist
+- University Medical Center, Lubbock, Texas  
+- Clinical Professor of Pediatrics and Pathology, Texas Tech University School of Medicine, Lubbock, Texas  
+- Former Radiology Consultant to the office of the United States Army Surgeon General  
+- U.S. Army Colonel (Medical Department), Retired  
+
+#### Patricia Rae Quattromani
+##### Co-Inventor and Product Designer
+
+## **For more information contact us at:**
+
+**Phone:** <a href="tel:1-806-778-2183">(806)778-2183</a> or <a href="tel:1-241-778-0373">(806)241-0373</a>
+
+**Email:** <pphtheq@gmail.com>
+
+**Website:** [www.PediatricPositionHolder.com - The Q](https://pediatricpositionholder.com)
+
 # Read More
 ## (Including testimonials)
-
-
 
 ## Most pediatric medical procedures are better performed when the child is motionless
 
@@ -103,13 +122,19 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
    Your browser does not support HTML5 video.
 </video>
 
-## Radiation reduction
+## Radiation reduction<br>(Reduccion De La Radiacion)
 
 The opportunity to reduce radiation exposure is a critical issue within the pediatric radiology community. The Q assists children to remain montionless for diagnostic X-Rays, thus fewer exposures could mean less radiation. 
 
 The Q allows the radiologic technologists to remain further from the primary and scatter radiation.
 
-![Pediatric Position Holder & Immobilizer ><](/images/IMG_1977-min_832x.jpg)
+| ![Pediatric Position Holder & Immobilizer ><](/images/IMG_1977-min_832x.jpg) |
+|:--:|
+| Child In A Flouroscope<br>(La Q Se Mantiene En El Flouroscopia) |
+
+| ![Pediatric Position Holder & Immobilizer >](/images/IMG_2059-min_400x.png) |
+|:--:|
+| Child In A CT Scanner<br>(La Q Se Mantiene En El Catscan) |
 
 ## Parents are positive about The Q
 
@@ -131,31 +156,10 @@ The Q allows the radiologic technologists to remain further from the primary and
   <h5>Mom of 16 month old from Hobbs, NM</h5>
 </figure>  
 
-## Creators
-![Dr. Frank Louis Quattromani, M.D. >](/images/IMG_3791.JPG)
-
-#### Frank Louis Quattromani, M.D. 
-##### Pediatric Radiologist
-- University Medical Center, Lubbock, Texas  
-- Clinical Professor of Pediatrics and Pathology, Texas Tech University School of Medicine, Lubbock, Texas  
-- Former Radiology Consultant to the United States Army Office of the Surgeon General  
-- (Retired), U.S. Army Colonel (Medical Department)  
-
-#### Patricia Rae Quattromani
-##### Co-Inventor and Product Designer
-
-## **For more information contact us at:**
-
-**Phone:** <a href="tel:1-806-778-2183">(806)778-2183</a> or <a href="tel:1-241-778-0373">(806)241-0373</a>
-
-**Email:** <pphtheq@gmail.com>
-
-**Website:** [www.PediatricPositionHolder.com - The Q](https://pediatricpositionholder.com)
-
 ---
 
 [1] Infant immobilization and pediatric papooses: We've come a long way. Journal of Emergency Nursing Oct. 2007; 33:451-5
     
 &copy; Copyright 2020, SJMJC, LLC.
 
-**Patent Pending: #62/773,347**
+**Patent Number: #US 2020-017828A1**
