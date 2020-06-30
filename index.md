@@ -128,13 +128,9 @@ The opportunity to reduce radiation exposure is a critical issue within the pedi
 
 The Q allows the radiologic technologists to remain further from the primary and scatter radiation.
 
-| ![Pediatric Position Holder & Immobilizer](/images/IMG_1977-min_832x.jpg) |
-|:--:|
-| Child In A Flouroscope<br>(La Q Se Mantiene En El Flouroscopia) |
-
-| ![Pediatric Position Holder & Immobilizer](/images/IMG_2059-min_400x.png) |
-|:--:|
-| Child In A CT Scanner<br>(La Q Se Mantiene En El Catscan) |
+| ![Pediatric Position Holder & Immobilizer](/images/IMG_1977-min_832x.jpg) | ![Pediatric Position Holder & Immobilizer](/images/IMG_2059-min_400x.png) |
+|:--:|:--:|
+| Child In A Flouroscope<br>(La Q Se Mantiene En El Flouroscopia) | Child In A CT Scanner<br>(La Q Se Mantiene En El Catscan) |
 
 ## Parents are positive about The Q
 
