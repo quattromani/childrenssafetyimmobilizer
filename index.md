@@ -31,19 +31,19 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 
 | ![Two Arms One Leg Immobilization - Pediatric Position Holder & Immobilizer](/images/two-arms-one-leg.jpeg) | ![Two Arms One Leg Immobilization - Pediatric Position Holder & Immobilizer](/images/two-arms-two-legs.jpeg) | 
 |:--:|:--:|
-| Two Arms One Leg - Note the Inner Fold | Two Arms Both Legs - Outer Fold Surrounds and Secures |
+| Two Arms One Leg - Note the Inner Fold<br>(Dos Brazos Y Una Pierna Envueltos) | Two Arms Both Legs - Outer Fold Surrounds and Secures<br>(Dos Brazos Y Dos Piernas Envueltos) |
 
 | ![Two Arms Both Legs Immobilization - Pediatric Position Holder & Immobilizer](/images/ultrasound-back.jpeg) | 
 |:--:| 
-| Ultrasound on Back |
+| Ultrasound on Back<br>(Procedimiento Ultrasonido) |
 
 | ![An IV line - Pediatric Position Holder & Immobilizer](/images/IV-line.jpeg) | 
 |:--:| 
-| IV Line Placement |
+| IV Line Placement<br>(Procedimento Intravenosus) |
 
 | ![Casting Procedure - Pediatric Position Holder & Immobilizer](/images/cast.jpeg) | 
 |:--:| 
-| A casting procedure using The Q |
+| A casting procedure using The Q<br>(Procedimiento Con Yeso) |
 
 ## Certified Child Life Specialists (CCLS)
 
@@ -56,8 +56,25 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 |:--:|:--:|
 | Medical play allows children to “play” out anxieties regarding medical experiences | Children who participate in Medical Play experience less procedural distress |
 
+## Design
+
+![Pediatric Position Holder & Immobilizer >](/images/IMG_2059-min_400x.png)  
+
+- Designed with field-testing for maximum usability.
+- Designed to be compatible with all major commercial imaging systems.
+- Designed so as not to give the sensation of being confined.
+- The design keeps the arms and legs away form the chest and abdomen leaving the chest "open" for better respirations.
+- The contoured ergonomic design is a pure positioning innovation.
+- Reduces excessive force on the child's extremities without over-handling.
+- Contours to the child rather than forcing the child to fit the positioner.
+- Minimizes pressure points with a ½ inch thick comfortable foam.
+- Does not interferer with tubes, lines and catheters.
+- The Q supports the head and neck as a unit.
+- Can be warmed in a towel warmer prior to use.
+
 ## Additional features and characteristics
 
+- Multiyear Expiration Date
 -	100% polyurethane
 -	Latex-free
 -	Hypoallergenic
@@ -93,22 +110,6 @@ The opportunity to reduce radiation exposure is a critical issue within the pedi
 The Q allows the radiologic technologists to remain further from the primary and scatter radiation.
 
 ![Pediatric Position Holder & Immobilizer ><](/images/IMG_1977-min_832x.jpg)
-
-## Design
-
-![Pediatric Position Holder & Immobilizer >](/images/IMG_2059-min_400x.png)  
-
-- Designed with field-testing for maximum usability.
-- Designed to be compatible with all major commercial imaging systems.
-- Designed so as not to confine.
-- The design keeps the arms and legs away form the chest and abdomen leaving the chest "open" for better respirations.
-- The contoured ergonomic design is a pure positioning innovation.
-- Reduces excessive force on the child's extremities without over-handling.
-- Contours to the child rather than forcing the child to fit the positioner.
-- Minimizes pressure points with a ½" thick comfortable foam.
-- Does not interferer with tubes, lines and catheters.
-- The Q supports the head and neck as a unit.
-- Can be warmed in a towel warmer prior to use.
 
 ## Parents are positive about The Q
 
