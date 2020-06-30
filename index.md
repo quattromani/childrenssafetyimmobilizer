@@ -6,7 +6,7 @@ title: The "Q"
 ## A Pediatric Position Holder
 
 ### **Why we call it The Q**
-#### (Por Que Lo LLamomos La Q)
+### (Por Que Lo LLamomos La Q)
 
 The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “Dr. Q”), a board certified pediatric radiologist.
 
@@ -17,35 +17,17 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 </video>
 
 - The Q Pediatric Position Holder is a revolutionary new child friendly, single patient use immobilizer which is effective, safe, simple and versatile.
-- The Q Position Holder is an emerging medical technology for children that standardizes the process of immobilization for medical procedures.
+- The Q Position Holder is an emerging medical technology for children that standardizes the process of immobilization of the child for medical procedures.
 - Our 1/2" thick, soft polyurethane foam holder has no extraneous straps, boards, or hook & loop attachments.
 - Our hope is that we can lessen the anxiety, fear, and distress which are ways that children respond to medical procedures.<sup>[1]</sup>
 - The Q Holder is used for short periods in highly monitored settings.
 - No other position holder leaves the chest, abdomen and pelvis free for unrestricted respirations as well as uninterrupted tube and line placement.
 
-## The Q solves immobilization challenges better and with less stress on the patient
-
-| ![Pediatric Position Holder & Immobilizer](/images/flat-holder.jpeg) |  ![Pediatric Position Holder & Immobilizer](/images/holder.jpeg) | 
-
-## The Q is simple while allowing a variety of holds
-
-| ![Pediatric Position Holder & Immobilizer](/images/Flat_832x.jpg) | ![Pediatric Position Holder & Immobilizer](/images/2_one_arm_wrapped.jpg) | 
-|:--:|:--:| 
-| Patient laid flat on the Pediatric Position Holder | A One Arm Hold |
-
-| ![Pediatric Position Holder & Immobilizer](/images/3_two_arms_wrapped.jpg) |  ![Pediatric Position Holder & Immobilizer](/images/4_two_arms_one_leg_wrapped.jpg) | 
-|:--:|:--:| 
-| A Two Arm Hold | Two Arms and One Leg Hold |
-
-| ![Pediatric Position Holder & Immobilizer](/images/5_both_arms_and_legs_wrapped.jpg) |  ![Pediatric Position Holder & Immobilizer](/images/6_foldover.jpg) | 
-|:--:|:--:| 
-| Both Arms And Legs Held Securely | Perineum flap folds against the leg and outer flap wraps around leg for additional support and comfort |
-
 ## The Q positioner maximizes contact, minimizes movement allowing for sufficient immobilization without unnecessary hands-on
 
 | ![One Arm Immobilized - Pediatric Position Holder & Immobilizer](/images/one-arm.jpeg) | ![Two Arm Immobilization - Pediatric Position Holder & Immobilizer](/images/two-arms.jpeg) | 
 |:--:|:--:|
-| One Arm Immobilized | Two Arms Immobilized |
+| One Arm Immobilized<br>(Un Brazo Envuelto) | Two Arms Immobilized<br>(Dos Brazos Envueltos Alrededor) |
 
 | ![Two Arms One Leg Immobilization - Pediatric Position Holder & Immobilizer](/images/two-arms-one-leg.jpeg) | ![Two Arms One Leg Immobilization - Pediatric Position Holder & Immobilizer](/images/two-arms-two-legs.jpeg) | 
 |:--:|:--:|
