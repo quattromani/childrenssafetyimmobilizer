@@ -169,7 +169,7 @@ The Q allows the radiologic technologists to remain further from the primary and
 </figure>  
 
 ---
-    
+<div style="clear: both;"></div>    
 &copy; Copyright 2020, SJMJC, LLC.
 
 **Patent Number: #US 2020-017828A1**
