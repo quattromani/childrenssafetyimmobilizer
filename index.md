@@ -19,7 +19,7 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 - The Q Pediatric Position Holder is a revolutionary new child friendly, single patient use holder which is effective, safe, simple and versatile.
 - The Q Position Holder is an emerging medical technology for children that standardizes the process of securely holding the child for medical procedures.
 - Our 1/2" thick, soft polyurethane foam holder has no extraneous straps, boards, or hook & loop attachments.
-- Our hope is that we can lessen the anxiety, fear, and distress which are ways that children respond to medical procedures.<sup>[1]</sup>
+- Our hope is that we can lessen the anxiety, fear, and distress which are ways that children respond to medical procedures.
 - The Q Holder is used for short periods in highly monitored settings.
 - No other position holder leaves the chest, abdomen and pelvis free for unrestricted respirations as well as uninterrupted tube and line placement.
 
@@ -169,8 +169,6 @@ The Q allows the radiologic technologists to remain further from the primary and
 </figure>  
 
 ---
-
-[1] Infant immobilization and pediatric papooses: We've come a long way. Journal of Emergency Nursing Oct. 2007; 33:451-5
     
 &copy; Copyright 2020, SJMJC, LLC.
 
