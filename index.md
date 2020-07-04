@@ -16,32 +16,32 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
   Your browser does not support HTML5 video.
 </video>
 
-- The Q Pediatric Position Holder is a revolutionary new child friendly, single patient use immobilizer which is effective, safe, simple and versatile.
-- The Q Position Holder is an emerging medical technology for children that standardizes the process of immobilization of the child for medical procedures.
+- The Q Pediatric Position Holder is a revolutionary new child friendly, single patient use holder which is effective, safe, simple and versatile.
+- The Q Position Holder is an emerging medical technology for children that standardizes the process of securely holding the child for medical procedures.
 - Our 1/2" thick, soft polyurethane foam holder has no extraneous straps, boards, or hook & loop attachments.
 - Our hope is that we can lessen the anxiety, fear, and distress which are ways that children respond to medical procedures.<sup>[1]</sup>
 - The Q Holder is used for short periods in highly monitored settings.
 - No other position holder leaves the chest, abdomen and pelvis free for unrestricted respirations as well as uninterrupted tube and line placement.
 
-## The Q positioner maximizes contact, minimizes movement allowing for sufficient immobilization without unnecessary hands-on
+## The Q positioner maximizes contact, minimizes movement allowing for sufficient stabilization without unnecessary hands-on
 
-| ![One Arm Immobilized - Pediatric Position Holder & Immobilizer](/images/one-arm.jpeg) | ![Two Arm Immobilization - Pediatric Position Holder & Immobilizer](/images/two-arms.jpeg) | 
+| ![One Arm Held - Pediatric Position Holder](/images/one-arm.jpeg) | ![Two Arm Hold - Pediatric Position Holder](/images/two-arms.jpeg) | 
 |:--:|:--:|
-| One Arm Immobilized<br>(Un Brazo Envuelto) | Two Arms Immobilized<br>(Dos Brazos Envueltos Alrededor) |
+| One Arm Held<br>(Un Brazo Envuelto) | Two Arms Held<br>(Dos Brazos Envueltos Alrededor) |
 
-| ![Two Arms One Leg Immobilization - Pediatric Position Holder & Immobilizer](/images/two-arms-one-leg.jpeg) | ![Two Arms One Leg Immobilization - Pediatric Position Holder & Immobilizer](/images/two-arms-two-legs.jpeg) | 
+| ![Two Arms One Leg Hold - Pediatric Position Holder](/images/two-arms-one-leg.jpeg) | ![Two Arms One Leg Held - Pediatric Position Holder](/images/two-arms-two-legs.jpeg) | 
 |:--:|:--:|
 | Two Arms One Leg - Note the Inner Fold<br>(Dos Brazos Y Una Pierna Envueltos) | Two Arms Both Legs - Outer Fold Surrounds and Secures<br>(Dos Brazos Y Dos Piernas Envueltos) |
 
-| ![Two Arms Both Legs Immobilization - Pediatric Position Holder & Immobilizer](/images/ultrasound-back.jpeg) | 
+| ![Two Arms Both Legs Held - Pediatric Position Holder](/images/ultrasound-back.jpeg) | 
 |:--:| 
 | Ultrasound on Back<br>(Procedimiento Ultrasonido) |
 
-| ![An IV line - Pediatric Position Holder & Immobilizer](/images/IV-line.jpeg) | 
+| ![An IV line - Pediatric Position Holder](/images/IV-line.jpeg) | 
 |:--:| 
 | IV Line Placement<br>(Procedimento Intravenosus) |
 
-| ![Casting Procedure - Pediatric Position Holder & Immobilizer](/images/cast.jpeg) | 
+| ![Casting Procedure - Pediatric Position Holder](/images/cast.jpeg) | 
 |:--:| 
 | A casting procedure using The Q<br>(Procedimiento Con Yeso) |
 
@@ -104,7 +104,7 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 |:--:|:--:|
 | Both Arms and Legs Held Securely<br>(Dos Brazos Y Dos Piernas Envueltos) | Perineum Flap Folds Against the Leg and Outer Flaps Wrap Around Leg for Additional Support and Comfort<br>(Apoyo Adicional Y Comodidad Par La Pierna) |
 
-## The Q positioner maximizes contact and minimizes movement allowing for sufficient immobilization without unnecessary hands-on
+## The Q positioner maximizes contact and minimizes movement allowing for sufficient hold without unnecessary hands-on
 
 ## Creators
 ![Dr. Frank Louis Quattromani, M.D. >](/images/IMG_3791.JPG)
