@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Read More"
 permalink: /read-more/
+---
 
 # Read More
 ## Design
