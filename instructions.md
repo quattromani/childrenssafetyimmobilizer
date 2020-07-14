@@ -3,7 +3,8 @@ title: "Instructions"
 permalink: /instructions/
 ---
 
-### Instructions<br>(Instrucciones)
+# Instructions
+## (Instrucciones)
 
 | ![Patient Laid Flat - Pediatric Position Holder & Immobilizer](/images/Flat_832x.jpg) | ![One Arm Hold - Pediatric Position Holder & Immobilizer](/images/2_one_arm_wrapped.jpg) | 
 |:--:|:--:|
