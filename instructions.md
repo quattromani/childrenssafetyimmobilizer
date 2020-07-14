@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Instructions"
 permalink: /instructions/
+---
 
 ### Instructions<br>(Instrucciones)
 
