@@ -3,7 +3,7 @@ title: "Certified Child Life Specialists (CCLS)"
 permalink: /CCLS/
 ---
 
-## Certified Child Life Specialists (CCLS)
+# Certified Child Life Specialists (CCLS)
 
 - Child Life Specialists focus on the psychosocial aspect of the child providing coping mechanisms for procedures.
 - Coping skills minimize the adverse effects on the child and parent.
