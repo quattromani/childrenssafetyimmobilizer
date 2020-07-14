@@ -3,6 +3,7 @@ title: "Testimonials"
 permalink: /testimonials/
 ---
 
+# Testimonials
 ## Parents are positive about The Q
 
 <figure>
