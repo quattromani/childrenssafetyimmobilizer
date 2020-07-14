@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Certified Child Life Specialists (CCLS)"
 permalink: /CCLS/
+---
 
 ## Certified Child Life Specialists (CCLS)
 
