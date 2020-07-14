@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Certified Child Life Specialists (CCLS)"
 permalink: /CCLS/
 ---
