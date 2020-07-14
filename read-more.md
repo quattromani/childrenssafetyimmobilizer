@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Read More"
 permalink: /read-more/
 ---
