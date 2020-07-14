@@ -20,9 +20,10 @@ permalink: /references/
     Tapiovaara, MJ. et al Physics in Medicine and Biology, Vol 44, Number 2   
     
 (6) Safety considerations in immobilizing pediatric clients for radiography procedures.  
-    J Mari Beth Linder. Journal of Radiology Nursing. March 2017, Volume 36, Issue 1. Pages 55-58 Radiation Protection in Pediatrics Imaging. Bryant Furlow. Radiologic Technoloy May/June 2011 Vol 82 no. 5 421-439 
+    J Mari Beth Linder. Journal of Radiology Nursing. March 2017, Volume 36, Issue 1. Pages 55-58 
     
-(7)     
+(7) Radiation Protection in Pediatrics Imaging.  
+    Bryant Furlow. Radiologic Technoloy May/June 2011 Vol 82 no. 5 421-439    
 
 (8) Managing Patient Stress in Pediatric Radiology.  
     Melody Alexander July/August 2012 vol. 83 No. 6. 549-560.  
