@@ -15,5 +15,3 @@ permalink: /CCLS/
 | Medical play allows children to “play” out anxieties regarding medical experiences | Children who participate in Medical Play experience less procedural distress |
 
 | ![Pediatric Position Holder & Immobilizer](/images/imagejpeg_0.jpg) | ![Pediatric Position Holder & Immobilizer](/images/imagejpeg_1.jpg) | ![Pediatric Position Holder & Immobilizer](/images/imagejpeg_2.jpg) |
-|:--:|:--:|:--:|
-| Medical play allows children to “play” out anxieties regarding medical experiences | Children who participate in Medical Play experience less procedural distress |  |
