@@ -53,8 +53,6 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 |:--:| 
 | A casting procedure using The Q<br>(Procedimiento Con Yeso) |
 
-## The Q positioner maximizes contact and minimizes movement allowing for sufficient hold without unnecessary hands-on
-
 ## Radiation reduction<br>(Reduccion De La Radiacion)
 
 The opportunity to reduce radiation exposure is a critical issue within the pediatric radiology community. The Q assists with positioning for diagnostic X-Rays, thus fewer exposures could mean less radiation. 
