@@ -1,3 +1,8 @@
 ---
-title: Applications
+title: "Applications"
+permalink: /applications/
 ---
+
+# Applications
+## (Applications)
+
