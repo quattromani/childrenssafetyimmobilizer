@@ -6,9 +6,9 @@ permalink: /applications/
 # Applications
 ## (Applications)
 
-| ![An IV line - Pediatric Position Holder](/images/IV-line.jpeg) | 
-|:--:| 
-| IV Line Placement<br>(Procedimento Intravenosus) |
+| ![Two Arms Both Legs Held - Pediatric Position Holder](/images/ultrasound-back.jpeg) | ![An IV line - Pediatric Position Holder](/images/IV-line.jpeg) | 
+|:--:|:--:| 
+| Ultrasound on Back<br>(Procedimiento Ultrasonido) | IV Line Placement<br>(Procedimento Intravenosus) |
 
 | ![Casting Procedure - Pediatric Position Holder](/images/cast.jpeg) | 
 |:--:| 
