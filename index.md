@@ -45,23 +45,11 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 |:--:| 
 | Ultrasound on Back<br>(Procedimiento Ultrasonido) |
 
-| ![An IV line - Pediatric Position Holder](/images/IV-line.jpeg) | 
-|:--:| 
-| IV Line Placement<br>(Procedimento Intravenosus) |
-
-| ![Casting Procedure - Pediatric Position Holder](/images/cast.jpeg) | 
-|:--:| 
-| A casting procedure using The Q<br>(Procedimiento Con Yeso) |
-
 ## Radiation reduction<br>(Reduccion De La Radiacion)
 
 The opportunity to reduce radiation exposure is a critical issue within the pediatric radiology community. The Q assists with positioning for diagnostic X-Rays, thus fewer exposures could mean less radiation. 
 
 The Q allows the radiologic technologists to remain further from the primary and scatter radiation.
-
-| ![Pediatric Position Holder & Immobilizer](/images/IMG_1977-min_832x.jpg) | ![Pediatric Position Holder & Immobilizer](/images/IMG_2059-min_400x.png) |
-|:--:|:--:|
-| Child In Flouroscopy<br>(La Q Se Mantiene En El Flouroscopia) | Child In A CT Scanner<br>(La Q Se Mantiene En El Catscan) |
 
 ## Creators
 ![Dr. Frank Louis Quattromani, M.D. >](/images/IMG_3791.JPG)
