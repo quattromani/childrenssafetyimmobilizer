@@ -41,10 +41,6 @@ The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “
 |:--:|:--:|
 | Two Arms One Leg - Note the Inner Fold<br>(Dos Brazos Y Una Pierna Envueltos) | Two Arms Both Legs - Outer Fold Surrounds and Secures<br>(Dos Brazos Y Dos Piernas Envueltos) |
 
-| ![Two Arms Both Legs Held - Pediatric Position Holder](/images/ultrasound-back.jpeg) | 
-|:--:| 
-| Ultrasound on Back<br>(Procedimiento Ultrasonido) |
-
 ## Radiation reduction<br>(Reduccion De La Radiacion)
 
 The opportunity to reduce radiation exposure is a critical issue within the pediatric radiology community. The Q assists with positioning for diagnostic X-Rays, thus fewer exposures could mean less radiation. 
