@@ -17,3 +17,7 @@ permalink: /applications/
 | ![Pediatric Position Holder & Immobilizer](/images/IMG_1977-min_832x.jpg) | ![Pediatric Position Holder & Immobilizer](/images/IMG_2059-min_400x.png) |
 |:--:|:--:|
 | Child In Flouroscopy<br>(La Q Se Mantiene En El Flouroscopia) | Child In A CT Scanner<br>(La Q Se Mantiene En El Catscan) |
+
+| ![Arm Bruised by Needle and Movement - Pediatric Position Holder](/images/needle_arm.png) | 
+|:--:| 
+|  |
