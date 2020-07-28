@@ -59,17 +59,3 @@ The Q allows the radiologic technologists to remain further from the primary and
 
 #### Patricia Rae Quattromani
 ##### Co-Inventor and Product Designer
-
-## **For more information contact us at:**
-
-**Phone:** <a href="tel:1-806-778-2183">(806)778-2183</a> or <a href="tel:1-241-778-0373">(806)241-0373</a>
-
-**Email:** <pphtheq@gmail.com>
-
-**Website:** [www.PediatricPositionHolder.com - The Q](https://pediatricpositionholder.com)
-
----
-<div style="clear: both;"></div>    
-&copy; Copyright 2020, SJMJC, LLC.
-
-**Patent Number: #US 2020-017828A1**
