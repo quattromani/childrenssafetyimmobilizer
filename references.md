@@ -18,10 +18,4 @@ permalink: /references/
     Bryant Furlow. Radiologic Technoloy May/June 2011 Vol 82 no. 5 421-439    
 
 (5) Managing Patient Stress in Pediatric Radiology.  
-    Melody Alexander July/August 2012 vol. 83 No. 6. 549-560.  
-    
-(6) Radiation Protection in Pediatric Radiography-Introducing Some Immobilization and Protection Equipment.  
-    Klays, D. Pediatric Today 2016: 12 (1) 81-86   
-    
-(7) Q&A: Children's National CEO aims to tailor treatments to his young patients.  
-    Matthew Weinstock. Modern Healthcare. January 11, 2020    
+    Melody Alexander July/August 2012 vol. 83 No. 6. 549-560.     
