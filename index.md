@@ -25,6 +25,21 @@ Medical procedures for children have evolved significantly over the years. In th
 
 Historically, devices like the papoose board and Pigg-O-Stat were used to keep children still during procedures. Manual restraint, where medical staff physically held the child, was also common. These methods, while effective, often resulted in anxiety and fear for young patients. Modern positioning aids, like the Q Pediatric Position Holder, are designed to ensure both security and comfort, making medical procedures less stressful for children and caregivers.
 
+<div style="display: flex; justify-content: space-around; align-items: center; text-align: center;">
+  <div style="position: relative;">
+    <img src="/images/IMG_1884.jpeg" alt="Papoose Board" style="width: 220px;">
+    <p style="margin: 10px 0;">Child Secured on a Papoose Board</p>
+  </div>
+  <div style="position: relative;">
+    <img src="/images/IMG_1745.jpeg" alt="Pigg-O-Stat" style="width: 220px;">
+    <p style="margin: 10px 0;">Child in a Pigg-O-Stat Device</p>
+  </div>
+  <div style="position: relative;">
+    <img src="/images/" alt="Manual Restraint" style="width: 220px;">
+    <p style="margin: 10px 0;">Manual Restraint</p>
+  </div>
+</div>
+
 # HOW THE Q POSITIONER TRANSFORMS PEDIATRIC CARE:
 ## Maximizes Contact, Minimizes Movement
 <a id="instructions"></a>
