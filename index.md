@@ -5,7 +5,7 @@ title: The "Q"
 # THE Q PEDIATRIC POSITION HOLDER:
 **A Child-Friendly Innovation**
 
-![The Q Pediatric Position Holder](http://pediatricpositionholder.com/wp-content/uploads/2024/07/IMG_1740-1024x768.jpg)
+![The Q Pediatric Position Holder](images/IMG_1740.JPG)
 
 **The Q Pediatric Position Holder** is an innovative, child-friendly device designed for single-patient use. It is effective, safe, simple, and versatile, providing a standardized method for securely positioning children during medical procedures. Made from 1/2” thick, soft polyurethane foam, it features no extraneous straps, boards, or hook-and-loop attachments, ensuring comfort and ease of use.
 
