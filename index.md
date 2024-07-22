@@ -84,7 +84,7 @@ Our positioner allows us to "hold without handling." The methodology behind The 
 - **Easy Access:** Ideal for procedures requiring access to the perineum and pelvis, such as voiding cysto-urethrogram studies and contrast colon studies, ensuring medical professionals can work efficiently without compromising the child's comfort.
 
 ## REFERENCES
-
+<small>
 1. **Infant Immobilization and Pediatric Papooses: We’ve Come a long Way.** DeBoer, S. et.al. Journal of Emergency Nursing 2007:33:451-5
 2. **Comfort Measures for Invasive Procedures: A Major Paradigm Shift in Pediatric Practice.** Mary Barkey, Child Life Council Bulletin, Volume 26, Number 3, 2008
 3. **Pediatric Radiation Exposure and Effective Dose Reduction During Voiding Cystourethrography.** Ward, VL et al., Radiology Vol 249, No. 3
@@ -95,6 +95,6 @@ Our positioner allows us to "hold without handling." The methodology behind The 
 8. **Managing Patient Stress in Pediatric Radiology.** Melody Alexander July/August 2012 vol. 83 No. 6. 549-560.
 9. **Radiation Protection in Pediatric Radiography-Introducing Some Immobilization and Protection Equipment.** Klays, D. Pediatric Today 2016: 12 (1) 81-86
 10. **Q&A: Children’s National CEO aims to tailor treatments to his young patients.** Matthew Weinstock. Modern Healthcare. January 11, 2020
-
+</small>
 #### Patricia Rae Quattromani
 ##### Co-Inventor and Product Designer
