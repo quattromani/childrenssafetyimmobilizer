@@ -37,6 +37,20 @@ The Q Positioner ensures optimal contact and minimal movement, providing effecti
 |:--:|:--:|
 | Two Arms One Leg - Note the Inner Fold<br>(Dos Brazos Y Una Pierna Envueltos) | Two Arms Both Legs - Outer Fold Surrounds and Secures<br>(Dos Brazos Y Dos Piernas Envueltos) |
 
+# Instructions
+| ![Patient Laid Flat - Pediatric Position Holder & Immobilizer](/images/Flat_832x.jpg) | ![One Arm Hold - Pediatric Position Holder & Immobilizer](/images/2_one_arm_wrapped.jpg) | 
+|:--:|:--:|
+| Patient Laid Flat on the Pediatric Position Holder<br>(Nino No Esta Envuelto) | A One Arm Hold<br>(Un Brazo Envuelto) |
+
+| ![A Two Arm Hold - Pediatric Position Holder & Immobilizer](/images/3_two_arms_wrapped.jpg) | ![Two Arm Immobilization - Pediatric Position Holder & Immobilizer](/images/6_foldover.jpg) | 
+|:--:|:--:|
+| A Two Arm Hold<br>(Dos Brazos Envueltos Alrededor) | Perineum Flap Folds Against the Leg and Outer Flaps Wrap Around Leg for Additional Support and Comfort<br>(Apoyo Adicional Y Comodidad Par La Pierna) |
+
+| ![One Arm Immobilized - Pediatric Position Holder & Immobilizer](/images/5_both_arms_and_legs_wrapped.jpg) | ![Two Arm Immobilization - Pediatric Position Holder & Immobilizer](/images/6_foldover.jpg) | 
+|:--:|:--:|
+| Two Arms and One Leg Hold<br>(Dos Brazos Y Una Pierna Envueltos) | Both Arms and Legs Held Securely<br>(Dos Brazos Y Dos Piernas Envueltos) |
+
+
 ## Certified Child Life Specialists (CCLS)
 - Holistic Child Support: Child Life Specialists focus on the psychosocial well-being of children, providing essential coping mechanisms to navigate medical procedures with confidence and calm.
 - Minimizing Adverse Effects: By employing effective coping skills, they help to significantly reduce the stress and anxiety experienced by both the child and their parents.
@@ -51,8 +65,6 @@ The Q Positioner ensures optimal contact and minimal movement, providing effecti
 
 
 ## RADIATION REDUCTION
-**(REDUCCIÓN DE LA RADIACIÓN)**
-
 Reducing radiation exposure is a critical concern in pediatric radiology. The Q Pediatric Position Holder assists with precise positioning for diagnostic X-rays, potentially reducing the number of exposures and thereby minimizing radiation.
 
 #### Key Benefits:
