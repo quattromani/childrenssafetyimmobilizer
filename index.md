@@ -76,7 +76,8 @@ The Q Holder is designed for short-term use in highly monitored settings, enhanc
 - Clinical Professor of Pediatrics and Pathology, Texas Tech University School of Medicine, Lubbock, Texas  
 - Former Radiology Consultant to the office of the United States Army Surgeon General  
 - U.S. Army Colonel (Medical Department), Retired
-- 
+
+
 #### Patricia Rae Quattromani
 ##### Co-Inventor and Product Designer
   
