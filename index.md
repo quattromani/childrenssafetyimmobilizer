@@ -2,8 +2,7 @@
 title: The "Q"
 ---
 
-# THE Q PEDIATRIC POSITION HOLDER:
-**A Child-Friendly Innovation**
+# THE Q PEDIATRIC POSITION HOLDER: <br> A Child-Friendly Innovation**
 
 ![The Q Pediatric Position Holder](images/IMG_1740.JPG)
 
