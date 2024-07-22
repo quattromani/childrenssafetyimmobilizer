@@ -27,6 +27,7 @@ Historically, devices like the papoose board and Pigg-O-Stat were used to keep c
 
 # HOW THE Q POSITIONER TRANSFORMS PEDIATRIC CARE:
 ## Maximizes Contact, Minimizes Movement
+<a id="instructions"></a>
 The Q Positioner ensures optimal contact and minimal movement, providing effective stabilization without the need for excessive hands-on intervention. This innovative design allows for sufficient stabilization, ensuring procedures are performed safely and efficiently while maintaining the child's comfort and reducing stress.
 
 | ![Patient Laid Flat - Pediatric Position Holder & Immobilizer](/images/Flat_832x.jpg) | ![One Arm Hold - Pediatric Position Holder & Immobilizer](/images/2_one_arm_wrapped.jpg) |
@@ -44,6 +45,7 @@ The Q Positioner ensures optimal contact and minimal movement, providing effecti
 
 
 ## Certified Child Life Specialists (CCLS)
+<a id="CCLS"></a>
 - **Holistic Child Support:** Child Life Specialists focus on the psychosocial well-being of children, providing essential coping mechanisms to navigate medical procedures with confidence and calm.
 - **Minimizing Adverse Effects:** By employing effective coping skills, they help to significantly reduce the stress and anxiety experienced by both the child and their parents.
 - **Complementary to CCLS Efforts:** The Q Pediatric Position Holder is designed to seamlessly integrate with the efforts of CCLS, enhancing their work by offering a gentle, secure, and comforting method of positioning.
@@ -90,6 +92,7 @@ Our positioner allows us to "hold without handling." The methodology behind The 
 - **Easy Access:** Ideal for procedures requiring access to the perineum and pelvis, such as voiding cysto-urethrogram studies and contrast colon studies, ensuring medical professionals can work efficiently without compromising the child's comfort.
 
 ## Testimonials
+<a id="testimonials"></a>
 <figure>
   <img src="/images/IMG_1970_400x.png" alt="Mother & Child - Pediatric Position Holder & Immobilizer <">
   <blockquote>“Months ago my baby had a VCUG the old way – technologists had to manually restrain my daughter during the procedure.Therefore, I was so apprehensive when we returned for our follow-up examination. This time the technologist used The Q. It was so much better for my baby and much less stressful for me as a parent.”</blockquote>
@@ -109,6 +112,7 @@ Our positioner allows us to "hold without handling." The methodology behind The 
 </figure> 
 
 ## REFERENCES
+<a id="references"></a>
 1. **Infant Immobilization and Pediatric Papooses: We’ve Come a long Way.** DeBoer, S. et.al. Journal of Emergency Nursing 2007:33:451-5
 2. **Comfort Measures for Invasive Procedures: A Major Paradigm Shift in Pediatric Practice.** Mary Barkey, Child Life Council Bulletin, Volume 26, Number 3, 2008
 3. **Pediatric Radiation Exposure and Effective Dose Reduction During Voiding Cystourethrography.** Ward, VL et al., Radiology Vol 249, No. 3
