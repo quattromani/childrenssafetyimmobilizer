@@ -137,7 +137,7 @@ Our positioner allows us to "hold without handling." The methodology behind The 
 - **Material Quality**: Made from 100% polyurethane, latex-free, hypoallergenic, and recyclable.
 - **Imaging Compatibility**: Radiolucent to X-ray and compatible with CT, MRI, and ultrasound, reducing motion artifacts for imaging.
 - **Infection Control**: Single patient use (NOT to be reprocessed or reused) ensures compliance with infection prevention requirements and protocols. <sup>*</sup>
-- **Made in the USA**: Proudly manufactured in the USA ![American Flag Icon](/images/united-states-of-america-flag-icon-32.png).
+- **Made in the USA**: Proudly manufactured in the USA.
 - **Friction-Based Hold**: Our positioner allows us to "hold without handling," offering a secure and gentle hold without the need for excessive force.
 - **Gender Neutral**: Suitable for all children, providing a universal solution.
 - **Non-Sterile**: Designed for non-sterile environments.
