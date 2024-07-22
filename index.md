@@ -118,7 +118,6 @@ The Q Holder is designed for short-term use in highly monitored settings, enhanc
 ## Creators
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <p>Dr. Frank Louis Quattromani, M.D.</p>
     <p><strong>Frank Louis Quattromani, M.D.</strong></p>
     <p><em>Pediatric Radiologist</em></p>
     <ul>
@@ -127,14 +126,12 @@ The Q Holder is designed for short-term use in highly monitored settings, enhanc
       <li>Former Radiology Consultant to the office of the United States Army Surgeon General</li>
       <li>U.S. Army Colonel (Medical Department), Retired</li>
     </ul>
+    <br>
+    <p><strong>Patricia Rae Quattromani</strong></p>
+    <p><em>Co-Inventor and Product Designer</em></p>
   </div>
   <img src="/images/IMG_3791.JPG" alt="Dr. Frank Louis Quattromani, M.D." style="width: 250px; margin-left: 20px;">
 </div>
-
-
-
-#### Patricia Rae Quattromani
-##### Co-Inventor and Product Designer
   
 ## Why This Design?
 Our positioner allows us to "hold without handling." The methodology behind The "Q" Pediatric Position Holder places the child in a warm, cushioned, and open device during medical procedures, providing both comfort and accessibility. Designed to ensure lines, tubes, and catheters are easily accessible, our open device allows the chest and abdomen, or the entire torso, to remain unrestrained for better respiration.
