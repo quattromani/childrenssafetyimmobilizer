@@ -27,11 +27,11 @@ Historically, devices like the papoose board and Pigg-O-Stat were used to keep c
 
 <div style="display: flex; justify-content: space-around; align-items: center; text-align: center;">
   <div style="position: relative;">
-    <img src="/images/IMG_1884.jpeg" alt="Papoose Board" style="width: 220px;">
+    <img src="/images/IMG_1884.jpg" alt="Papoose Board" style="width: 220px;">
     <p style="margin: 10px 0;">Child Secured on a Papoose Board</p>
   </div>
   <div style="position: relative;">
-    <img src="/images/IMG_1745.jpeg" alt="Pigg-O-Stat" style="width: 220px;">
+    <img src="images/IMG_1745.jpg" alt="Pigg-O-Stat" style="width: 220px;">
     <p style="margin: 10px 0;">Child in a Pigg-O-Stat Device</p>
   </div>
   <div style="position: relative;">
