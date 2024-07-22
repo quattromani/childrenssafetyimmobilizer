@@ -43,19 +43,35 @@ Historically, devices like the papoose board and Pigg-O-Stat were used to keep c
 # HOW THE Q POSITIONER TRANSFORMS PEDIATRIC CARE:
 ## Maximizes Contact, Minimizes Movement
 <a id="instructions"></a>
+
 The Q Positioner ensures optimal contact and minimal movement, providing effective stabilization without the need for excessive hands-on intervention. This innovative design allows for sufficient stabilization, ensuring procedures are performed safely and efficiently while maintaining the child's comfort and reducing stress.
 
-| ![Patient Laid Flat - Pediatric Position Holder & Immobilizer](/images/Flat_832x.jpg) | ![One Arm Hold - Pediatric Position Holder & Immobilizer](/images/2_one_arm_wrapped.jpg) |
-|:--:|:--:|
-| Patient Laid Flat on the Pediatric Position Holder | A One Arm Hold |
-
-| ![A Two Arm Hold - Pediatric Position Holder & Immobilizer](/images/3_two_arms_wrapped.jpg) | ![Perineum Flap Fold - Pediatric Position Holder & Immobilizer](/images/6_foldover.jpg) |
-|:--:|:--:|
-| A Two Arm Hold | Perineum Flap Folds Against the Leg and Outer Flaps Wrap Around Leg for Additional Support and Comfort |
-
-| ![Two Arms and One Leg Hold - Pediatric Position Holder & Immobilizer](/images/5_both_arms_and_legs_wrapped.jpg) | ![Both Arms and Legs Held Securely - Pediatric Position Holder & Immobilizer](/images/6_foldover.jpg) |
-|:--:|:--:|
-| Two Arms and One Leg Hold | Both Arms and Legs Held Securely |
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; text-align: center;">
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <img src="/images/Flat_832x.jpg" alt="Patient Laid Flat - Pediatric Position Holder & Immobilizer" style="width: 100%;">
+    <p>Patient Laid Flat on the Pediatric Position Holder</p>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <img src="/images/2_one_arm_wrapped.jpg" alt="One Arm Hold - Pediatric Position Holder & Immobilizer" style="width: 100%;">
+    <p>A One Arm Hold</p>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <img src="/images/3_two_arms_wrapped.jpg" alt="A Two Arm Hold - Pediatric Position Holder & Immobilizer" style="width: 100%;">
+    <p>A Two Arm Hold</p>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <img src="/images/6_foldover.jpg" alt="Perineum Flap Fold - Pediatric Position Holder & Immobilizer" style="width: 100%;">
+    <p>Perineum Flap Folds Against the Leg and Outer Flaps Wrap Around Leg for Additional Support and Comfort</p>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <img src="/images/5_both_arms_and_legs_wrapped.jpg" alt="Two Arms and One Leg Hold - Pediatric Position Holder & Immobilizer" style="width: 100%;">
+    <p>Two Arms and One Leg Hold</p>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <img src="/images/6_foldover.jpg" alt="Both Arms and Legs Held Securely - Pediatric Position Holder & Immobilizer" style="width: 100%;">
+    <p>Both Arms and Legs Held Securely</p>
+  </div>
+</div>
 
 ## Certified Child Life Specialists (CCLS)
 <a id="CCLS"></a>
