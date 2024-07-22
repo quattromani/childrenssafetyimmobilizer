@@ -27,7 +27,6 @@ Historically, devices like the papoose board and Pigg-O-Stat were used to keep c
 
 # HOW THE Q POSITIONER TRANSFORMS PEDIATRIC CARE:
 ## Maximizes Contact, Minimizes Movement
-
 The Q Positioner ensures optimal contact and minimal movement, providing effective stabilization without the need for excessive hands-on intervention. This innovative design allows for sufficient stabilization, ensuring procedures are performed safely and efficiently while maintaining the child's comfort and reducing stress.
 
 | ![One Arm Held - Pediatric Position Holder](/images/one-arm.jpeg) | ![Two Arm Hold - Pediatric Position Holder](/images/two-arms.jpeg) | 
@@ -56,7 +55,7 @@ The Q Positioner ensures optimal contact and minimal movement, providing effecti
 
 Reducing radiation exposure is a critical concern in pediatric radiology. The Q Pediatric Position Holder assists with precise positioning for diagnostic X-rays, potentially reducing the number of exposures and thereby minimizing radiation.
 
-**Key Benefits:**
+#### Key Benefits:
 - **Safety for Technologists:** Allows radiologic technologists to maintain a safer distance from primary and scatter radiation.
 - **Child-Friendly Design:** Effective, safe, simple, and versatile for single-patient use.
 - **Comfort:** Made from 1/2” thick, soft polyurethane foam without extraneous straps or boards, reducing anxiety, fear, and distress.
@@ -80,10 +79,29 @@ The Q Holder is designed for short-term use in highly monitored settings, enhanc
 ## Why This Design?
 Our positioner allows us to "hold without handling." The methodology behind The "Q" Pediatric Position Holder places the child in a warm, cushioned, and open device during medical procedures, providing both comfort and accessibility. Designed to ensure lines, tubes, and catheters are easily accessible, our open device allows the chest and abdomen, or the entire torso, to remain unrestrained for better respiration.
 
-**Key Benefits:**
+#### Key Benefits:
 - **Gentle Support:** The open design offers gentle yet effective support, reducing the need for physical restraint and minimizing stress for the child.
 - **Improved Respiration:** By keeping the chest and abdomen free, the positioner allows for unobstructed breathing, enhancing comfort and safety during procedures.
 - **Easy Access:** Ideal for procedures requiring access to the perineum and pelvis, such as voiding cysto-urethrogram studies and contrast colon studies, ensuring medical professionals can work efficiently without compromising the child's comfort.
+
+## Testimonials
+<figure>
+  <img src="/images/IMG_1970_400x.png" alt="Mother & Child - Pediatric Position Holder & Immobilizer <">
+  <blockquote>“Months ago my baby had a VCUG the old way – technologists had to manually restrain my daughter during the procedure.Therefore, I was so apprehensive when we returned for our follow-up examination. This time the technologist used The Q. It was so much better for my baby and much less stressful for me as a parent.”</blockquote>
+ <h5>Mom of 6 month old infant, Lubbock, TX</h5>
+</figure>
+
+<figure>
+  <img src="/images/IMG_1672_400x.jpg" alt="Dad holding daughter - Pediatric Position Holder & Immobilizer >">
+  <blockquote>"My daughter was so happy you let me stay in the room during the procedure. My daughter stayed focused on me and the Q holder and less on the room and scary machines.”</blockquote>
+  <h5>Dad of 2 year old from Clovis, NM</h5>
+</figure>
+
+<figure>
+  <img src="/images/IMG_2127-min_400x.jpg" alt="Parent and Child - Pediatric Position Holder & Immobilizer <">
+  <blockquote>“My son was wiggling too much to allow the technologist to get good ultrasound pictures. After we put on the foam holder, the technologist was able to get clearer pictures.”</blockquote>
+  <h5>Mom of 16 month old from Hobbs, NM</h5>
+</figure> 
 
 ## REFERENCES
 1. **Infant Immobilization and Pediatric Papooses: We’ve Come a long Way.** DeBoer, S. et.al. Journal of Emergency Nursing 2007:33:451-5
