@@ -2,26 +2,20 @@
 title: The "Q"
 ---
 
-# Introducing The Q
-## A Pediatric Position Holder
+# THE Q PEDIATRIC POSITION HOLDER:
+**A Child-Friendly Innovation**
 
-### **Why we call it The Q**
-### (Por Que Lo LLamomos La Q)
+![The Q Pediatric Position Holder](http://pediatricpositionholder.com/wp-content/uploads/2024/07/IMG_1740-1024x768.jpg)
 
-The Q Pediatric Position Holder was created by Dr. Frank Quattromani (a.k.a. “Dr. Q”), a board certified pediatric radiologist.
+**The Q Pediatric Position Holder** is an innovative, child-friendly device designed for single-patient use. It is effective, safe, simple, and versatile, providing a standardized method for securely positioning children during medical procedures. Made from 1/2” thick, soft polyurethane foam, it features no extraneous straps, boards, or hook-and-loop attachments, ensuring comfort and ease of use.
 
-<video controls autoplay style="width: 100% !important; height: auto !important;" title="Technical Drawing of the Pediatric Position Holder" poster="/images/PPH-drawing.PNG" id="vid1">
-  <source src="/videos/PPH-drawing-short.mp4" type="video/mp4">
-  <source src="/videos/PPH-drawing-short.ogv" type="video/ogg">
-  Your browser does not support HTML5 video.
-</video>
+Our aim is to reduce the anxiety, fear, and distress that children often experience during medical procedures. The Q Holder is used for short periods in highly monitored settings, offering the unique advantage of **leaving the chest, abdomen, and pelvis free for unrestricted respiration and uninterrupted tube and line placement**.
 
-- The Q Pediatric Position Holder is a revolutionary new child friendly, single patient use holder which is effective, safe, simple and versatile.
-- The Q Position Holder is an emerging medical technology for children that standardizes the process of securely holding the child for medical procedures.
-- Our 1/2" thick, soft polyurethane foam holder has no extraneous straps, boards, or hook & loop attachments.
-- Our hope is that we can lessen the anxiety, fear, and distress which are ways that children respond to medical procedures.
-- The Q Holder is used for short periods in highly monitored settings.
-- No other position holder 	__**leaves the chest, abdomen and pelvis free for unrestricted respirations as well as uninterrupted tube and line placement**__.
+#### Key Benefits:
+- **Child-Friendly Design:** Reduces stress and improves the experience for both children and healthcare providers.
+- **Comfort and Safety:** Soft foam construction with no harsh attachments.
+- **Effective and Versatile:** Suitable for various medical procedures, ensuring consistent and gentle care.
+- **Enhanced Procedure Quality:** Allows for better positioning and access without compromising respiratory or tube placements.
 
 ## Most pediatric medical procedures are better performed when the child is motionless
 
@@ -56,6 +50,19 @@ The Q allows the radiologic technologists to remain further from the primary and
 - Clinical Professor of Pediatrics and Pathology, Texas Tech University School of Medicine, Lubbock, Texas  
 - Former Radiology Consultant to the office of the United States Army Surgeon General  
 - U.S. Army Colonel (Medical Department), Retired  
+
+## REFERENCES
+
+1. **Infant Immobilization and Pediatric Papooses: We’ve Come a long Way.** DeBoer, S. et.al. Journal of Emergency Nursing 2007:33:451-5
+2. **Comfort Measures for Invasive Procedures: A Major Paradigm Shift in Pediatric Practice.** Mary Barkey, Child Life Council Bulletin, Volume 26, Number 3, 2008
+3. **Pediatric Radiation Exposure and Effective Dose Reduction During Voiding Cystourethrography.** Ward, VL et al., Radiology Vol 249, No. 3
+4. **Advocating for use of the ALARA principle.** American College of Radiology
+5. **A Search for improved technique factors in pediatric fluoroscopy.** Tapiovaara, MJ. et al Physics in Medicine and Biology, Vol 44, Number 2
+6. **Safety considerations in immobilizing pediatric clients for radiography procedures.** J Mari Beth Linder. Journal of Radiology Nursing. March 2017, Volume 36, Issue 1. Pages 55-58
+7. **Radiation Protection in Pediatrics Imaging.** Bryant Furlow. Radiologic Technology May/June 2011 Vol 82 no. 5 421-439
+8. **Managing Patient Stress in Pediatric Radiology.** Melody Alexander July/August 2012 vol. 83 No. 6. 549-560.
+9. **Radiation Protection in Pediatric Radiography-Introducing Some Immobilization and Protection Equipment.** Klays, D. Pediatric Today 2016: 12 (1) 81-86
+10. **Q&A: Children’s National CEO aims to tailor treatments to his young patients.** Matthew Weinstock. Modern Healthcare. January 11, 2020
 
 #### Patricia Rae Quattromani
 ##### Co-Inventor and Product Designer
