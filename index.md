@@ -2,7 +2,8 @@
 title: The "Q"
 ---
 
-# THE Q PEDIATRIC POSITION HOLDER: <br> A Child-Friendly Innovation**
+# THE Q PEDIATRIC POSITION HOLDER:
+## A Child-Friendly Innovation
 
 ![The Q Pediatric Position Holder](images/IMG_1740.JPG)
 
@@ -18,11 +19,12 @@ Our aim is to reduce the anxiety, fear, and distress that children often experie
 
 ## Most pediatric medical procedures are better performed when the child is motionless
 
-<video controls autoplay style="width: 100% !important; height: auto !important;" title="Infant child moving and wiggling during procedure" poster="/images/wiggle.PNG" id="vid2">
-  <source src="/videos/wiggle.mp4" type="video/mp4">
-  <source src="/videos/wiggle.ogg" type="video/ogg">
-   Your browser does not support HTML5 video.
-</video>
+## HOW PEDIATRIC CARE HAS TRANSFORMED:
+### Evolution Over The Years
+
+Medical procedures for children have evolved significantly over the years. In the past, various methods were used to restrain children, often causing distress. **Today, the focus is on gentle, child-friendly techniques**. Let's explore some of the historical methods to appreciate how far pediatric care has come.
+
+Historically, devices like the papoose board and Pigg-O-Stat were used to keep children still during procedures. Manual restraint, where medical staff physically held the child, was also common. These methods, while effective, often resulted in anxiety and fear for young patients. Modern positioning aids, like the Q Pediatric Position Holder, are designed to ensure both security and comfort, making medical procedures less stressful for children and caregivers.
 
 ## The Q positioner maximizes contact, minimizes movement allowing for sufficient stabilization without unnecessary hands-on
 
