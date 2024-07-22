@@ -100,7 +100,7 @@ Reducing radiation exposure is a critical concern in pediatric radiology. The Q 
 The Q Holder is designed for short-term use in highly monitored settings, enhancing both safety and comfort during medical procedures.
 
 ## Creators
-![Dr. Frank Louis Quattromani, M.D. >](/images/IMG_3791.JPG)
+<img src="/images/IMG_3791.JPG" alt="Dr. Frank Louis Quattromani, M.D." style="width: 250px;">
 
 #### Frank Louis Quattromani, M.D. 
 ##### Pediatric Radiologist
