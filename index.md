@@ -21,7 +21,6 @@ Our aim is to reduce the anxiety, fear, and distress that children often experie
 
 # HOW PEDIATRIC CARE HAS TRANSFORMED:
 ## Evolution Over The Years
-
 Medical procedures for children have evolved significantly over the years. In the past, various methods were used to restrain children, often causing distress. **Today, the focus is on gentle, child-friendly techniques**. Let's explore some of the historical methods to appreciate how far pediatric care has come.
 
 Historically, devices like the papoose board and Pigg-O-Stat were used to keep children still during procedures. Manual restraint, where medical staff physically held the child, was also common. These methods, while effective, often resulted in anxiety and fear for young patients. Modern positioning aids, like the Q Pediatric Position Holder, are designed to ensure both security and comfort, making medical procedures less stressful for children and caregivers.
@@ -39,8 +38,7 @@ The Q Positioner ensures optimal contact and minimal movement, providing effecti
 |:--:|:--:|
 | Two Arms One Leg - Note the Inner Fold<br>(Dos Brazos Y Una Pierna Envueltos) | Two Arms Both Legs - Outer Fold Surrounds and Secures<br>(Dos Brazos Y Dos Piernas Envueltos) |
 
-# Certified Child Life Specialists (CCLS)
-
+## Certified Child Life Specialists (CCLS)
 - Holistic Child Support: Child Life Specialists focus on the psychosocial well-being of children, providing essential coping mechanisms to navigate medical procedures with confidence and calm.
 - Minimizing Adverse Effects: By employing effective coping skills, they help to significantly reduce the stress and anxiety experienced by both the child and their parents.
 - Complementary to CCLS Efforts: The Q Pediatric Position Holder is designed to seamlessly integrate with the efforts of CCLS, enhancing their work by offering a gentle, secure, and comforting method of positioning.
