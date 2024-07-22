@@ -29,7 +29,6 @@ Historically, devices like the papoose board and Pigg-O-Stat were used to keep c
 ## Maximizes Contact, Minimizes Movement
 The Q Positioner ensures optimal contact and minimal movement, providing effective stabilization without the need for excessive hands-on intervention. This innovative design allows for sufficient stabilization, ensuring procedures are performed safely and efficiently while maintaining the child's comfort and reducing stress.
 
-# Instructions
 | ![Patient Laid Flat - Pediatric Position Holder & Immobilizer](/images/Flat_832x.jpg) | ![One Arm Hold - Pediatric Position Holder & Immobilizer](/images/2_one_arm_wrapped.jpg) | 
 |:--:|:--:|
 | Patient Laid Flat on the Pediatric Position Holder<br>(Nino No Esta Envuelto) | A One Arm Hold<br>(Un Brazo Envuelto) |
