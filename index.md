@@ -39,15 +39,19 @@ The Q Positioner ensures optimal contact and minimal movement, providing effecti
 |:--:|:--:|
 | Two Arms One Leg - Note the Inner Fold<br>(Dos Brazos Y Una Pierna Envueltos) | Two Arms Both Legs - Outer Fold Surrounds and Secures<br>(Dos Brazos Y Dos Piernas Envueltos) |
 
-## CERTIFIED CHILD LIFE SPECIALISTS (CCLS)
-- Child Life Specialists focus on the psychosocial aspect of the child providing coping mechanisms for procedures.
-- Coping skills minimize the adverse effects on the child and parent.
-- The Q is intended to complement the work of the CCLS.
-- The CCLS can incorporate the Q as one of the “comfort kit” tools by using it for medical play.
+# Certified Child Life Specialists (CCLS)
 
-![CCLS](http://pediatricpositionholder.com/wp-content/uploads/2020/09/CCLS-3-607x1024.jpeg)
+- Holistic Child Support: Child Life Specialists focus on the psychosocial well-being of children, providing essential coping mechanisms to navigate medical procedures with confidence and calm.
+- Minimizing Adverse Effects: By employing effective coping skills, they help to significantly reduce the stress and anxiety experienced by both the child and their parents.
+- Complementary to CCLS Efforts: The Q Pediatric Position Holder is designed to seamlessly integrate with the efforts of CCLS, enhancing their work by offering a gentle, secure, and comforting method of positioning.
+- Versatile Comfort Tool: Recognized as a valuable addition to the "comfort kit," the Q can be used during medical play to familiarize children with medical procedures in a non-threatening and playful manner, promoting a positive experience.
 
-![Children who participate in Medical Play experience less procedural distress](http://pediatricpositionholder.com/wp-content/uploads/2020/09/CCLS-2-1-607x1024.jpeg)
+| ![Pediatric Position Holder & Immobilizer](/images/imagejpeg_0.jpg) | ![Pediatric Position Holder & Immobilizer](/images/imagejpeg_1.jpg) |
+|:--:|:--:|
+| Medical play allows children to “play” out anxieties regarding medical experiences | Children who participate in Medical Play experience less procedural distress |
+| ![Pediatric Position Holder & Immobilizer](/images/imagejpeg_0-1.jpg) | ![Pediatric Position Holder & Immobilizer](/images/imagejpeg_2.jpg) |
+| ![Pediatric Position Holder & Immobilizer](/images/CCLS.jpeg) | ![Pediatric Position Holder & Immobilizer](/images/CCLS-2.jpeg) |
+
 
 ## RADIATION REDUCTION
 **(REDUCCIÓN DE LA RADIACIÓN)**
