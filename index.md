@@ -19,7 +19,7 @@ Our aim is to reduce the anxiety, fear, and distress that children often experie
 
 ## Most pediatric medical procedures are better performed when the child is motionless
 
-## HOW PEDIATRIC CARE HAS TRANSFORMED:
+### HOW PEDIATRIC CARE HAS TRANSFORMED:
 ### Evolution Over The Years
 
 Medical procedures for children have evolved significantly over the years. In the past, various methods were used to restrain children, often causing distress. **Today, the focus is on gentle, child-friendly techniques**. Let's explore some of the historical methods to appreciate how far pediatric care has come.
@@ -36,11 +36,28 @@ Historically, devices like the papoose board and Pigg-O-Stat were used to keep c
 |:--:|:--:|
 | Two Arms One Leg - Note the Inner Fold<br>(Dos Brazos Y Una Pierna Envueltos) | Two Arms Both Legs - Outer Fold Surrounds and Secures<br>(Dos Brazos Y Dos Piernas Envueltos) |
 
-## Radiation reduction<br>(Reduccion De La Radiacion)
+## CERTIFIED CHILD LIFE SPECIALISTS (CCLS)
+- Child Life Specialists focus on the psychosocial aspect of the child providing coping mechanisms for procedures.
+- Coping skills minimize the adverse effects on the child and parent.
+- The Q is intended to complement the work of the CCLS.
+- The CCLS can incorporate the Q as one of the “comfort kit” tools by using it for medical play.
 
-The opportunity to reduce radiation exposure is a critical issue within the pediatric radiology community. The Q assists with positioning for diagnostic X-Rays, thus fewer exposures could mean less radiation. 
+![CCLS](http://pediatricpositionholder.com/wp-content/uploads/2020/09/CCLS-3-607x1024.jpeg)
 
-The Q allows the radiologic technologists to remain further from the primary and scatter radiation.
+![Children who participate in Medical Play experience less procedural distress](http://pediatricpositionholder.com/wp-content/uploads/2020/09/CCLS-2-1-607x1024.jpeg)
+
+## RADIATION REDUCTION
+**(REDUCCIÓN DE LA RADIACIÓN)**
+
+Reducing radiation exposure is a critical concern in pediatric radiology. The Q Pediatric Position Holder assists with precise positioning for diagnostic X-rays, potentially reducing the number of exposures and thereby minimizing radiation.
+
+**Key Benefits:**
+- **Safety for Technologists:** Allows radiologic technologists to maintain a safer distance from primary and scatter radiation.
+- **Child-Friendly Design:** Effective, safe, simple, and versatile for single-patient use.
+- **Comfort:** Made from 1/2” thick, soft polyurethane foam without extraneous straps or boards, reducing anxiety, fear, and distress.
+- **Free Respiration:** Ensures the chest, abdomen, and pelvis remain free for unrestricted breathing and uninterrupted tube and line placement.
+
+The Q Holder is designed for short-term use in highly monitored settings, enhancing both safety and comfort during medical procedures.
 
 ## Creators
 ![Dr. Frank Louis Quattromani, M.D. >](/images/IMG_3791.JPG)
