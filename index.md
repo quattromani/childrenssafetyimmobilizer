@@ -57,21 +57,36 @@ The Q Positioner ensures optimal contact and minimal movement, providing effecti
 |:--:|:--:|
 | Two Arms and One Leg Hold | Both Arms and Legs Held Securely |
 
-
-
 ## Certified Child Life Specialists (CCLS)
 <a id="CCLS"></a>
+
 - **Holistic Child Support:** Child Life Specialists focus on the psychosocial well-being of children, providing essential coping mechanisms to navigate medical procedures with confidence and calm.
 - **Minimizing Adverse Effects:** By employing effective coping skills, they help to significantly reduce the stress and anxiety experienced by both the child and their parents.
 - **Complementary to CCLS Efforts:** The Q Pediatric Position Holder is designed to seamlessly integrate with the efforts of CCLS, enhancing their work by offering a gentle, secure, and comforting method of positioning.
 - **Versatile Comfort Tool:** Recognized as a valuable addition to the "comfort kit," the Q can be used during medical play to familiarize children with medical procedures in a non-threatening and playful manner, promoting a positive experience.
 
-| ![Pediatric Position Holder & Immobilizer](/images/imagejpeg_0.jpg) | ![Pediatric Position Holder & Immobilizer](/images/imagejpeg_1.jpg) |
-|:--:|:--:|
-| Medical play allows children to “play” out anxieties regarding medical experiences | Children who participate in Medical Play experience less procedural distress |
-| ![Pediatric Position Holder & Immobilizer](/images/imagejpeg_0-1.jpg) | ![Pediatric Position Holder & Immobilizer](/images/imagejpeg_2.jpg) |
-| ![Pediatric Position Holder & Immobilizer](/images/CCLS.jpeg) | ![Pediatric Position Holder & Immobilizer](/images/CCLS-2.jpeg) |
-
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; text-align: center;">
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <img src="/images/imagejpeg_0.jpg" alt="Pediatric Position Holder & Immobilizer" style="width: 100%;">
+    <p>Medical play allows children to “play” out anxieties regarding medical experiences</p>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <img src="/images/imagejpeg_1.jpg" alt="Pediatric Position Holder & Immobilizer" style="width: 100%;">
+    <p>Children who participate in Medical Play experience less procedural distress</p>
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <img src="/images/imagejpeg_0-1.jpg" alt="Pediatric Position Holder & Immobilizer" style="width: 100%;">
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <img src="/images/imagejpeg_2.jpg" alt="Pediatric Position Holder & Immobilizer" style="width: 100%;">
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <img src="/images/CCLS.jpeg" alt="Pediatric Position Holder & Immobilizer" style="width: 100%;">
+  </div>
+  <div style="flex: 1 1 30%; margin: 10px;">
+    <img src="/images/CCLS-2.jpeg" alt="Pediatric Position Holder & Immobilizer" style="width: 100%;">
+  </div>
+</div>
 
 ## RADIATION REDUCTION
 Reducing radiation exposure is a critical concern in pediatric radiology. The Q Pediatric Position Holder assists with precise positioning for diagnostic X-rays, potentially reducing the number of exposures and thereby minimizing radiation.
