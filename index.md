@@ -74,7 +74,16 @@ The Q Holder is designed for short-term use in highly monitored settings, enhanc
 - University Medical Center, Lubbock, Texas  
 - Clinical Professor of Pediatrics and Pathology, Texas Tech University School of Medicine, Lubbock, Texas  
 - Former Radiology Consultant to the office of the United States Army Surgeon General  
-- U.S. Army Colonel (Medical Department), Retired  
+- U.S. Army Colonel (Medical Department), Retired
+
+  
+## Why This Design?
+Our positioner allows us to "hold without handling." The methodology behind The "Q" Pediatric Position Holder places the child in a warm, cushioned, and open device during medical procedures, providing both comfort and accessibility. Designed to ensure lines, tubes, and catheters are easily accessible, our open device allows the chest and abdomen, or the entire torso, to remain unrestrained for better respiration.
+
+**Key Benefits:**
+- **Gentle Support:** The open design offers gentle yet effective support, reducing the need for physical restraint and minimizing stress for the child.
+- **Improved Respiration:** By keeping the chest and abdomen free, the positioner allows for unobstructed breathing, enhancing comfort and safety during procedures.
+- **Easy Access:** Ideal for procedures requiring access to the perineum and pelvis, such as voiding cysto-urethrogram studies and contrast colon studies, ensuring medical professionals can work efficiently without compromising the child's comfort.
 
 ## REFERENCES
 
