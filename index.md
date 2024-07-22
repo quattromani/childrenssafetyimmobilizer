@@ -116,14 +116,21 @@ Reducing radiation exposure is a critical concern in pediatric radiology. The Q 
 The Q Holder is designed for short-term use in highly monitored settings, enhancing both safety and comfort during medical procedures.
 
 ## Creators
-<img src="/images/IMG_3791.JPG" alt="Dr. Frank Louis Quattromani, M.D." style="width: 250px;">
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p>Dr. Frank Louis Quattromani, M.D.</p>
+    <p><strong>Frank Louis Quattromani, M.D.</strong></p>
+    <p><em>Pediatric Radiologist</em></p>
+    <ul>
+      <li>University Medical Center, Lubbock, Texas</li>
+      <li>Clinical Professor of Pediatrics and Pathology, Texas Tech University School of Medicine, Lubbock, Texas</li>
+      <li>Former Radiology Consultant to the office of the United States Army Surgeon General</li>
+      <li>U.S. Army Colonel (Medical Department), Retired</li>
+    </ul>
+  </div>
+  <img src="/images/IMG_3791.JPG" alt="Dr. Frank Louis Quattromani, M.D." style="width: 250px; margin-left: 20px;">
+</div>
 
-#### Frank Louis Quattromani, M.D. 
-##### Pediatric Radiologist
-- University Medical Center, Lubbock, Texas  
-- Clinical Professor of Pediatrics and Pathology, Texas Tech University School of Medicine, Lubbock, Texas  
-- Former Radiology Consultant to the office of the United States Army Surgeon General  
-- U.S. Army Colonel (Medical Department), Retired
 
 
 #### Patricia Rae Quattromani
