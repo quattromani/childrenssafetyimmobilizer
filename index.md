@@ -35,7 +35,7 @@ Historically, devices like the papoose board and Pigg-O-Stat were used to keep c
     <p style="margin: 10px 0;">Child in a Pigg-O-Stat Device</p>
   </div>
   <div style="position: relative;">
-    <img src="/images/" alt="Manual Restraint" style="width: 220px;">
+    <img src="images/IMG_4493.jpg" alt="Manual Restraint" style="width: 220px;">
     <p style="margin: 10px 0;">Manual Restraint</p>
   </div>
 </div>
