@@ -44,10 +44,10 @@ The Q Positioner ensures optimal contact and minimal movement, providing effecti
 
 
 ## Certified Child Life Specialists (CCLS)
-- Holistic Child Support: Child Life Specialists focus on the psychosocial well-being of children, providing essential coping mechanisms to navigate medical procedures with confidence and calm.
-- Minimizing Adverse Effects: By employing effective coping skills, they help to significantly reduce the stress and anxiety experienced by both the child and their parents.
-- Complementary to CCLS Efforts: The Q Pediatric Position Holder is designed to seamlessly integrate with the efforts of CCLS, enhancing their work by offering a gentle, secure, and comforting method of positioning.
-- Versatile Comfort Tool: Recognized as a valuable addition to the "comfort kit," the Q can be used during medical play to familiarize children with medical procedures in a non-threatening and playful manner, promoting a positive experience.
+- **Holistic Child Support:** Child Life Specialists focus on the psychosocial well-being of children, providing essential coping mechanisms to navigate medical procedures with confidence and calm.
+- **Minimizing Adverse Effects:** By employing effective coping skills, they help to significantly reduce the stress and anxiety experienced by both the child and their parents.
+- **Complementary to CCLS Efforts:** The Q Pediatric Position Holder is designed to seamlessly integrate with the efforts of CCLS, enhancing their work by offering a gentle, secure, and comforting method of positioning.
+- **Versatile Comfort Tool:** Recognized as a valuable addition to the "comfort kit," the Q can be used during medical play to familiarize children with medical procedures in a non-threatening and playful manner, promoting a positive experience.
 
 | ![Pediatric Position Holder & Immobilizer](/images/imagejpeg_0.jpg) | ![Pediatric Position Holder & Immobilizer](/images/imagejpeg_1.jpg) |
 |:--:|:--:|
