@@ -90,6 +90,30 @@ Our positioner allows us to "hold without handling." The methodology behind The 
 - **Gentle Support:** The open design offers gentle yet effective support, reducing the need for physical restraint and minimizing stress for the child.
 - **Improved Respiration:** By keeping the chest and abdomen free, the positioner allows for unobstructed breathing, enhancing comfort and safety during procedures.
 - **Easy Access:** Ideal for procedures requiring access to the perineum and pelvis, such as voiding cysto-urethrogram studies and contrast colon studies, ensuring medical professionals can work efficiently without compromising the child's comfort.
+- **Field-Tested for Usability**: Designed with extensive field-testing to ensure maximum usability and comfort.
+- **Compatibility**: Compatible with all major commercial imaging systems, providing versatile use across different platforms.
+- **Non-Confining Design**: Specifically designed to avoid giving the sensation of being confined, ensuring a more comfortable experience for the child.
+- **Open Chest Design**: Keeps the arms and legs away from the chest and abdomen, leaving the chest "open" for better respiration.
+- **Ergonomic Innovation**: The contoured ergonomic design represents a pure positioning innovation, providing natural support to the child.
+- **Gentle on Extremities**: Reduces excessive force on the child's extremities without over-handling, ensuring gentle support.
+- **Child-Fitting Contours**: Contours to the child's body rather than forcing the child to fit the positioner, offering a custom fit.
+- **Comfortable Foam**: Minimizes pressure points with a ½ inch thick comfortable foam, ensuring the child's comfort during procedures.
+- **Non-Interfering Design**: Does not interfere with tubes, lines, and catheters, allowing for uninterrupted medical procedures.
+- **Head and Neck Support**: Provides unitary support to the head and neck, enhancing safety and comfort.
+- **Warming Capability**: Can be warmed in a towel warmer prior to use, offering additional comfort.
+
+#### Additional Features and Characteristics:
+- **Long Shelf Life**: Multiyear expiration date ensures prolonged usability.
+- **Material Quality**: Made from 100% polyurethane, latex-free, hypoallergenic, and recyclable.
+- **Imaging Compatibility**: Radiolucent to X-ray and compatible with CT, MRI, and ultrasound, reducing motion artifacts for imaging.
+- **Infection Control**: Single patient use (NOT to be reprocessed or reused) ensures compliance with infection prevention requirements and protocols. <sup>*</sup>
+- **Made in the USA**: Proudly manufactured in the USA ![American Flag Icon](/images/united-states-of-america-flag-icon-32.png).
+- **Friction-Based Hold**: Our positioner allows us to "hold without handling," offering a secure and gentle hold without the need for excessive force.
+- **Gender Neutral**: Suitable for all children, providing a universal solution.
+- **Non-Sterile**: Designed for non-sterile environments.
+
+<sup>* Single patient use ensures compliance with infection prevention requirements and protocols.</sup>
+
 
 ## Testimonials
 <a id="testimonials"></a>
