@@ -223,9 +223,6 @@ To provide a glimpse into the rigorous testing and real-world trials of The Q Pe
     <img src="/images/IMG_4536.jpg" alt="Testing Image 5" style="width: 100%;">
   </div>
   <div style="flex: 1 1 22%; margin: 10px;">
-    <img src="/images/IMG_4543.jpg" alt="Testing Image 6" style="width: 100%;">
-  </div>
-  <div style="flex: 1 1 22%; margin: 10px;">
     <img src="/images/IMG_4550.jpg" alt="Testing Image 7" style="width: 100%;">
   </div>
   <div style="flex: 1 1 22%; margin: 10px;">
@@ -244,7 +241,7 @@ To provide a glimpse into the rigorous testing and real-world trials of The Q Pe
     <img src="/images/IMG_4564.jpg" alt="Testing Image 12" style="width: 100%;">
   </div>
   <div style="flex: 1 1 22%; margin: 10px;">
-    <img src="/images/IMG_4567.jpg" alt="Testing Image 12" style="width: 100%;">
+    <img src="/images/IMG_4567.jpg" alt="Testing Image 12" style="width: 100%; max-width: 240px;">
   </div>
 </div>
 
