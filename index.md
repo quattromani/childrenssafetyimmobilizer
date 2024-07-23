@@ -192,20 +192,20 @@ Our positioner allows us to "hold without handling." The methodology behind The 
 <div style="display: flex; align-items: center;">
   <img src="/images/technologist_testimonial.jpg" alt="Radiology Technician with a Pediatric Position Holder" style="width: 250px; margin-right: 20px;">
   <div style="flex: 1;">
-    <div>
+    <figure>
     <blockquote style="font-size: 0.9em;">"The Q holder is a great solution for a common problem."</blockquote>
-    <h5 style="font-size: 0.9em; padding-left: 1.1rem;">X-Ray Tech</h5>
-    </div>
+    <h5 style="font-size: 0.9em;">X-Ray Tech</h5>
+    </figure>
     <br>
-    <div>
+    <figure>
     <blockquote style="font-size: 0.9em;">“Because we used The Q, the entire procedure was obviously less stressful on the child and I could see that the parents were less stressed as well. I was glad that the holder allowed us to get clear images the first time we tried.”</blockquote>
-    <h5 style="font-size: 0.9em; padding-left: 1.1rem;">X-Ray Tech</h5>
-    </div>
+    <h5 style="font-size: 0.9em;">X-Ray Tech</h5>
+    </figure>
     <br>
-    <div>
+    <figure>
     <blockquote style="font-size: 0.9em;">“I loved that the patient could touch and play with the holder before the procedure. It made them feel much more comfortable. It was also soft and printed with fun designs. As a tech, the holder definitely made my job easier.”</blockquote>
-    <h5 style="font-size: 0.9em; padding-left: 1.1rem;">X-Ray Tech</h5>
-    </div>
+    <h5 style="font-size: 0.9em;">X-Ray Tech</h5>
+    </figure>
   </div>
 </div>
 
