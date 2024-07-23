@@ -218,13 +218,13 @@ To provide a glimpse into the rigorous testing and real-world trials of The Q Pe
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; text-align: center;">
   <div style="flex: 1 1 22%; margin: 10px;">
-    <img src="/images/4493.jpg" alt="Testing Image 1" style="width: 100%;">
+    <img src="/images/IMG_4568.jpg" alt="Testing Image 1" style="width: 100%;">
   </div>
   <div style="flex: 1 1 22%; margin: 10px;">
-    <img src="/images/0330.jpg" alt="Testing Image 1" style="width: 100%;">
+    <img src="/images/IMG_0330.jpg" alt="Testing Image 1" style="width: 100%;">
   </div>
   <div style="flex: 1 1 22%; margin: 10px;">
-    <img src="/images/4541.jpg" alt="Testing Image 1" style="width: 100%;">
+    <img src="/images/IMG_4541.jpg" alt="Testing Image 1" style="width: 100%;">
   </div>
   <div style="flex: 1 1 22%; margin: 10px;">
     <img src="/images/4543.jpg" alt="Testing Image 4" style="width: 100%;">
