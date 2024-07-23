@@ -165,7 +165,7 @@ Our positioner allows us to "hold without handling." The methodology behind The 
 <sup>* Single patient use ensures compliance with infection prevention requirements and protocols.</sup>
 
 
-## Testimonials
+## Parent Testimonials
 <a id="testimonials"></a>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; text-align: center;">
@@ -187,6 +187,14 @@ Our positioner allows us to "hold without handling." The methodology behind The 
     <h5 style="font-size: 0.9em;">Mom of 16 month old from Hobbs, NM</h5>
   </figure>
 </div> 
+
+## Technologist Testimonials
+<div style="display: flex; align-items: center;">
+  <img src="/images/" alt="Radiology Technician with a Pediatric Position Holder" style="width: 250px; margin-left: 20px;">
+  <div style="flex: 1;">
+  <blockquote style="font-size: 0.9em;">“.”</blockquote>
+  </div>
+</div>
 
 ## REFERENCES
 <a id="references"></a>
