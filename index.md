@@ -190,7 +190,7 @@ Our positioner allows us to "hold without handling." The methodology behind The 
 
 ## Technologist Testimonials
 <div style="display: flex; align-items: center;">
-  <img src="images/technologist_testimonial.jpg" alt="Radiology Technician with a Pediatric Position Holder" style="width: 250px; margin-left: 20px;">
+  <img src="/images/technologist_testimonial.jpg" alt="Radiology Technician with a Pediatric Position Holder" style="width: 250px; margin-left: 20px;">
   <div style="flex: 1;">
   <blockquote style="font-size: 0.9em;">"The Q holder is a great solution for a common problem."</blockquote>
   </div>
@@ -216,39 +216,42 @@ To provide a glimpse into the rigorous testing and real-world trials of The Q Pe
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; text-align: center;">
   <div style="flex: 1 1 22%; margin: 10px;">
-    <img src="/images/test1.jpg" alt="Testing Image 1" style="width: 100%;">
+    <img src="/images/4493.jpg" alt="Testing Image 1" style="width: 100%;">
   </div>
   <div style="flex: 1 1 22%; margin: 10px;">
-    <img src="/images/test2.jpg" alt="Testing Image 2" style="width: 100%;">
+    <img src="/images/0330.jpg" alt="Testing Image 1" style="width: 100%;">
   </div>
   <div style="flex: 1 1 22%; margin: 10px;">
-    <img src="/images/test3.jpg" alt="Testing Image 3" style="width: 100%;">
+    <img src="/images/4541.jpg" alt="Testing Image 1" style="width: 100%;">
   </div>
   <div style="flex: 1 1 22%; margin: 10px;">
-    <img src="/images/test4.jpg" alt="Testing Image 4" style="width: 100%;">
+    <img src="/images/4543.jpg" alt="Testing Image 4" style="width: 100%;">
   </div>
   <div style="flex: 1 1 22%; margin: 10px;">
-    <img src="/images/test5.jpg" alt="Testing Image 5" style="width: 100%;">
+    <img src="/images/4536.jpg" alt="Testing Image 5" style="width: 100%;">
   </div>
   <div style="flex: 1 1 22%; margin: 10px;">
-    <img src="/images/test6.jpg" alt="Testing Image 6" style="width: 100%;">
+    <img src="/images/4543.jpg" alt="Testing Image 6" style="width: 100%;">
   </div>
   <div style="flex: 1 1 22%; margin: 10px;">
-    <img src="/images/test7.jpg" alt="Testing Image 7" style="width: 100%;">
+    <img src="/images/4550.jpg" alt="Testing Image 7" style="width: 100%;">
   </div>
   <div style="flex: 1 1 22%; margin: 10px;">
-    <img src="/images/test8.jpg" alt="Testing Image 8" style="width: 100%;">
+    <img src="/images/4551.jpg" alt="Testing Image 8" style="width: 100%;">
   </div>
   <div style="flex: 1 1 22%; margin: 10px;">
-    <img src="/images/test9.jpg" alt="Testing Image 9" style="width: 100%;">
+    <img src="/images/4554.jpg" alt="Testing Image 9" style="width: 100%;">
   </div>
   <div style="flex: 1 1 22%; margin: 10px;">
-    <img src="/images/test10.jpg" alt="Testing Image 10" style="width: 100%;">
+    <img src="/images/4555.jpg" alt="Testing Image 10" style="width: 100%;">
   </div>
   <div style="flex: 1 1 22%; margin: 10px;">
-    <img src="/images/test11.jpg" alt="Testing Image 11" style="width: 100%;">
+    <img src="/images/4568.jpg" alt="Testing Image 11" style="width: 100%;">
   </div>
   <div style="flex: 1 1 22%; margin: 10px;">
-    <img src="/images/test12.jpg" alt="Testing Image 12" style="width: 100%;">
+    <img src="/images/4564.jpg" alt="Testing Image 12" style="width: 100%;">
+  </div>
+  <div style="flex: 1 1 22%; margin: 10px;">
+    <img src="/images/4567.jpg" alt="Testing Image 12" style="width: 100%;">
   </div>
 </div>
