@@ -190,9 +190,9 @@ Our positioner allows us to "hold without handling." The methodology behind The 
 
 ## Technologist Testimonials
 <div style="display: flex; align-items: center;">
-  <img src="/images/" alt="Radiology Technician with a Pediatric Position Holder" style="width: 250px; margin-left: 20px;">
+  <img src="images/technologist_testimonial.jpg" alt="Radiology Technician with a Pediatric Position Holder" style="width: 250px; margin-left: 20px;">
   <div style="flex: 1;">
-  <blockquote style="font-size: 0.9em;">“.”</blockquote>
+  <blockquote style="font-size: 0.9em;">"The Q holder is a great solution for a common problem."</blockquote>
   </div>
 </div>
 
