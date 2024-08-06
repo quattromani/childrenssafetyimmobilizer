@@ -1,7 +1,7 @@
 ---
 title: The Pediatric Position Holder
 ---
-Description automatically generated with medium confidence](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.001.jpeg)
+
 # **INTRODUCTION TO THE PEDIATRIC POSITION HOLDER**
 To successfully perform brief minor medical procedures on infants and children, such as laceration repair, removal of foreign bodies from the ears or nose, and radiological examinations like chest x-rays and VCUGs, it is essential for the child to remain relatively still. This can be achieved through non-pharmacological methods such as distraction, effective communication, coping techniques (e.g., deep breathing, blowing bubbles, holding a caregiver's hand), audiovisual aids, and physical holding.
 
@@ -11,42 +11,20 @@ Restraint and immobilization of children are significant issues for healthcare p
 
 The way we hold children for procedures reflects our values as a culture. 
 
-
 # **HOW PEDIATRIC CARE HAS TRANSFORMED:**
 ## **EVOLUTION OVER THE YEARS**
 In my 50 years of practice, I have observed various methods used to keep children still during medical procedures, particularly in radiology. Traditionally, we have relied on manual restraint, often referred to as "Brute Force," where medical staff physically hold the child in place. This method, while effective in preventing movement, can cause significant anxiety and fear in young patients.
 
 Mechanical devices such as the papoose board, Pigg-O-Stat, and the “Burrito wrap” have been commonly used. These devices secure the child with straps and boards, which can be uncomfortable and intimidating for children. A method frequently employed in emergency rooms is the "Burrito hold," where the child is wrapped tightly in a sheet or blanket to restrict movement.
 
-|![A person wearing gloves holding a baby's leg
-
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.002.jpeg)*Manually holding an infant by the legs during a voiding cystourethrogram. This technique can lead to bruising and discomfort, highlighting the need for more gentle and secure positioning methods.*|![A person in a blue shirt
-
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.003.jpeg)*Papoose device: Covers the chest, causes stress for both child and parent, and is difficult to clean between uses.*|
-| :-: | :-: |
-|![A baby in a transparent container
-
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.004.jpeg)*Pigg-O-Stat*|<p>
-</p><p>![](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.005.png)![](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.006.png)</p>|
+*Manually holding an infant by the legs during a voiding cystourethrogram. This technique can lead to bruising and discomfort, highlighting the need for more gentle and secure positioning methods.*
+*Papoose device: Covers the chest, causes stress for both child and parent, and is difficult to clean between uses.*
+*Pigg-O-Stat*
 
 While methods like the Pigg-O-Stat and “Burrito wrapping” achieve the goal, they often result in heightened stress and discomfort for both the child and their caregivers.
 
-
-
-|<p>
-</p><p>![A baby being examined by a doctor
-
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.007.jpeg)![](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.008.png)</p>|<p>
-</p><p>![](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.009.png)![A x-ray of a hand
-
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.010.jpeg)</p>|
-| :-: | :-: |
-|<p>![A diagram of a person lying on a table
-
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.011.jpeg)</p><p>*A diagram illustrating the radiation field around the equipment, patient and personnel.*</p>|<p>![A graph with a red line
-
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.012.jpeg)</p><p>*Intensity of radiation exposure decreases with distance, according to the inverse square law.*</p><p></p>|
-
+*A diagram illustrating the radiation field around the equipment, patient and personnel.*
+*Intensity of radiation exposure decreases with distance, according to the inverse square law.*
 
 # **INTRODUCING THE PEDIATRIC POSITION HOLDER**
 Safety and customer care are of the foremost concerns in pediatric medical care, encompassing the well-being of the child, the parent or caregiver, and the healthcare provider. The Pediatric Position Holder (PPH) addresses a critical need in pediatric care by offering a standardized, gentle, and safe solution for pediatric medical positioning. 
@@ -67,12 +45,7 @@ The inspiration behind the PPH is rooted in the urgent need for a safe, standard
 
 The PPH is versatile and can be used across various medical settings, including radiology, emergency rooms, and minor procedure units. Its design ensures that children remain comfortable, secure, and safe during procedures, helping to alleviate the anxiety and stress often associated with medical interventions. The PPH’s non-threatening appearance, featuring soft materials, can be enhanced with familiar concepts and/or decorative elements, providing children an opportunity to familiarize themselves with it ahead of the procedure. This pre-exposure to the holder can reduce the stress of introducing a foreign object immediately before a medical procedure, enhancing the child's comfort and cooperation. For children with chronic illnesses who undergo repeat procedures, this familiarity can significantly add to their comfort, making each procedure less daunting and more manageable.
 
-
 # **US PATENT # 2020/017828 A1**
-![A paper with text and images of a baby doll
-
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.013.png)
-
 
 # **THE PEDIATRIC POSITION HOLDER:** 
 ## **AN OVERDUE IMPROVEMENT**
@@ -83,51 +56,38 @@ The Pediatric Position Holder (PPH) is an innovative, child-friendly device desi
 - **Effective and Versatile:** Suitable for various medical procedures, ensuring consistent and gentle care.
 - **Enhanced Procedure Quality:** Allows for better positioning and access without compromising respiratory movements or tube placements.
 
-
 # **HOW THE PEDIATRIC POSITION HOLDER TRANSFORM PATIENT CARE:**
 ## **MAXIMIZES CONTACT, MINIMIZES MOVEMENT**
 
-|<p>![A baby in a blue body
+*Patient Laid Flat on the Pediatric Position Holder*
 
-Description automatically generated with medium confidence](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.014.jpeg)</p><p>*Patient Laid Flat on the Pediatric Position Holder*</p>|<p>![A baby in a blue chair
+*One Arm Hold*
 
-Description automatically generated with medium confidence](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.015.jpeg)</p><p>*One Arm Hold*</p>|<p>![A baby in a sling
+*A Two Arm Hold*
 
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.016.jpeg)</p><p>*A Two Arm Hold*</p>|
-| :-: | :-: | :-: |
-|<p>![A baby in a blue harness
+*Perineum Flap Folds Against the Leg and Outer Flaps Wrap Around Leg for Additional Support and Comfort*
 
-Description automatically generated with medium confidence](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.017.jpeg)</p><p>*Perineum Flap Folds Against the Leg and Outer Flaps Wrap Around Leg for Additional Support and Comfort*</p>|<p>![A baby in a sling
+*Both Arms and Legs Held Securely*
 
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.018.jpeg)</p><p>*Both Arms and Legs Held Securely*</p>||
 ## **INSTRUCTIONS FOR USING THE PEDIATRIC POSITION HOLDER:**
 1. **Prepare the Surface**: Lay the Pediatric Position Holder (PPH) on a flat working surface, such as a table or medical imaging machine. Alternatively, the device can be used as an additional soft wrap option if the provider is sitting with the child.
 1. **Position the Child**: Place the child on the device, ensuring they are comfortably centered.
 1. **Secure as Needed**: Wrap the device around the specific area requiring stabilization. For example, to secure an arm for IV placement, wrap the holder around the arm only.
 1. **Adjust for Optimal Hold**: The holder is versatile and minimally invasive. Secure only the necessary extremities, whether it is one arm or all four extremities, based on the procedural requirements.
 1. **Ensure Comfort and Safety**: Check that the child is comfortably positioned and that the holder does not interfere with any medical lines or tubes.
+
 ## **VERSATILITY AND MINIMAL INVASIVENESS**
 The Pediatric Position Holder (PPH) is designed to provide optimal procedural efficiency with minimal invasiveness. Its soft, flexible construction allows for a wide range of holds, whether needing to secure a single limb, upper body<sup>1</sup> to achieving a complete body hold<sup>2</sup> when necessary. This adaptability ensures that medical procedures are performed efficiently while maintaining the child's comfort and minimizing stress for both the patient and caregiver. Additionally, the PPH's ease of use reduces the need for technologists and/or parents to reach into the X-ray field, thereby lowering their exposure to radiation. The PPH improves on prior methods with its ability to provide the exact level of support needed, no more and no less, enhancing both patient care and procedural outcomes.
 
-|<p><h1>![A baby lying on a bed
+*1/Holder allows us to hold the child's arms out of the CT scan x-ray beam without reaching into the scanner gantry.*
+*2/Ensuring a clear and complete image with minimal disruption or movement is crucial for patient care and efficiency. The Holder accomplishes both by securely holding the child without interfering with the IV lines.*</p>|
+*This young child would not give it back to us.*
 
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.019.png)</h1></p><p>*1/Holder allows us to hold the child's arms out of the CT scan x-ray beam without reaching into the scanner gantry.*</p>|<p><h1>![A baby lying on a bed
+**WHY THIS DESIGN?**
 
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.020.jpeg)</h1></p><p>*2/Ensuring a clear and complete image with minimal disruption or movement is crucial for patient care and efficiency. The Holder accomplishes both by securely holding the child without interfering with the IV lines.*</p>|
-| :-: | :-: |
-|*This young child would not give it back to us.![A child holding a piece of paper
-
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.021.jpeg)*|<h1>![A baby doll in a blue baby chair
-
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.022.jpeg)</h1>|<h1>![A baby doll in a seat
-
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.023.jpeg)</h1>|
-| :-: | :-: | :-: |
-# <a name="ole_link1"></a><a name="ole_link2"></a>**WHY THIS DESIGN?**
 ## **THE PEDIATRIC POSITION HOLDER addresses several issues:**
 - **Improves Workflow:** The device simplifies the process of securing children during medical procedures, reducing the time and effort required by medical staff.
 - **Raises the Standard of Care:** By providing a comfortable and secure method of immobilization, the holder reduces the stress and anxiety experienced by young patients, thereby improving the overall quality of care.
-
 
 ## **KEEPING A CHILD STILL DURING RADIOLOGY PROCEDURES, IV STICKS, AND SIMILAR MEDICAL TASKS IS CRUCIAL FOR SEVERAL REASONS:**
 1. **Accuracy of Results**: For imaging procedures like X-rays, CT scans, or MRIs, even small movements can blur the images or produce artifacts. Clear and accurate images are essential for diagnosing and assessing medical conditions correctly.
@@ -137,25 +97,16 @@ Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193f
 1. **Safety**: In some cases, movement can lead to accidental injuries, especially with equipment used in radiology or during invasive procedures. Staying still helps prevent accidents and ensures the safety of the child.
 1. **Enhanced Communication and Cooperation**: Teaching and encouraging a child to stay still helps them develop an understanding of medical procedures and fosters better communication with healthcare providers, which can be beneficial for future medical visits.
 
-
 # **PARENT TESTIMONIALS**
 
-|<p>![A person holding a baby
+*“Months ago my baby had a VCUG the old way – technologists had to manually restrain my daughter during the procedure. Therefore, I was so apprehensive when we returned for our follow-up examination. This time the technologist used The Q. It was so much better for my baby and much less stressful for me as a parent.”*</p><p>Mom of 6 month old infant, Lubbock, TX</p>
 
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.024.jpeg) *“Months ago my baby had a VCUG the old way – technologists had to manually restrain my daughter during the procedure. Therefore, I was so apprehensive when we returned for our follow-up examination. This time the technologist used The Q. It was so much better for my baby and much less stressful for me as a parent.”*</p><p>Mom of 6 month old infant, Lubbock, TX</p>|<p>![A person holding a baby
-
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.025.jpeg)*"My daughter was so happy you let me stay in the room during the procedure. My daughter stayed focused on me and the Q holder and less on the room and scary machines.”*</p><p>Dad of 2 year old from Clovis, NM</p>|<p>![A person holding a baby
-
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.026.jpeg) *“My son was wiggling too much to allow the technologist to get good ultrasound pictures. After we put on the foam holder, the technologist was able to get clearer pictures.”*</p><p>Mom of 16 month old from Hobbs, NM</p>|
-| :- | :- | :- |
+*"My daughter was so happy you let me stay in the room during the procedure. My daughter stayed focused on me and the Q holder and less on the room and scary machines.”*</p><p>Dad of 2 year old from Clovis, NM</p>
+*“My son was wiggling too much to allow the technologist to get good ultrasound pictures. After we put on the foam holder, the technologist was able to get clearer pictures.”*</p><p>Mom of 16 month old from Hobbs, NM</p>
 # **TECHNOLOGISTS TESTIMONIALS**
 
-|<p>![A person holding a piece of paper
+*“Because we used the Pediatric Position Holder, the entire procedure was obviously less stressful on the child and I could see that the parents were less stressed as well. I was glad that the holder allowed us to get clear images the first time we tried.”*</p><p>Pediatric Nurse, University Medical Center</p><p>*“This pediatric holder is a great solution for a common problem.”*</p><p>Radiology Technician, University Medical Center</p><p></p><p></p>
 
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.027.jpeg)*“Because we used the Pediatric Position Holder, the entire procedure was obviously less stressful on the child and I could see that the parents were less stressed as well. I was glad that the holder allowed us to get clear images the first time we tried.”*</p><p>Pediatric Nurse, University Medical Center</p><p>*“This pediatric holder is a great solution for a common problem.”*</p><p>Radiology Technician, University Medical Center</p><p></p><p></p>|
-| :- |
-#
-#
 # **Handling Without Holding: The Role of the Pediatric Position Holder in the Absence of Certified Child Life Specialists (CCLS)**
 Certified Child Life Specialists (CCLS) are educated and clinically trained in understanding the developmental impact of illness and injury. They play a crucial role in improving patient and family care, satisfaction, and overall experience. In healthcare and community settings, CCLS help infants, children, youth, and families cope with the stress and uncertainty of acute and chronic illness, injury, trauma, disability, loss, and bereavement. They provide evidence-based, developmentally and psychologically appropriate interventions, including therapeutic play, preparation for procedures, and education to reduce fear, anxiety, apprehension, and pain.
 ## **The Vital Role of CCLS**
@@ -165,13 +116,6 @@ The availability of CCLS is not consistent, especially in smaller clinics or hos
 ## **The Pediatric Position Holder (PPH) as a Middle Ground**
 The Pediatric Position Holder is a middle-ground between the preferred methods of the CCLS and the invasive methods currently in use. The Pediatric Position Holder (PPH) offers an optimal solution. It provides a gentle and minimally invasive alternative to traditional restraint methods, ensuring that children are positioned securely and comfortably without the need for direct physical holding.
 
-|![A person and a child drawing
-
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.028.jpeg)|![A person holding a child
-
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.029.jpeg)|
-| :-: | :-: |
-
 ## **Advantages of the PPH:**
 - **Radiolucent for x-ray imaging**
 - **Standardizes procedures worldwide**
@@ -179,7 +123,6 @@ Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193f
 - **Less invasive and not restrictive**
 - **Selective in application**
 - **Adheres to the principle of justice by providing equal care standards globally**
-
 
 # **THE	PEDIATRIC POSITION HOLDER IS A STANDALONE DEVICE THAT DOES NOT REQUIRE AN ADDITIONAL COMPONENTS OR ACCESSORIES.**
 The Pediatric Position Holder (PPH) is designed to be used under the direct supervision of a healthcare professional, ensuring proper application and patient safety. While it is primarily a professional product, its simplicity and safety features could make it suitable for over-the-counter retail in the future.
@@ -211,7 +154,6 @@ Based on informal and anecdotal sources, including Google, opinions of fellow pe
 - 1,000,000 phlebotomy procedures are conducted annually in the USA for lead poisoning and hemoglobin levels through the Medicaid program, with the majority requiring immobilization.
 - 5 million pediatric admissions (hospital admissions) annually, with many requiring immobilization for blood draws.
 
-
 Pediatric patients often require procedural assistance during radiology procedures due to conditions like urinary tract issues, gastrointestinal conditions, and other common pediatric concerns. These procedures affect millions of children annually in the United States, highlighting the importance of a device that can provide gentle and effective support.
 ## **ESTIMATED NUMBER OF PEDIATRIC PATIENTS ANNUALLY:**
 - 1,000,000 children needing procedural assistance for various procedures
@@ -222,7 +164,6 @@ Pediatric patients often require procedural assistance during radiology procedur
 - All sub-specialty pediatric providers (e.g. pediatric orthopedics, pediatric urology, pediatric cardiology)
 - ER providers
 - There are 58,500 Certified Child Life Specialists in the United States, as of 2016.
-
 
 # **FDA AND MDR (CE MARK) DEVICE CLASSIFICATION**
 
@@ -248,57 +189,21 @@ Pediatric patients often require procedural assistance during radiology procedur
 # **APPENDIX**
 ## **CONCEPTUAL DESIGNS**
 Conceptual drawings of the Pediatric Position Holder (PPH) feature a friendly design to comfort young patients during medical procedures. Colors/designs could be customized based on the preferences of the hospital or facility.
-# ![A cartoon character on a pink object
 
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.030.jpeg)
-# ![A yellow mask with a cartoon character on it
-
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.031.png)
-#
-#
-#
 ## **TESTING AND TRIALS**
 To provide a glimpse into the testing and real-world trials of The Pediatric Position Holder (PPH), here is a collection of photos showcasing various stages of its development. These images capture the dedication and effort put into ensuring that the device meets the highest standards of safety, comfort, and effectiveness. 
 
-|![A baby crawling on the floor
-
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.032.jpeg)|![A baby lying on a bed
-
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.033.jpeg)|![A baby sleeping in a hospital bed
-
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.034.jpeg)|
-| :-: | :-: | :-: |
-|![A baby lying on a bed
-
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.035.jpeg)|![A baby lying on a bed
-
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.036.jpeg)|![A green apron on a hospital bed
-
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.037.jpeg)|
-|![A person holding a baby
-
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.038.jpeg)|![A baby drawing on a paper
-
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.039.jpeg)|![A baby sitting on the floor
-
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.040.jpeg)|
-
-
 # **THE CREATORS OF THE PEDIATRIC POSITION HOLDER**
-## ![A close-up of a person in a white coat
 
-Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193ff71320.041.jpeg)**Frank Louis Quattromani, M.D.**
+**Frank Louis Quattromani, M.D.**
 *Pediatric Radiologist*
 
 - University Medical Center, Lubbock, Texas
 - Clinical Professor of Pediatrics and Pathology, Texas Tech University School of Medicine, Lubbock, Texas
 - Former Radiology Consultant to the office of the United States Army Surgeon General
 - U.S. Army Colonel (Medical Department), Retired
-##
 ## **Patricia Rae Quattromani**
 *Co-Inventor and Product Designer*
-##
-##
 ## **REFERENCES**
 - DeBoer, S. et al. (2007). Infant Immobilization and Pediatric Papooses: We’ve Come a long Way. Journal of Emergency Nursing, 33(4), 451-455.
 - Brown, J.C. (2011). The “Superhero Cape Burrito”: a simple and comfortable method of short-term procedural restraint. J Emerg Med, July, pp. 74-76.
@@ -312,8 +217,3 @@ Description automatically generated](Aspose.Words.43df4326-e1a3-46ac-b20d-5d193f
 - Alexander, M. (2012). Managing Patient Stress in Pediatric Radiology. Radiologic Technology, 83(6), 549-560.
 - Klays, D. (2016). Radiation Protection in Pediatric Radiography-Introducing Some Immobilization and Protection Equipment. Pediatric Today, 12(1), 81-86.
 - Weinstock, M. (2020). Q&A: Children’s National CEO aims to tailor treatments to his young patients. Modern Healthcare, January 11.
-
-Page 22
-
-PPH - Website_Update_8.05.4.docx
-
