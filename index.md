@@ -184,7 +184,6 @@ Pediatric patients often require procedural assistance during radiology procedur
 |Device Class|1|
 |Product Life Cycle (TPLC)|TPLC Product Code Report|
 |GMP Exempt?|10|
-\*
 
 # **APPENDIX**
 ## **CONCEPTUAL DESIGNS**
