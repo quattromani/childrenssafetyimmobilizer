@@ -83,7 +83,7 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
 *2/Ensuring a clear and complete image with minimal disruption or movement is crucial for patient care and efficiency. The Holder accomplishes both by securely holding the child without interfering with the IV lines.*</p>|
 *This young child would not give it back to us.*
 
-**WHY THIS DESIGN?**
+# WHY THIS DESIGN?
 
 ## **THE PEDIATRIC POSITION HOLDER addresses several issues:**
 - **Improves Workflow:** The device simplifies the process of securing children during medical procedures, reducing the time and effort required by medical staff.
