@@ -22,7 +22,10 @@ Mechanical devices such as the papoose board, Pigg-O-Stat, and the “Burrito wr
 | Papoose Board             |  Pigg-O-Stat |
 | :-------------------------:|:-------------------------: |
 | ![Manual Holding](/images/product-assessment/tech-close.jpeg) | ![Pigg-O-Stat](/images/product-assessment/Pigg-o-stat.jpeg) |
-| ![Manual Restraint on a Papoose Board](/images/product-assessment/Papoose_board.jpeg) | ![Burrito Wrap](/images/product-assessment/burrito-wrap.jpeg) |
+
+| Papoose Board             |  Burrito Wrap |
+| :-------------------------:|:-------------------------: |
+| ![Manual Holding](/images/product-assessment/tech-close.jpeg) | ![Pigg-O-Stat](/images/product-assessment/Pigg-o-stat.jpeg) |
 
 *Manually holding an infant by the legs during a voiding cystourethrogram. This technique can lead to bruising and discomfort, highlighting the need for more gentle and secure positioning methods.*
 *Papoose device: Covers the chest, causes stress for both child and parent, and is difficult to clean between uses.*
