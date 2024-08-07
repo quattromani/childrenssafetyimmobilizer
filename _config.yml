@@ -2,13 +2,13 @@
 name: The Q
 title: Pediatric Position Holder
 tagline: A 1/2" Polyester soft foam one-piece radiolucent child medical positioning aid.
-description: 'The Pediatric Position Holder is a revolutionary new pediatric child friendly immobilizer which is effective, safe, simple and versatile. The Pediatric Position Holder is a new emerging medical technology for children that standardizes the process of immobilization. The holder offers consistency across all modes of care for the infant and child. Our 1/2" thick, soft polyester foam holder has no extraneous straps, boards, or hook & loop attachments. Our hope is that we can lessen the anxiety, fear, amd distress that are common responses during imaging and other medical procedures.'
-logo: 4Q-black.svg
+description: 'The Pediatric Position Holder is a revolutionary, child-friendly immobilizer designed to improve safety, comfort, and efficiency during pediatric medical procedures. This innovative device standardizes immobilization, reducing anxiety and fear with its soft polyester foam construction, free of extraneous straps and attachments.'
+logo: 
 baseurl: ""
 paginate: 1
 locale: "en"
 
-url: https://childrenssafetyimmobilizer.com/
+url: https://pediatricpositionholder.com/
 
 # About/contact
 author:
@@ -16,7 +16,9 @@ author:
   url: maxquattromani.com
 
 #### Under the Hood Stuff #####
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/leap-day@v0.2.0
+plugins:
+- jekyll-remote-theme
 
 google_analytics: UA-50387096-21
 
