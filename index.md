@@ -69,6 +69,7 @@ The inspiration behind the PPH is rooted in the urgent need for a safe, standard
 The PPH is versatile and can be used across various medical settings, including radiology, emergency rooms, and minor procedure units. Its design ensures that children remain comfortable, secure, and safe during procedures, helping to alleviate the anxiety and stress often associated with medical interventions. The PPH’s non-threatening appearance, featuring soft materials, can be enhanced with familiar concepts and/or decorative elements, providing children an opportunity to familiarize themselves with it ahead of the procedure. This pre-exposure to the holder can reduce the stress of introducing a foreign object immediately before a medical procedure, enhancing the child's comfort and cooperation. For children with chronic illnesses who undergo repeat procedures, this familiarity can significantly add to their comfort, making each procedure less daunting and more manageable.
 
 # **US PATENT # 2020/017828 A1**
+![The Patent page for the Pediatric Position Holder](/images/product-assessment/patent.jpg)
 
 # **THE PEDIATRIC POSITION HOLDER:** 
 ## **AN OVERDUE IMPROVEMENT**
