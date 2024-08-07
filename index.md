@@ -293,7 +293,7 @@ To provide a glimpse into the testing and real-world trials of The Pediatric Pos
 
 ## **Frank Louis Quattromani, M.D.**
 *Pediatric Radiologist*
-![>](/images/product-assessment/Frank_Quattromani.JPG =200)
+![>](/images/product-assessment/Frank_Quattromani.JPG =x200)
 - University Medical Center, Lubbock, Texas
 - Clinical Professor of Pediatrics and Pathology, Texas Tech University School of Medicine, Lubbock, Texas
 - Former Radiology Consultant to the office of the United States Army Surgeon General
