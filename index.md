@@ -160,6 +160,20 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
 
 # **PARENT TESTIMONIALS**
 
+<div class="grid-container grid-3x2">
+  <figure class="grid-item">
+    <img src="/images/product-assessment/Parent-testimonial1.jpeg" alt="">
+    <figcaption>"Months ago my baby had a VCUG the old way – technologists had to manually restrain my daughter during the procedure. Therefore, I was so apprehensive when we returned for our follow-up examination. This time the technologist used The Q. It was so much better for my baby and much less stressful for me as a parent."<p>Mom of 6 month old infant, Lubbock, TX</p></figcaption>
+  </figure>
+  <figure class="grid-item">
+    <img src="/images/product-assessment/Parent-testimonial2.jpeg" alt="">
+    <figcaption>"My daughter was so happy you let me stay in the room during the procedure. My daughter stayed focused on me and the Q holder and less on the room and scary machines."<p>Dad of 2 year old from Clovis, NM</figcaption>
+  </figure>
+  <figure class="grid-item">
+    <img src="/images/product-assessment/Parent-testimonial3.jpeg" alt="">
+    <figcaption>"My son was wiggling too much to allow the technologist to get good ultrasound pictures. After we put on the foam holder, the technologist was able to get clearer pictures."<p>Mom of 16 month old from Hobbs, NM</p></figcaption>
+  </figure>
+</div>
 *“Months ago my baby had a VCUG the old way – technologists had to manually restrain my daughter during the procedure. Therefore, I was so apprehensive when we returned for our follow-up examination. This time the technologist used The Q. It was so much better for my baby and much less stressful for me as a parent.”*</p><p>Mom of 6 month old infant, Lubbock, TX</p>
 
 *"My daughter was so happy you let me stay in the room during the procedure. My daughter stayed focused on me and the Q holder and less on the room and scary machines.”*</p><p>Dad of 2 year old from Clovis, NM</p>
@@ -179,11 +193,11 @@ The Pediatric Position Holder is a middle-ground between the preferred methods o
 
 <div class="grid-container grid-2x2">
   <figure class="grid-item">
-    <img src="/images/product-assessment/CCLS.jpeg" alt="">
+    <img src="/images/CCLS.jpeg" alt="">
     <figcaption></figcaption>
   </figure>
 <figure class="grid-item">
-    <img src="/images/product-assessment/CCLS-2.jped" alt="">
+    <img src="/images/CCLS-2.jped" alt="">
     <figcaption></figcaption>
   </figure>
 </div>
@@ -261,6 +275,16 @@ Pediatric patients often require procedural assistance during radiology procedur
 ## **CONCEPTUAL DESIGNS**
 Conceptual drawings of the Pediatric Position Holder (PPH) feature a friendly design to comfort young patients during medical procedures. Colors/designs could be customized based on the preferences of the hospital or facility.
 
+<figure>
+  <img src="/images/images/IMG_1796.jpg" alt="">
+  <figcaption></figcaption>
+</figure>
+
+<figure>
+  <img src="/images/product-assessment/" alt="">
+  <figcaption></figcaption>
+</figure>
+  
 ## **TESTING AND TRIALS**
 To provide a glimpse into the testing and real-world trials of The Pediatric Position Holder (PPH), here is a collection of photos showcasing various stages of its development. These images capture the dedication and effort put into ensuring that the device meets the highest standards of safety, comfort, and effectiveness. 
 
