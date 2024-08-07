@@ -282,12 +282,10 @@ Conceptual drawings of the Pediatric Position Holder (PPH) feature a friendly de
 
 <figure>
   <img src="/images/images/IMG_1796.jpg" alt="">
-  <figcaption></figcaption>
 </figure>
 
 <figure>
-  <img src="/images/product-assessment/" alt="">
-  <figcaption></figcaption>
+  <img src="/images/product-assessment/super-hero.jpg" alt="">
 </figure>
   
 ## **TESTING AND TRIALS**
