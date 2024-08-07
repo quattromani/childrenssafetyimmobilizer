@@ -104,17 +104,32 @@ img[alt$="><"] {
 }
 
 img[src*='#left'] {
-float: left;
-margin: 10px 10px 10px 0;
+  float: left;
+  margin: 10px 10px 10px 0;
 }
 
 img[src*='#center'] {
-display: block;
-margin: 0 auto;
-max-width: 800px;
+  display: block;
+  margin: 0 auto;
+  max-width: 800px;
 }
 
 img[src*='#right'] {
-float: right;
-margin: 10px 0 10px 10px;
+  float: right;
+  margin: 10px 0 10px 10px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: lightblue;
 }
