@@ -26,6 +26,18 @@ While methods like the Pigg-O-Stat and “Burrito wrapping” achieve the goal, 
 *A diagram illustrating the radiation field around the equipment, patient and personnel.*
 *Intensity of radiation exposure decreases with distance, according to the inverse square law.*
 
+## RESEARCH RESULTS
+Reviewed sample of 100 VCUG procedures in children under 2 years of age performed in 2018 at UMC for a total of 3,880 screen save images
+
+| Instances                 | Count |
+|---------------------------|-------|
+| Technologist Hands        | 940   |
+| Child Extremities         | 840   |
+| Adult Hands               | 210   |
+| Total                     | 1,990 |
+
+**51% of images showed instances of unnecessary radiation to the child, technologist, and/or other adults/parents assisting in immobilization of child.**
+
 # **INTRODUCING THE PEDIATRIC POSITION HOLDER**
 Safety and customer care are of the foremost concerns in pediatric medical care, encompassing the well-being of the child, the parent or caregiver, and the healthcare provider. The Pediatric Position Holder (PPH) addresses a critical need in pediatric care by offering a standardized, gentle, and safe solution for pediatric medical positioning. 
 
