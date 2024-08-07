@@ -42,7 +42,7 @@ While methods like the Pigg-O-Stat and “Burrito wrapping” achieve the goal, 
 
 <div class="grid-container">
   <figure class="grid-item">
-    <img src="/images/product-assessment/Rad-reduction1.jpeg" alt="Radiation exposure to the technologist’s hands during the procedure.">
+    <img src="/images/product-assessment/Rad-reduction3.jpeg" alt="Radiation exposure to the technologist’s hands during the procedure.">
     <figcaption>Radiation exposure to the technologist’s hands during the procedure.</figcaption>
   </figure>
   <figure class="grid-item">
@@ -50,7 +50,7 @@ While methods like the Pigg-O-Stat and “Burrito wrapping” achieve the goal, 
     <figcaption>Technologist's hand captured in the direct x-ray beam during a voiding cystourethrogram.</figcaption>
   </figure>
   <figure class="grid-item">
-    <img src="/images/product-assessment/Rad-reduction3.jpeg" alt="A diagram illustrating the radiation field around the equipment, patient and personnel.">
+    <img src="/images/product-assessment/Rad-reduction1.jpeg" alt="A diagram illustrating the radiation field around the equipment, patient and personnel.">
     <figcaption>A diagram illustrating the radiation field around the equipment, patient and personnel.</figcaption>
   </figure>
   <figure class="grid-item">
