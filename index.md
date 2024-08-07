@@ -31,10 +31,10 @@ Reviewed sample of 100 VCUG procedures in children under 2 years of age performe
 
 | Instances                   |  Count  |
 | --------------------------- | :-----: |
-| Technologist Hands          | 940     |
-| Child Extremities           | 840     |
-| Adult Hands                 | 210     |
-| Total                       | 1,990   |
+| **Technologist Hands**      | 940     |
+| **Child Extremities**       | 840     |
+| **Adult Hands**             | 210     |
+| **Total**                   | 1,990   |
 
 **51% of images showed instances of unnecessary radiation to the child, technologist, and/or other adults/parents assisting in immobilization of child.**
 
