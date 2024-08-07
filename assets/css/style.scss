@@ -119,3 +119,19 @@ h3 {
 .main-content table tr:last-child td:last-child {
   border-bottom-right-radius: 6px;
 }
+
+img[alt$=">"] {
+  float: right;
+}
+
+img[alt$="<"] {
+  float: left;
+}
+
+img[alt$="><"] {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  float: none!important;
+}
