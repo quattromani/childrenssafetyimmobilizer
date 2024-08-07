@@ -2,7 +2,7 @@
 title: The Pediatric Position Holder
 ---
 
-![The Pediatric Position Holder](/images/PPH-drawing.PNG#center "The Pediatric Position Holder")
+![The Pediatric Position Holder](/images/PPH-drawing.PNG#center "The Pediatric Position Holder"){:height="36px" width="36px"}
 
 # **INTRODUCTION TO THE PEDIATRIC POSITION HOLDER**
 To successfully perform brief minor medical procedures on infants and children, such as laceration repair, removal of foreign bodies from the ears or nose, and radiological examinations like chest x-rays and VCUGs, it is essential for the child to remain relatively still. This can be achieved through non-pharmacological methods such as distraction, effective communication, coping techniques (e.g., deep breathing, blowing bubbles, holding a caregiver's hand), audiovisual aids, and physical holding.
