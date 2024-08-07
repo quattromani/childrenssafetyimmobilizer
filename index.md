@@ -177,6 +177,17 @@ The availability of CCLS is not consistent, especially in smaller clinics or hos
 ## **The Pediatric Position Holder (PPH) as a Middle Ground**
 The Pediatric Position Holder is a middle-ground between the preferred methods of the CCLS and the invasive methods currently in use. The Pediatric Position Holder (PPH) offers an optimal solution. It provides a gentle and minimally invasive alternative to traditional restraint methods, ensuring that children are positioned securely and comfortably without the need for direct physical holding.
 
+<div class="grid-container grid-2x2">
+  <figure class="grid-item">
+    <img src="/images/product-assessment/CCLS.jpeg" alt="">
+    <figcaption></figcaption>
+  </figure>
+<figure class="grid-item">
+    <img src="/images/product-assessment/CCLS-2.jped" alt="">
+    <figcaption></figcaption>
+  </figure>
+</div>
+
 ## **Advantages of the PPH:**
 - **Radiolucent for x-ray imaging**
 - **Standardizes procedures worldwide**
