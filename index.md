@@ -289,19 +289,20 @@ Conceptual drawings of the Pediatric Position Holder (PPH) feature a friendly de
 ## **TESTING AND TRIALS**
 To provide a glimpse into the testing and real-world trials of The Pediatric Position Holder (PPH), here is a collection of photos showcasing various stages of its development. These images capture the dedication and effort put into ensuring that the device meets the highest standards of safety, comfort, and effectiveness. 
 
-# **THE CREATORS OF THE PEDIATRIC POSITION HOLDER**
-
-## **Frank Louis Quattromani, M.D.**
-*Pediatric Radiologist*
+## **THE CREATORS OF THE PEDIATRIC POSITION HOLDER**
 <figure>
   <img src="/images/product-assessment/Frank_Quattromani.JPG" alt=">" width="250">
 </figure>
+## **Frank Louis Quattromani, M.D.**
+*Pediatric Radiologist*
 - University Medical Center, Lubbock, Texas
 - Clinical Professor of Pediatrics and Pathology, Texas Tech University School of Medicine, Lubbock, Texas
 - Former Radiology Consultant to the office of the United States Army Surgeon General
 - U.S. Army Colonel (Medical Department), Retired
+
 ## **Patricia Rae Quattromani**
 *Co-Inventor and Product Designer*
+
 ## **REFERENCES**
 - DeBoer, S. et al. (2007). Infant Immobilization and Pediatric Papooses: We’ve Come a long Way. Journal of Emergency Nursing, 33(4), 451-455.
 - Brown, J.C. (2011). The “Superhero Cape Burrito”: a simple and comfortable method of short-term procedural restraint. J Emerg Med, July, pp. 74-76.
