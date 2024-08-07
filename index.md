@@ -41,7 +41,7 @@ While methods like the Pigg-O-Stat and “Burrito wrapping” achieve the goal, 
 Reviewed sample of 100 VCUG procedures in children under 2 years of age performed in 2018 at UMC for a total of 3,880 screen save images
 
 | Instances                   |  Count  |
-| --------------------------- | :-----: |
+| --------------------------: | :-----: |
 | **Technologist Hands**      | 940     |
 | **Child Extremities**       | 840     |
 | **Adult Hands**             | 210     |
@@ -191,23 +191,23 @@ Pediatric patients often require procedural assistance during radiology procedur
 
 # **FDA AND MDR (CE MARK) DEVICE CLASSIFICATION**
 
-|Device|Pediatric Position Holder|
-| :- | :- |
-|Regulation Description|Pediatric position holder|
-|Definition|Device used to physically restrain a pediatric patient for a short surgical or clinical procedure such as circumcision. Not intended for prolonged positioning.|
-|Physical State|Made of non-permeable and non-porous material|
-|Technical Method|The pediatric position holder is a device made of non-permeable and non-porous material and molded with smooth edges for single patient use or multi-patient reuse. Holders that use disposable straps are used to hold an infant or a child in an anatomically correct position during short medical procedures such as circumcision. The holder is used only under constant supervision of a medical professional in a health care facility and is for prescription use only.|
-|Target Area|Pediatrics|
-|Regulation Medical Specialty|General Hospital|
-|Review Panel|General Hospital|
-|Product Code|PRN|
-|Premarket Review|Office of Gastrorenal, ObGyn, General Hospital, and Urology Devices (OHT3)|
-|Drug Delivery and General Hospital Devices, and Human Factors|(DHT3C)|
-|Submission Type|510(K) Exempt|
-|Regulation Number|880\.5680|
-|Device Class|1|
-|Product Life Cycle (TPLC)|TPLC Product Code Report|
-|GMP Exempt?|10|
+| -: | :- |
+|**Device**|Pediatric Position Holder|
+|**Regulation Description**|Pediatric position holder|
+|**Definition**|Device used to physically restrain a pediatric patient for a short surgical or clinical procedure such as circumcision. Not intended for prolonged positioning.|
+|**Physical State**|Made of non-permeable and non-porous material|
+|**Technical Method**|The pediatric position holder is a device made of non-permeable and non-porous material and molded with smooth edges for single patient use or multi-patient reuse. Holders that use disposable straps are used to hold an infant or a child in an anatomically correct position during short medical procedures such as circumcision. The holder is used only under constant supervision of a medical professional in a health care facility and is for prescription use only.|
+|**Target Area**|Pediatrics|
+|**Regulation Medical Specialty**|General Hospital|
+|**Review Panel**|General Hospital|
+|**Product Code**|PRN|
+|**Premarket Review**|Office of Gastrorenal, ObGyn, General Hospital, and Urology Devices (OHT3)|
+|**Drug Delivery and General Hospital Devices, and Human Factors**|(DHT3C)|
+|**Submission Type**|510(K) Exempt|
+|**Regulation Number**|880\.5680|
+|**Device Class**|1|
+|**Product Life Cycle (TPLC)**|TPLC Product Code Report|
+|**GMP Exempt?**|10|
 
 # **APPENDIX**
 ## **CONCEPTUAL DESIGNS**
