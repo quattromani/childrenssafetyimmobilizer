@@ -40,14 +40,30 @@ Mechanical devices such as the papoose board, Pigg-O-Stat, and the “Burrito wr
 
 While methods like the Pigg-O-Stat and “Burrito wrapping” achieve the goal, they often result in heightened stress and discomfort for both the child and their caregivers.
 
-*A diagram illustrating the radiation field around the equipment, patient and personnel.*
-*Intensity of radiation exposure decreases with distance, according to the inverse square law.*
+<div class="grid-container">
+  <figure class="grid-item">
+    <img src="/images/product-assessment/Rad-reduction1.jpeg" alt="Radiation exposure to the technologist’s hands during the procedure.">
+    <figcaption>Radiation exposure to the technologist’s hands during the procedure.</figcaption>
+  </figure>
+  <figure class="grid-item">
+    <img src="/images/product-assessment/Rad-reduction2.jpeg" alt="Technologist's hand captured in the direct x-ray beam during a voiding cystourethrogram.">
+    <figcaption>Technologist's hand captured in the direct x-ray beam during a voiding cystourethrogram.</figcaption>
+  </figure>
+  <figure class="grid-item">
+    <img src="/images/product-assessment/Rad-reduction3.jpeg" alt="A diagram illustrating the radiation field around the equipment, patient and personnel.">
+    <figcaption>A diagram illustrating the radiation field around the equipment, patient and personnel.</figcaption>
+  </figure>
+  <figure class="grid-item">
+    <img src="/images/product-assessment/Rad-reduction4.jpeg" alt="Intensity of radiation exposure decreases with distance, according to the inverse square law.">
+    <figcaption>Intensity of radiation exposure decreases with distance, according to the inverse square law.</figcaption>
+  </figure>
+</div>
 
 ## RESEARCH RESULTS
 Reviewed sample of 100 VCUG procedures in children under 2 years of age performed in 2018 at UMC for a total of 3,880 screen save images
 
 | Instances                   |  Count  |
-| --------------------------: | :-----: |
+| ----------------------------------------------------: | :-----: |
 | **Technologist Hands**      | 940     |
 | **Child Extremities**       | 840     |
 | **Adult Hands**             | 210     |
