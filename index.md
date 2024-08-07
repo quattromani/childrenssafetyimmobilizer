@@ -33,7 +33,7 @@ Mechanical devices such as the papoose board, Pigg-O-Stat, and the “Burrito wr
     <figcaption>Papoose device: Covers the chest, causes stress for both child and parent, and is difficult to clean between uses.</figcaption>
   </figure>
   <figure class="grid-item">
-    <img src="/images/product-assessment/burrito-wrap.png" alt=""Burrito Hold"">
+    <img src="/images/product-assessment/burrito-wrap.png" alt="Burrito Hold">
     <figcaption>"Burrito Hold"</figcaption>
   </figure>
 </div>
