@@ -123,11 +123,10 @@ The Pediatric Position Holder (PPH) is an innovative, child-friendly device desi
     <figcaption>Perineum Flap Folds Against the Leg and Outer Flaps Wrap Around Leg for Additional Support and Comfort</figcaption>
   </figure>
   <figure class="grid-item">
-    <img src="/images/product-assessment/PPH-illustratio4.jpeg" alt="Both Arms and Legs Held Securely">
+    <img src="/images/product-assessment/PPH-illustration5.jpeg" alt="Both Arms and Legs Held Securely">
     <figcaption>Both Arms and Legs Held Securely</figcaption>
   </figure>
   <figure class="grid-item">
-
   </figure>
 </div>
 
