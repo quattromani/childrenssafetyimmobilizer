@@ -191,8 +191,8 @@ Pediatric patients often require procedural assistance during radiology procedur
 
 # **FDA AND MDR (CE MARK) DEVICE CLASSIFICATION**
 
-| -: | :- |
 |**Device**|Pediatric Position Holder|
+| -: | :- |
 |**Regulation Description**|Pediatric position holder|
 |**Definition**|Device used to physically restrain a pediatric patient for a short surgical or clinical procedure such as circumcision. Not intended for prolonged positioning.|
 |**Physical State**|Made of non-permeable and non-porous material|
