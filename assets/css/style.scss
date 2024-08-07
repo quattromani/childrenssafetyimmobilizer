@@ -43,80 +43,34 @@ h3 {
   font-size: 18px;
 }
 
-.page-header {
-  padding: 1.5rem 6rem;
-  background-color: #000;
-  background-image: none;
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.grid-item {
+  position: relative;
+  text-align: center;
+}
+
+.grid-item img {
+  width: 100%;
+  height: auto;
+}
+
+.grid-item figcaption {
+  position: absolute;
+  bottom: 8px;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  padding: 5px;
 }
 
 .main-content {
   font-size: 16px;
-}
-
-.main-content img {
-  width: auto;
-  max-width: 100%;
-  height: auto;
-}
-
-.main-content h5 {
-  margin-top: 0;
-}
-
-.sr-only {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  white-space: nowrap; /* added line */
-  border: 0;
-}
-
-video[poster]{
- object-fit: fill;
-}
-
-figure {
-  clear: both;
-}
-
-img[alt$=">"] {
-  float: right;
-  margin-left: 2rem;
-  margin-bottom: 3rem;
-}
-
-img[alt$="<"] {
-  float: left;
-  margin-right: 2rem;
-  margin-bottom: 3rem;
-}
-
-img[alt$="><"] {
-  display: block;
-  max-width: 100%;
-  height: auto;
-  margin: auto;
-  float: none!important;
-}
-
-img[src*='#left'] {
-  float: left;
-  margin: 10px 10px 10px 0;
-}
-
-img[src*='#center'] {
-  display: block;
-  margin: 0 auto;
-  max-width: 800px;
-}
-
-img[src*='#right'] {
-  float: right;
-  margin: 10px 0 10px 10px;
 }
 
 .main-content table {
