@@ -19,7 +19,7 @@ In my 50 years of practice, I have observed various methods used to keep childre
 
 Mechanical devices such as the papoose board, Pigg-O-Stat, and the “Burrito wrap” have been commonly used. These devices secure the child with straps and boards, which can be uncomfortable and intimidating for children. A method frequently employed in emergency rooms is the "Burrito hold," where the child is wrapped tightly in a sheet or blanket to restrict movement.
 
-<div class="grid-container">
+<div class="grid-container grid-2x2">
   <figure class="grid-item">
     <img src="/images/product-assessment/tech-close.jpg" alt="Manually holding an infant by the legs during a voiding cystourethrogram. This technique can lead to bruising and discomfort, highlighting the need for more gentle and secure positioning methods.">
     <figcaption>Manually holding an infant by the legs during a voiding cystourethrogram. This technique can lead to bruising and discomfort, highlighting the need for more gentle and secure positioning methods.</figcaption>
@@ -40,7 +40,7 @@ Mechanical devices such as the papoose board, Pigg-O-Stat, and the “Burrito wr
 
 While methods like the Pigg-O-Stat and “Burrito wrapping” achieve the goal, they often result in heightened stress and discomfort for both the child and their caregivers.
 
-<div class="grid-container">
+<div class="grid-container grid-2x2">
   <figure class="grid-item">
     <img src="/images/product-assessment/Rad-reduction3.jpeg" alt="Radiation exposure to the technologist’s hands during the procedure.">
     <figcaption>Radiation exposure to the technologist’s hands during the procedure.</figcaption>
@@ -105,15 +105,31 @@ The Pediatric Position Holder (PPH) is an innovative, child-friendly device desi
 # **HOW THE PEDIATRIC POSITION HOLDER TRANSFORM PATIENT CARE:**
 ## **MAXIMIZES CONTACT, MINIMIZES MOVEMENT**
 
-*Patient Laid Flat on the Pediatric Position Holder*
+<div class="grid-container grid-3x2">
+  <figure class="grid-item">
+    <img src="/images/product-assessment/PPH-illustration1.jpeg" alt="Patient Laid Flat on the Pediatric Position Holder">
+    <figcaption>Patient Laid Flat on the Pediatric Position Holder</figcaption>
+  </figure>
+  <figure class="grid-item">
+    <img src="/images/product-assessment/PPH-illustration2.jpeg" alt="One Arm Hold">
+    <figcaption>One Arm Hold</figcaption>
+  </figure>
+  <figure class="grid-item">
+    <img src="/images/product-assessment/PPH-illustration2.jpeg" alt="A Two Arm Hold">
+    <figcaption>A Two Arm Hold</figcaption>
+  </figure>
+  <figure class="grid-item">
+    <img src="/images/product-assessment/PPH-illustration4.jpeg" alt="Perineum Flap Folds Against the Leg and Outer Flaps Wrap Around Leg for Additional Support and Comfort">
+    <figcaption>Perineum Flap Folds Against the Leg and Outer Flaps Wrap Around Leg for Additional Support and Comfort</figcaption>
+  </figure>
+  <figure class="grid-item">
+    <img src="/images/product-assessment/PPH-illustratio4.jpeg" alt="Both Arms and Legs Held Securely">
+    <figcaption>Both Arms and Legs Held Securely</figcaption>
+  </figure>
+  <figure class="grid-item">
 
-*One Arm Hold*
-
-*A Two Arm Hold*
-
-*Perineum Flap Folds Against the Leg and Outer Flaps Wrap Around Leg for Additional Support and Comfort*
-
-*Both Arms and Legs Held Securely*
+  </figure>
+</div>
 
 ## **INSTRUCTIONS FOR USING THE PEDIATRIC POSITION HOLDER:**
 1. **Prepare the Surface**: Lay the Pediatric Position Holder (PPH) on a flat working surface, such as a table or medical imaging machine. Alternatively, the device can be used as an additional soft wrap option if the provider is sitting with the child.
