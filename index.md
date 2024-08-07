@@ -24,9 +24,9 @@ Mechanical devices such as the papoose board, Pigg-O-Stat, and the “Burrito wr
 | :-------------------------:|:-------------------------: |
 | *Manually holding an infant by the legs during a voiding cystourethrogram. This technique can lead to bruising and discomfort, highlighting the need for more gentle and secure positioning methods.* | *Pigg-O-Stat* |
 
-| ![Manual Holding](/images/product-assessment/papoose_board.jpeg) | ![Pigg-O-Stat](/images/product-assessment/burrito-wrap.png) |
+| ![Manual Holding](/images/product-assessment/Papoose_board.jpeg) | ![Pigg-O-Stat](/images/product-assessment/burrito-wrap.png) |
 | :-------------------------:|:-------------------------: |
-| *Papoose device: Covers the chest, causes stress for both child and parent, and is difficult to clean between uses.* |  *image_caption* |
+| *Papoose device: Covers the chest, causes stress for both child and parent, and is difficult to clean between uses.* |  *"Burrito Hold"* |
 
 *Manually holding an infant by the legs during a voiding cystourethrogram. This technique can lead to bruising and discomfort, highlighting the need for more gentle and secure positioning methods.*
 *Papoose device: Covers the chest, causes stress for both child and parent, and is difficult to clean between uses.*
