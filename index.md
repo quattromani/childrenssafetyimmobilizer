@@ -21,7 +21,7 @@ Mechanical devices such as the papoose board, Pigg-O-Stat, and the “Burrito wr
 
 | :-------------------------:|:-------------------------: |
 | ![Manual Holding](/images/product-assessment/tech-close.jpg) | ![Pigg-O-Stat](/images/product-assessment/Pigg-o-stat.jpeg) |
-| *image_caption* | *image_caption* |
+ *image_caption* | *image_caption*
 
 | Papoose Board             |  Burrito Wrap |
 | :-------------------------:|:-------------------------: |
