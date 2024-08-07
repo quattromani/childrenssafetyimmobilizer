@@ -29,12 +29,12 @@ While methods like the Pigg-O-Stat and “Burrito wrapping” achieve the goal, 
 ## RESEARCH RESULTS
 Reviewed sample of 100 VCUG procedures in children under 2 years of age performed in 2018 at UMC for a total of 3,880 screen save images
 
-| Instances                 | Count |
-|---------------------------|:-----:|
-| Technologist Hands        | 940   |
-| Child Extremities         | 840   |
-| Adult Hands               | 210   |
-| Total                     | 1,990 |
+| Instances                   |  Count  |
+| --------------------------- | :-----: |
+| Technologist Hands          | 940     |
+| Child Extremities           | 840     |
+| Adult Hands                 | 210     |
+| Total                       | 1,990   |
 
 **51% of images showed instances of unnecessary radiation to the child, technologist, and/or other adults/parents assisting in immobilization of child.**
 
