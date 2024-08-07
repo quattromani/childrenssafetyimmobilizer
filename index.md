@@ -19,10 +19,9 @@ In my 50 years of practice, I have observed various methods used to keep childre
 
 Mechanical devices such as the papoose board, Pigg-O-Stat, and the “Burrito wrap” have been commonly used. These devices secure the child with straps and boards, which can be uncomfortable and intimidating for children. A method frequently employed in emergency rooms is the "Burrito hold," where the child is wrapped tightly in a sheet or blanket to restrict movement.
 
-| Papoose Board             |  Pigg-O-Stat |
 | :-------------------------:|:-------------------------: |
 | ![Manual Holding](/images/product-assessment/tech-close.jpg) | ![Pigg-O-Stat](/images/product-assessment/Pigg-o-stat.jpeg) |
-*image_caption*
+*image_caption*                                                    *image_caption*
 
 | Papoose Board             |  Burrito Wrap |
 | :-------------------------:|:-------------------------: |
