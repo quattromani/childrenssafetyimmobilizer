@@ -199,11 +199,9 @@ The Pediatric Position Holder is a middle-ground between the preferred methods o
 <div class="grid-container grid-2x2">
   <figure class="grid-item">
     <img src="/images/CCLS.jpeg" alt="">
-    <figcaption></figcaption>
   </figure>
 <figure class="grid-item">
     <img src="/images/CCLS-2.jpeg" alt="">
-    <figcaption></figcaption>
   </figure>
 </div>
 
