@@ -174,13 +174,18 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
     <figcaption>"My son was wiggling too much to allow the technologist to get good ultrasound pictures. After we put on the foam holder, the technologist was able to get clearer pictures."<p>Mom of 16 month old from Hobbs, NM</p></figcaption>
   </figure>
 </div>
-*“Months ago my baby had a VCUG the old way – technologists had to manually restrain my daughter during the procedure. Therefore, I was so apprehensive when we returned for our follow-up examination. This time the technologist used The Q. It was so much better for my baby and much less stressful for me as a parent.”*</p><p>Mom of 6 month old infant, Lubbock, TX</p>
 
-*"My daughter was so happy you let me stay in the room during the procedure. My daughter stayed focused on me and the Q holder and less on the room and scary machines.”*</p><p>Dad of 2 year old from Clovis, NM</p>
-*“My son was wiggling too much to allow the technologist to get good ultrasound pictures. After we put on the foam holder, the technologist was able to get clearer pictures.”*</p><p>Mom of 16 month old from Hobbs, NM</p>
 # **TECHNOLOGISTS TESTIMONIALS**
-
-*“Because we used the Pediatric Position Holder, the entire procedure was obviously less stressful on the child and I could see that the parents were less stressed as well. I was glad that the holder allowed us to get clear images the first time we tried.”*</p><p>Pediatric Nurse, University Medical Center</p><p>*“This pediatric holder is a great solution for a common problem.”*</p><p>Radiology Technician, University Medical Center</p><p></p><p></p>
+<div class="grid-container grid-2x2">
+  <figure class="grid-item">
+    <img src="/images/product-assessment/Tech-testimonial1.jpeg" alt="">
+    <figcaption>"Because we used the Pediatric Position Holder, the entire procedure was obviously less stressful on the child and I could see that the parents were less stressed as well. I was glad that the holder allowed us to get clear images the first time we tried."<p>Pediatric Nurse, University Medical Center</p></figcaption>
+  </figure>
+  <figure class="grid-item">
+    <img src="/images/product-assessment/Tech-testimonial2.jpeg" alt="">
+    <figcaption>"This pediatric holder is a great solution for a common problem."<p>Radiology Technician, University Medical Center</p></figcaption>
+  </figure>
+</div>
 
 # **Handling Without Holding: The Role of the Pediatric Position Holder in the Absence of Certified Child Life Specialists (CCLS)**
 Certified Child Life Specialists (CCLS) are educated and clinically trained in understanding the developmental impact of illness and injury. They play a crucial role in improving patient and family care, satisfaction, and overall experience. In healthcare and community settings, CCLS help infants, children, youth, and families cope with the stress and uncertainty of acute and chronic illness, injury, trauma, disability, loss, and bereavement. They provide evidence-based, developmentally and psychologically appropriate interventions, including therapeutic play, preparation for procedures, and education to reduce fear, anxiety, apprehension, and pain.
