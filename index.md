@@ -281,7 +281,7 @@ Pediatric patients often require procedural assistance during radiology procedur
 Conceptual drawings of the Pediatric Position Holder (PPH) feature a friendly design to comfort young patients during medical procedures. Colors/designs could be customized based on the preferences of the hospital or facility.
 
 <figure>
-  <img src="/images/images/IMG_1796.jpg" alt="><">
+  <img src="/images/IMG_1796.jpg" alt="><">
 </figure>
 
 <figure>
