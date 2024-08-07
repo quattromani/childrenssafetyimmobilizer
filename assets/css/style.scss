@@ -102,3 +102,18 @@ img[alt$="><"] {
   margin: auto;
   float: none!important;
 }
+
+img[src*='#left'] {
+float: left;
+margin: 10px 10px 10px 0;
+}
+
+img[src*='#center'] {
+display: block;
+margin: 0 auto;
+}
+
+img[src*='#right'] {
+float: right;
+margin: 10px 0 10px 10px;
+}
