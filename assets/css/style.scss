@@ -3,46 +3,6 @@
 
 @import "{{ site.theme }}";
 
-html,
-body {
-  color: #4A4A4A;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-weight: bold; 
-  margin-bottom: 0 !important;
-  color: black !important;
-  text-transform: uppercase;
-}
-
-h1 + h2,
-h4 + h5 {
-  margin-top: 0 !important; 
-}
-
-h1,
-h2,
-h3 {
-  text-align: center; 
-}
-
-h2 {
-  margin-bottom: 2rem !important;
-  padding-bottom: 1rem !important;
-  border-bottom: 2px solid currentcolor;
-  clear: both;
-}
-
-h1 {
-  font-size: 22px;
-}
-h2 {
-  font-size: 20px;
-}
-h3 {
-  font-size: 18px;
-}
-
 .grid-container {
   display: grid;
   gap: 10px;
