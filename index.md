@@ -19,22 +19,24 @@ In my 50 years of practice, I have observed various methods used to keep childre
 
 Mechanical devices such as the papoose board, Pigg-O-Stat, and the “Burrito wrap” have been commonly used. These devices secure the child with straps and boards, which can be uncomfortable and intimidating for children. A method frequently employed in emergency rooms is the "Burrito hold," where the child is wrapped tightly in a sheet or blanket to restrict movement.
 
-||---||
-![Manual Holding](/images/product-assessment/tech-close.jpg)  
-*Manually holding an infant by the legs during a voiding cystourethrogram. This technique can lead to bruising and discomfort, highlighting the need for more gentle and secure positioning methods.*
-
-![Pigg-O-Stat](/images/product-assessment/Pigg-o-stat.jpeg)
-*Pigg-O-Stat*
-
-![Manual Holding](/images/product-assessment/Papoose_board.jpeg)
-*Papoose device: Covers the chest, causes stress for both child and parent, and is difficult to clean between uses.*
-![Burrito Hold](/images/product-assessment/burrito-wrap.png) |
- *"Burrito Hold"*
-||---||
-
-*Manually holding an infant by the legs during a voiding cystourethrogram. This technique can lead to bruising and discomfort, highlighting the need for more gentle and secure positioning methods.*
-*Papoose device: Covers the chest, causes stress for both child and parent, and is difficult to clean between uses.*
-*Pigg-O-Stat*
+<div class="grid-container">
+  <figure class="grid-item">
+    <img src="/images/product-assessment/tech-close.jpg" alt="Manually holding an infant by the legs during a voiding cystourethrogram. This technique can lead to bruising and discomfort, highlighting the need for more gentle and secure positioning methods.">
+    <figcaption>Manually holding an infant by the legs during a voiding cystourethrogram. This technique can lead to bruising and discomfort, highlighting the need for more gentle and secure positioning methods.</figcaption>
+  </figure>
+  <figure class="grid-item">
+    <img src="/images/product-assessment/Pigg-o-stat.jpeg" alt="Pigg-O-Stat">
+    <figcaption>Pigg-O-Stat</figcaption>
+  </figure>
+  <figure class="grid-item">
+    <img src="/images/product-assessment/Papoose_board.jpeg" alt="Papoose device: Covers the chest, causes stress for both child and parent, and is difficult to clean between uses.">
+    <figcaption>Papoose device: Covers the chest, causes stress for both child and parent, and is difficult to clean between uses.</figcaption>
+  </figure>
+  <figure class="grid-item">
+    <img src="/images/product-assessment/burrito-wrap.png" alt=""Burrito Hold"">
+    <figcaption>"Burrito Hold"</figcaption>
+  </figure>
+</div>
 
 While methods like the Pigg-O-Stat and “Burrito wrapping” achieve the goal, they often result in heightened stress and discomfort for both the child and their caregivers.
 
