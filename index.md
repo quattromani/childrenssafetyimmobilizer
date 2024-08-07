@@ -218,7 +218,7 @@ To provide a glimpse into the testing and real-world trials of The Pediatric Pos
 
 # **THE CREATORS OF THE PEDIATRIC POSITION HOLDER**
 
-**Frank Louis Quattromani, M.D.**
+## **Frank Louis Quattromani, M.D.**
 *Pediatric Radiologist*
 
 - University Medical Center, Lubbock, Texas
