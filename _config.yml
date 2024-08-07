@@ -16,9 +16,7 @@ author:
   url: maxquattromani.com
 
 #### Under the Hood Stuff #####
-remote_theme: pages-themes/leap-day@v0.2.0
-plugins:
-- jekyll-remote-theme
+theme: jekyll-theme-cayman
 
 google_analytics: UA-50387096-21
 
