@@ -45,8 +45,15 @@ h3 {
 
 .grid-container {
   display: grid;
-  grid-template-columns: 1fr 1fr;
   gap: 10px;
+}
+
+.grid-2x2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.grid-3x2 {
+  grid-template-columns: repeat(3, 1fr);
 }
 
 .grid-item {
@@ -68,7 +75,6 @@ h3 {
   color: white;
   padding: 5px;
 }
-
 .main-content {
   font-size: 16px;
 }
