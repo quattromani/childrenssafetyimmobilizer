@@ -46,7 +46,7 @@ While methods like the Pigg-O-Stat and “Burrito wrapping” achieve the goal, 
     <figcaption>Radiation exposure to the technologist’s hands during the procedure.</figcaption>
   </figure>
   <figure class="grid-item">
-    <img src="/images/product-assessment/Rad-reduction2.jpeg" alt="Technologist's hand captured in the direct x-ray beam during a voiding cystourethrogram.">
+    <img src="/images/product-assessment/Rad-reduction4.jpeg" alt="Technologist's hand captured in the direct x-ray beam during a voiding cystourethrogram.">
     <figcaption>Technologist's hand captured in the direct x-ray beam during a voiding cystourethrogram.</figcaption>
   </figure>
   <figure class="grid-item">
@@ -54,7 +54,7 @@ While methods like the Pigg-O-Stat and “Burrito wrapping” achieve the goal, 
     <figcaption>A diagram illustrating the radiation field around the equipment, patient and personnel.</figcaption>
   </figure>
   <figure class="grid-item">
-    <img src="/images/product-assessment/Rad-reduction4.jpeg" alt="Intensity of radiation exposure decreases with distance, according to the inverse square law.">
+    <img src="/images/product-assessment/Rad-reduction2.jpeg" alt="Intensity of radiation exposure decreases with distance, according to the inverse square law.">
     <figcaption>Intensity of radiation exposure decreases with distance, according to the inverse square law.</figcaption>
   </figure>
 </div>
