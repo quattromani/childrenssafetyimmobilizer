@@ -167,7 +167,7 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
   </figure>
   <figure class="grid-item">
     <img src="/images/product-assessment/Parent-testimonial2.jpeg" alt="">
-    <figcaption>"My daughter was so happy you let me stay in the room during the procedure. My daughter stayed focused on me and the Q holder and less on the room and scary machines."<p>Dad of 2 year old from Clovis, NM</figcaption>
+    <figcaption>"My daughter was so happy you let me stay in the room during the procedure. My daughter stayed focused on me and the Q holder and less on the room and scary machines."<p>Dad of 2 year old from Clovis, NM</p></figcaption>
   </figure>
   <figure class="grid-item">
     <img src="/images/product-assessment/Parent-testimonial3.jpeg" alt="">
