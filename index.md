@@ -2,6 +2,8 @@
 title: The Pediatric Position Holder
 ---
 
+![The Pediatric Position Holder](/images/PPH-drawing.PNG#center "The Pediatric Position Holder")
+
 # **INTRODUCTION TO THE PEDIATRIC POSITION HOLDER**
 To successfully perform brief minor medical procedures on infants and children, such as laceration repair, removal of foreign bodies from the ears or nose, and radiological examinations like chest x-rays and VCUGs, it is essential for the child to remain relatively still. This can be achieved through non-pharmacological methods such as distraction, effective communication, coping techniques (e.g., deep breathing, blowing bubbles, holding a caregiver's hand), audiovisual aids, and physical holding.
 
@@ -16,6 +18,9 @@ The way we hold children for procedures reflects our values as a culture.
 In my 50 years of practice, I have observed various methods used to keep children still during medical procedures, particularly in radiology. Traditionally, we have relied on manual restraint, often referred to as "Brute Force," where medical staff physically hold the child in place. This method, while effective in preventing movement, can cause significant anxiety and fear in young patients.
 
 Mechanical devices such as the papoose board, Pigg-O-Stat, and the “Burrito wrap” have been commonly used. These devices secure the child with straps and boards, which can be uncomfortable and intimidating for children. A method frequently employed in emergency rooms is the "Burrito hold," where the child is wrapped tightly in a sheet or blanket to restrict movement.
+
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
 
 *Manually holding an infant by the legs during a voiding cystourethrogram. This technique can lead to bruising and discomfort, highlighting the need for more gentle and secure positioning methods.*
 *Papoose device: Covers the chest, causes stress for both child and parent, and is difficult to clean between uses.*
