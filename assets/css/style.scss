@@ -8,6 +8,14 @@ ul {
   list-style-image: none !important;
 }
 
+hr {
+  border: 0;
+  height: 1px; /* Simple line */
+  background: none;
+  margin: 20px auto; /* Center the hr */
+  width: 80%; /* Set the width to 80% of the container */
+}
+
 .grid-container {
   display: grid;
   gap: 10px;
