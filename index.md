@@ -266,7 +266,7 @@ Pediatric patients often require procedural assistance during radiology procedur
   - ER providers
   - There are 58,500 Certified Child Life Specialists in the United States, as of 2016.
 
-
+<div id="classification"></div>
 ## **FDA AND MDR (CE MARK) DEVICE CLASSIFICATION**
 
 |**Device**|Pediatric Position Holder|
