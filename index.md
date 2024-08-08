@@ -246,6 +246,7 @@ The Pediatric Position Holder is a middle-ground between the preferred methods o
     <img src="/images/CCLS-2.jpeg" alt="">
   </figure>
 </div>
+<br>
 
 ### **APPLICATIONS**
   - **Radiolucent for x-ray imaging**
