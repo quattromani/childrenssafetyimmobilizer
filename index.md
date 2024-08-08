@@ -135,9 +135,10 @@ The Pediatric Position Holder (PPH) is an innovative, child-friendly device desi
   <figure class="grid-item">
   </figure>
 </div>
+<br>
 
 **INSTRUCTIONS FOR USING THE PEDIATRIC POSITION HOLDER**
-<br>
+
   1. **Prepare the Surface**: Lay the Pediatric Position Holder (PPH) on a flat working surface, such as a table or medical imaging machine. Alternatively, the device can be used as an additional soft wrap option if the provider is sitting with the child.
   2. **Position the Child**: Place the child on the device, ensuring they are comfortably centered.
   3. **Secure as Needed**: Wrap the device around the specific area requiring stabilization. For example, to secure an arm for IV placement, wrap the holder around the arm only.
