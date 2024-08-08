@@ -344,31 +344,31 @@ To provide a glimpse into the testing and real-world trials of The Pediatric Pos
 
 <div class="grid-container grid-3x2">
   <figure class="grid-item">
-    <img src="" alt="">
+    <img src="/images/IMG_4568.jpg" alt="">
   </figure>
   <figure class="grid-item">
-    <img src="/images/product-assessment/Arm_board.jpeg" alt="">
+    <img src="/images/IMG_4567.jpg" alt="">
   </figure>
   <figure class="grid-item">
-    <img src="" alt="">
+    <img src="/images/IMG_4564.jpg" alt="">
   </figure>
   <figure class="grid-item">
-    <img src="" alt="">
+    <img src="/images/IMG_4555.jpg" alt="">
   </figure>
   <figure class="grid-item">
-    <img src="" alt="">
+    <img src="/images/IMG_4554.jpg" alt="">
   </figure>
   <figure class="grid-item">
-    <img src="" alt="">
+    <img src="/images/IMG_4551.jpg" alt="">
   </figure>
   <figure class="grid-item">
-    <img src="" alt="">
+    <img src="/images/IMG_4550.jpg" alt="">
   </figure>
   <figure class="grid-item">
-    <img src="" alt="">
+    <img src="/images/IMG_4543.jpg" alt="">
   </figure>
   <figure class="grid-item">
-    <img src="" alt="">
+    <img src="/images/IMG_4541.jpg" alt="">
   </figure>
 </div>
 <br>
