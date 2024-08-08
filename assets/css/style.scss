@@ -31,6 +31,18 @@ ul {
   height: auto;
 }
 
+.grid-item figcaption {
+  font-size: 0.875em; /* Small text */
+  color: #A9A9A9; /* Light grey color */
+  font-style: italic; /* Italicized text */
+  position: absolute;
+  bottom: 8px;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 5px;
+  text-align: center; /* Center align the text */
+}
 
 table {
   border-collapse: separate;
