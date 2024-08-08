@@ -103,7 +103,8 @@ The Pediatric Position Holder (PPH) is an innovative, child-friendly device desi
 - **Effective and Versatile:** Suitable for various medical procedures, ensuring consistent and gentle care.
 - **Enhanced Procedure Quality:** Allows for better positioning and access without compromising respiratory movements or tube placements.
 
-<h2 id="instructions">HOW THE PEDIATRIC POSITION HOLDER TRANSFORMS PATIENT CARE:</h2>
+<div id="instructions"></div>
+## **HOW THE PEDIATRIC POSITION HOLDER TRANSFORMS PATIENT CARE:**
 ### **MAXIMIZES CONTACT, MINIMIZES MOVEMENT**
 
 <div class="grid-container grid-3x2">
