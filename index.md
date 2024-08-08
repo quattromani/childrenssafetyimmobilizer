@@ -155,7 +155,7 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
     <figcaption>1/Holder allows us to hold the child's arms out of the CT scan x-ray beam without reaching into the scanner gantry.</figcaption>
   </figure>
   <figure class="grid-item">
-    <img src="/images/scanner.jpg" alt="Technologist's hand captured in the direct x-ray beam during a voiding cystourethrogram.">
+    <img src="/images/IMG_4536.jpg" alt="Technologist's hand captured in the direct x-ray beam during a voiding cystourethrogram.">
     <figcaption>2/Ensuring a clear and complete image with minimal disruption or movement is crucial for patient care and efficiency. The Holder accomplishes both by securely holding the child without interfering with the IV lines.</figcaption>
   </figure>
 </div>
