@@ -304,7 +304,7 @@ Conceptual drawings of the Pediatric Position Holder (PPH) feature a friendly de
 To provide a glimpse into the testing and real-world trials of The Pediatric Position Holder (PPH), here is a collection of photos showcasing various stages of its development. These images capture the dedication and effort put into ensuring that the device meets the highest standards of safety, comfort, and effectiveness. 
 
 <div id="about"></div>
-### **THE CREATORS OF THE PEDIATRIC POSITION HOLDER**
+### **ABOUT US**
 <figure>
   <img src="/images/product-assessment/Frank_Quattromani.JPG" alt=">" width="250">
 </figure>
