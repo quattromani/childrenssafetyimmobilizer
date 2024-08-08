@@ -160,8 +160,18 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
   </figure>
 </div>
 
-
-*This young child would not give it back to us.*
+<div class="grid-container grid-3x2">
+  <figure class="grid-item">
+    <img src="" alt="">
+    <figcaption>This young child would not give it back to us.</figcaption>
+  </figure>
+  <figure class="grid-item">
+    <img src="" alt="">
+  </figure>
+  <figure class="grid-item">
+    <img src="" alt="">
+  </figure>
+</div>
 
 ## WHY THIS DESIGN?
 
