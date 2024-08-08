@@ -109,7 +109,7 @@ The Pediatric Position Holder (PPH) is an innovative, child-friendly device desi
   - **Enhanced Procedure Quality:** Allows for better positioning and access without compromising respiratory movements or tube placements.
 <br>
 **HOW THE PEDIATRIC POSITION HOLDER TRANSFORMS PATIENT CARE**
-<br>
+
 **MAXIMIZES CONTACT, MINIMIZES MOVEMENT**
 
 <div class="grid-container grid-3x2">
@@ -164,7 +164,7 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
 *This young child would not give it back to us.*
 
 ## WHY THIS DESIGN?
-<br>
+
 **The Pediatric Position Holder addresses several issues:**
 
   - **Improves Workflow:** The device simplifies the process of securing children during medical procedures, reducing the time and effort required by medical staff.
@@ -180,7 +180,7 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
   6. **Enhanced Communication and Cooperation**: Teaching and encouraging a child to stay still helps them develop an understanding of medical procedures and fosters better communication with healthcare providers, which can be beneficial for future medical visits.
 
 ## TESTIMONIALS
-<br>
+
 **PARENT TESTIMONIALS**
 
 <div class="grid-container grid-3x2">
@@ -213,7 +213,7 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
 
 
 ## **HANDLING WITHOUT HOLDING**
-<br>
+
 **The Role of the Pediatric Position Holder in the Absence of Certified Child Life Specialists (CCLS)**
 
 Certified Child Life Specialists (CCLS) are educated and clinically trained in understanding the developmental impact of illness and injury. They play a crucial role in improving patient and family care, satisfaction, and overall experience. In healthcare and community settings, CCLS help infants, children, youth, and families cope with the stress and uncertainty of acute and chronic illness, injury, trauma, disability, loss, and bereavement. They provide evidence-based, developmentally and psychologically appropriate interventions, including therapeutic play, preparation for procedures, and education to reduce fear, anxiety, apprehension, and pain.
@@ -238,7 +238,6 @@ The Pediatric Position Holder is a middle-ground between the preferred methods o
 </div>
 
 ### **APPLICATIONS**
-<br>
   - **Radiolucent for x-ray imaging**
   - **Standardizes procedures worldwide**
   - **Colorful and engaging design to distract children**
@@ -247,7 +246,7 @@ The Pediatric Position Holder is a middle-ground between the preferred methods o
   - **Adheres to the principle of justice by providing equal care standards globally**
 
 **THE PEDIATRIC POSITION HOLDER IS A STANDALONE DEVICE THAT DOES NOT REQUIRE AN ADDITIONAL COMPONENTS OR ACCESSORIES.**
-<br>
+
 The Pediatric Position Holder (PPH) is designed to be used under the direct supervision of a healthcare professional, ensuring proper application and patient safety. While it is primarily a professional product, its simplicity and safety features could make it suitable for over-the-counter retail in the future.
 
 **THE PPH could be offered in either or both of the following options:**
