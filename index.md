@@ -12,7 +12,7 @@ Restraint and immobilization of children are significant issues for healthcare p
 
 The way we hold children for procedures reflects our values as a culture. 
 
-## **HOW PEDIATRIC CARE HAS TRANSFORMED**
+## **HOW PEDIATRIC CARE HAS TRANSFORMED**<br>
 **EVOLUTION OVER THE YEARS**
 
 In my 50 years of practice, I have observed various methods used to keep children still during medical procedures, particularly in radiology. Traditionally, we have relied on manual restraint, often referred to as "Brute Force," where medical staff physically hold the child in place. This method, while effective in preventing movement, can cause significant anxiety and fear in young patients.
@@ -59,7 +59,7 @@ While methods like the Pigg-O-Stat and “Burrito wrapping” achieve the goal, 
   </figure>
 </div>
 
-**RESEARCH RESULTS**
+**RESEARCH RESULTS**<br>
 
 Reviewed sample of 100 VCUG procedures in children under 2 years of age performed in 2018 at UMC for a total of 3,880 screen save images
 
@@ -73,6 +73,7 @@ Reviewed sample of 100 VCUG procedures in children under 2 years of age performe
 **51% of images showed instances of unnecessary radiation to the child, technologist, and/or other adults/parents assisting in immobilization of child.**
 
 ## INTRODUCING THE PEDIATRIC POSITION HOLDER
+<br>
 Safety and customer care are of the foremost concerns in pediatric medical care, encompassing the well-being of the child, the parent or caregiver, and the healthcare provider. The Pediatric Position Holder (PPH) addresses a critical need in pediatric care by offering a standardized, gentle, and safe solution for pediatric medical positioning. 
 
 Hospitals and insurance companies place immense value on safety as it directly impacts patient outcomes, hospital ratings, and financial relationships. The PPH ensures that millions of everyday procedures, performed annually, are safer for all involved. 
@@ -92,22 +93,22 @@ The inspiration behind the PPH is rooted in the urgent need for a safe, standard
 The PPH is versatile and can be used across various medical settings, including radiology, emergency rooms, and minor procedure units. Its design ensures that children remain comfortable, secure, and safe during procedures, helping to alleviate the anxiety and stress often associated with medical interventions. The PPH’s non-threatening appearance, featuring soft materials, can be enhanced with familiar concepts and/or decorative elements, providing children an opportunity to familiarize themselves with it ahead of the procedure. This pre-exposure to the holder can reduce the stress of introducing a foreign object immediately before a medical procedure, enhancing the child's comfort and cooperation. For children with chronic illnesses who undergo repeat procedures, this familiarity can significantly add to their comfort, making each procedure less daunting and more manageable.
 
 **THE PEDIATRIC POSITION HOLDER:**
-
+<br>
 **AN OVERDUE IMPROVEMENT**
-
+<br>
 The Pediatric Position Holder (PPH) is an innovative, child-friendly device designed for single-patient or multi-patient use. It is effective, safe, simple, and versatile, providing a standardized method for securely positioning children during medical procedures. Made from 1/2" thick, soft polyurethane closed-cell foam, it features no extraneous straps, boards, or hook-and-loop attachments, ensuring comfort and ease of use. The holder retains its position using material-based adhesion. The aim is to reduce the anxiety, fear, and PPH  is used for short periods in highly monitored settings, offering the unique advantage of leaving the chest, abdomen, and pelvis free for unrestricted respiration and uninterrupted tube and line placement.
 
 **US PATENT # 2020/017828 A1**
 ![The Patent page for the Pediatric Position Holder](/images/product-assessment/patent.jpg)
-
+<br>
 **KEY BENEFITS:**
   - **Child-Friendly Design:** Reduces stress and anxiety and improves the experience for children, their parents, and healthcare providers alike.
   - **Comfort and Safety:** Soft foam construction with no harsh attachments.
   - **Effective and Versatile:** Suitable for various medical procedures, ensuring consistent and gentle care.
   - **Enhanced Procedure Quality:** Allows for better positioning and access without compromising respiratory movements or tube placements.
-
+<br>
 **HOW THE PEDIATRIC POSITION HOLDER TRANSFORMS PATIENT CARE**
-
+<br>
 **MAXIMIZES CONTACT, MINIMIZES MOVEMENT**
 
 <div class="grid-container grid-3x2">
@@ -136,7 +137,7 @@ The Pediatric Position Holder (PPH) is an innovative, child-friendly device desi
 </div>
 
 **INSTRUCTIONS FOR USING THE PEDIATRIC POSITION HOLDER**
-
+<br>
   1. **Prepare the Surface**: Lay the Pediatric Position Holder (PPH) on a flat working surface, such as a table or medical imaging machine. Alternatively, the device can be used as an additional soft wrap option if the provider is sitting with the child.
   2. **Position the Child**: Place the child on the device, ensuring they are comfortably centered.
   3. **Secure as Needed**: Wrap the device around the specific area requiring stabilization. For example, to secure an arm for IV placement, wrap the holder around the arm only.
@@ -144,7 +145,7 @@ The Pediatric Position Holder (PPH) is an innovative, child-friendly device desi
   5. **Ensure Comfort and Safety**: Check that the child is comfortably positioned and that the holder does not interfere with any medical lines or tubes.
 
 **VERSATILITY AND MINIMAL INVASIVENESS**
-
+<br>
 The Pediatric Position Holder (PPH) is designed to provide optimal procedural efficiency with minimal invasiveness. Its soft, flexible construction allows for a wide range of holds, whether needing to secure a single limb, upper body<sup>1</sup> to achieving a complete body hold<sup>2</sup> when necessary. This adaptability ensures that medical procedures are performed efficiently while maintaining the child's comfort and minimizing stress for both the patient and caregiver. Additionally, the PPH's ease of use reduces the need for technologists and/or parents to reach into the X-ray field, thereby lowering their exposure to radiation. The PPH improves on prior methods with its ability to provide the exact level of support needed, no more and no less, enhancing both patient care and procedural outcomes.
 
 <div class="grid-container grid-2x2">
@@ -162,14 +163,14 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
 *This young child would not give it back to us.*
 
 ## WHY THIS DESIGN?
-
+<br>
 **The Pediatric Position Holder addresses several issues:**
 
   - **Improves Workflow:** The device simplifies the process of securing children during medical procedures, reducing the time and effort required by medical staff.
   - **Raises the Standard of Care:** By providing a comfortable and secure method of immobilization, the holder reduces the stress and anxiety experienced by young patients, thereby improving the overall quality of care.
 
 **KEEPING A CHILD STILL DURING RADIOLOGY PROCEDURES, IV STICKS, AND SIMILAR MEDICAL TASKS IS CRUCIAL FOR SEVERAL REASONS:**
-
+<br>
   1. **Accuracy of Results**: For imaging procedures like X-rays, CT scans, or MRIs, even small movements can blur the images or produce artifacts. Clear and accurate images are essential for diagnosing and assessing medical conditions correctly.
   2. **Reduced Need for Repeat Procedures**: If a child moves during a procedure, the images may be unusable, necessitating retakes. This not only increases the time the child has to spend in the medical setting but also exposes them to additional radiation or discomfort.
   3. **Decreased Procedure Time**: When a child remains still, the procedure can be completed more quickly, minimizing the child's exposure to the environment and reducing the overall stress and discomfort.
@@ -178,7 +179,7 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
   6. **Enhanced Communication and Cooperation**: Teaching and encouraging a child to stay still helps them develop an understanding of medical procedures and fosters better communication with healthcare providers, which can be beneficial for future medical visits.
 
 ## TESTIMONIALS
-
+<br>
 **PARENT TESTIMONIALS**
 
 <div class="grid-container grid-3x2">
@@ -211,7 +212,7 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
 
 
 ## **HANDLING WITHOUT HOLDING**
-
+<br>
 **The Role of the Pediatric Position Holder in the Absence of Certified Child Life Specialists (CCLS)**
 
 Certified Child Life Specialists (CCLS) are educated and clinically trained in understanding the developmental impact of illness and injury. They play a crucial role in improving patient and family care, satisfaction, and overall experience. In healthcare and community settings, CCLS help infants, children, youth, and families cope with the stress and uncertainty of acute and chronic illness, injury, trauma, disability, loss, and bereavement. They provide evidence-based, developmentally and psychologically appropriate interventions, including therapeutic play, preparation for procedures, and education to reduce fear, anxiety, apprehension, and pain.
@@ -236,7 +237,7 @@ The Pediatric Position Holder is a middle-ground between the preferred methods o
 </div>
 
 ### **APPLICATIONS**
-
+<br>
   - **Radiolucent for x-ray imaging**
   - **Standardizes procedures worldwide**
   - **Colorful and engaging design to distract children**
@@ -245,7 +246,7 @@ The Pediatric Position Holder is a middle-ground between the preferred methods o
   - **Adheres to the principle of justice by providing equal care standards globally**
 
 **THE PEDIATRIC POSITION HOLDER IS A STANDALONE DEVICE THAT DOES NOT REQUIRE AN ADDITIONAL COMPONENTS OR ACCESSORIES.**
-
+<br>
 The Pediatric Position Holder (PPH) is designed to be used under the direct supervision of a healthcare professional, ensuring proper application and patient safety. While it is primarily a professional product, its simplicity and safety features could make it suitable for over-the-counter retail in the future.
 
 **THE PPH could be offered in either or both of the following options:**
@@ -257,7 +258,7 @@ The Pediatric Position Holder (PPH) is designed to be used under the direct supe
   - **Non-Sterile:** For multiple patients, the durable holder simply needs to be cleaned between uses with an approved antimicrobial spray, which most facilities and medical offices already use. This process takes only seconds and allows the holder to dry quickly.
 
 **YEARLY PROCEDURAL NEED**
-
+<br>
 Based on informal and anecdotal sources, including Google, opinions of fellow pediatric radiologists, and other resources - several million pediatric procedures could benefit from the PPH:
 
   - Children’s Hospitals: 1,000,000
@@ -315,7 +316,7 @@ Pediatric patients often require procedural assistance during radiology procedur
 ## **APPENDIX**
 
 **CONCEPTUAL DESIGNS**
-
+<br>
 Conceptual drawings of the Pediatric Position Holder (PPH) feature a friendly design to comfort young patients during medical procedures. Colors/designs could be customized based on the preferences of the hospital or facility.
 
 <figure>
@@ -325,7 +326,7 @@ Conceptual drawings of the Pediatric Position Holder (PPH) feature a friendly de
 <figure>
   <img src="/images/product-assessment/super-hero.jpg" alt="><" width="680">
 </figure>
-  
+<br> 
 ### **TESTING AND TRIALS**
 
 To provide a glimpse into the testing and real-world trials of The Pediatric Position Holder (PPH), here is a collection of photos showcasing various stages of its development. These images capture the dedication and effort put into ensuring that the device meets the highest standards of safety, comfort, and effectiveness. 
@@ -359,7 +360,7 @@ To provide a glimpse into the testing and real-world trials of The Pediatric Pos
     <img src="" alt="">
   </figure>
 </div>
-
+<br>
 ### **ABOUT US**
 
 <figure>
