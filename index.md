@@ -335,5 +335,5 @@ To provide a glimpse into the testing and real-world trials of The Pediatric Pos
 - Weinstock, M. (2020). Q&A: Children’s National CEO aims to tailor treatments to his young patients. Modern Healthcare, January 11.
 
 <div id="contact"></div>
-For more information contact us at:</p>
+For more information contact us at:
 <b>Phone:</b> <a href="tel:1-806-778-2183">(806)778-2183</a> or <a href="tel:1-241-778-0373">(806)241-0373</a>
