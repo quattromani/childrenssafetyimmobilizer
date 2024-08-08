@@ -59,6 +59,7 @@ While methods like the Pigg-O-Stat and “Burrito wrapping” achieve the goal, 
   </figure>
 </div>
 
+<br>
 **RESEARCH RESULTS**<br>
 
 Reviewed sample of 100 VCUG procedures in children under 2 years of age performed in 2018 at UMC for a total of 3,880 screen save images
