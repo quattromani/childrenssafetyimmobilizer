@@ -207,7 +207,8 @@ Certified Child Life Specialists (CCLS) are educated and clinically trained in u
 Child life specialists use various techniques to support children through difficult procedures:
 
 The availability of CCLS is not consistent, especially in smaller clinics or hospitals. Many countries do not have CCLS, and there are millions of procedural events annually worldwide where help with immobilization and support for suturing, nasogastric tubes, urinary catheters, and other minor procedures is required. In the absence of a CCLS, what are the mechanical options for holding the child motionless?
-### **The Pediatric Position Holder (PPH) as a Middle Ground**
+
+**The Pediatric Position Holder (PPH) as a Middle Ground**
 The Pediatric Position Holder is a middle-ground between the preferred methods of the CCLS and the invasive methods currently in use. The Pediatric Position Holder (PPH) offers an optimal solution. It provides a gentle and minimally invasive alternative to traditional restraint methods, ensuring that children are positioned securely and comfortably without the need for direct physical holding.
 
 <div class="grid-container grid-2x2">
