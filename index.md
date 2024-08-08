@@ -103,7 +103,7 @@ The Pediatric Position Holder (PPH) is an innovative, child-friendly device desi
 - **Effective and Versatile:** Suitable for various medical procedures, ensuring consistent and gentle care.
 - **Enhanced Procedure Quality:** Allows for better positioning and access without compromising respiratory movements or tube placements.
 
-<div id="instructions">
+<div id="instructions"></div>
 ## **HOW THE PEDIATRIC POSITION HOLDER TRANSFORM PATIENT CARE:**
 ### **MAXIMIZES CONTACT, MINIMIZES MOVEMENT**
 
@@ -145,9 +145,8 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
 *1/Holder allows us to hold the child's arms out of the CT scan x-ray beam without reaching into the scanner gantry.*
 *2/Ensuring a clear and complete image with minimal disruption or movement is crucial for patient care and efficiency. The Holder accomplishes both by securely holding the child without interfering with the IV lines.*</p>|
 *This young child would not give it back to us.*
-</div><!-- end of instructions div -->
 
-<div id="design">
+<div id="design"></div>
 ## WHY THIS DESIGN?
 ### **THE PEDIATRIC POSITION HOLDER addresses several issues:**
 
@@ -161,9 +160,8 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
   4. **Minimized Discomfort**: For procedures like IV insertion, movement can lead to multiple attempts or difficulty in placing the needle properly. Keeping the child still can help ensure that the procedure is done accurately and with less pain.
   5. **Safety**: In some cases, movement can lead to accidental injuries, especially with equipment used in radiology or during invasive procedures. Staying still helps prevent accidents and ensures the safety of the child.
   6. **Enhanced Communication and Cooperation**: Teaching and encouraging a child to stay still helps them develop an understanding of medical procedures and fosters better communication with healthcare providers, which can be beneficial for future medical visits.
-</div><!-- end of design div -->
 
-<div id="testimonials">
+<div id="testimonials"></div>
 ## **PARENT TESTIMONIALS**
 
 <div class="grid-container grid-3x2">
@@ -192,9 +190,8 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
     <figcaption>"This pediatric holder is a great solution for a common problem."<p>Radiology Technician, University Medical Center</p></figcaption>
   </figure>
 </div>
-</div><!-- end of testimonials div -->
 
-<div id="CCLS">
+<div id="CCLS"></div>
 ## **Handling Without Holding: The Role of the Pediatric Position Holder in the Absence of Certified Child Life Specialists (CCLS)**
 Certified Child Life Specialists (CCLS) are educated and clinically trained in understanding the developmental impact of illness and injury. They play a crucial role in improving patient and family care, satisfaction, and overall experience. In healthcare and community settings, CCLS help infants, children, youth, and families cope with the stress and uncertainty of acute and chronic illness, injury, trauma, disability, loss, and bereavement. They provide evidence-based, developmentally and psychologically appropriate interventions, including therapeutic play, preparation for procedures, and education to reduce fear, anxiety, apprehension, and pain.
 
@@ -213,9 +210,8 @@ The Pediatric Position Holder is a middle-ground between the preferred methods o
     <img src="/images/CCLS-2.jpeg" alt="">
   </figure>
 </div>
-</div><!-- end of CCLS div -->
 
-<div id="applications">
+<div id="applications"></div>
 ### **Advantages of the PPH:**
   - **Radiolucent for x-ray imaging**
   - **Standardizes procedures worldwide**
@@ -269,7 +265,7 @@ Pediatric patients often require procedural assistance during radiology procedur
   - All sub-specialty pediatric providers (e.g. pediatric orthopedics, pediatric urology, pediatric cardiology)
   - ER providers
   - There are 58,500 Certified Child Life Specialists in the United States, as of 2016.
-</div><!-- end of applications div -->
+
 
 ## **FDA AND MDR (CE MARK) DEVICE CLASSIFICATION**
 
@@ -291,7 +287,7 @@ Pediatric patients often require procedural assistance during radiology procedur
 |**Product Life Cycle (TPLC)**|TPLC Product Code Report|
 |**GMP Exempt?**|10|
 
-<div id="appendix">
+<div id="appendix"></div>
 ## **APPENDIX**
 ### **CONCEPTUAL DESIGNS**
 Conceptual drawings of the Pediatric Position Holder (PPH) feature a friendly design to comfort young patients during medical procedures. Colors/designs could be customized based on the preferences of the hospital or facility.
@@ -306,9 +302,8 @@ Conceptual drawings of the Pediatric Position Holder (PPH) feature a friendly de
   
 ### **TESTING AND TRIALS**
 To provide a glimpse into the testing and real-world trials of The Pediatric Position Holder (PPH), here is a collection of photos showcasing various stages of its development. These images capture the dedication and effort put into ensuring that the device meets the highest standards of safety, comfort, and effectiveness. 
-</div><!-- end of appendix anchor -->
 
-<div id="about">
+<div id="about"></div>
 ### **THE CREATORS OF THE PEDIATRIC POSITION HOLDER**
 <figure>
   <img src="/images/product-assessment/Frank_Quattromani.JPG" alt=">" width="250">
@@ -323,9 +318,8 @@ To provide a glimpse into the testing and real-world trials of The Pediatric Pos
 
 #### **Patricia Rae Quattromani**
 *Co-Inventor and Product Designer*
-</div><!-- end of about div -->
 
-<div id="references">
+<div id="references"></div>
 ### **REFERENCES**
 - DeBoer, S. et al. (2007). Infant Immobilization and Pediatric Papooses: We’ve Come a long Way. Journal of Emergency Nursing, 33(4), 451-455.
 - Brown, J.C. (2011). The “Superhero Cape Burrito”: a simple and comfortable method of short-term procedural restraint. J Emerg Med, July, pp. 74-76.
@@ -339,11 +333,7 @@ To provide a glimpse into the testing and real-world trials of The Pediatric Pos
 - Alexander, M. (2012). Managing Patient Stress in Pediatric Radiology. Radiologic Technology, 83(6), 549-560.
 - Klays, D. (2016). Radiation Protection in Pediatric Radiography-Introducing Some Immobilization and Protection Equipment. Pediatric Today, 12(1), 81-86.
 - Weinstock, M. (2020). Q&A: Children’s National CEO aims to tailor treatments to his young patients. Modern Healthcare, January 11.
-</div><!-- end of references div -->
 
-<div id="contact">
-For more information contact us at:
-  <p>
-    <b>Phone:</b> <a href="tel:1-806-778-2183">(806)778-2183</a> or <a href="tel:1-241-778-0373">(806)241-0373</a>
-  </p>
-</div><!-- end of contact div -->
+<div id="contact"></div>
+For more information contact us at:</p>
+<b>Phone:</b> <a href="tel:1-806-778-2183">(806)778-2183</a> or <a href="tel:1-241-778-0373">(806)241-0373</a>
