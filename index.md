@@ -37,9 +37,9 @@ Mechanical devices such as the papoose board, Pigg-O-Stat, and the “Burrito wr
     <figcaption>"Burrito Hold"</figcaption>
   </figure>
 </div>
-
+<hr>
 While methods like the Pigg-O-Stat and “Burrito wrapping” achieve the goal, they often result in heightened stress and discomfort for both the child and their caregivers.
-
+<hr>
 <div class="grid-container grid-2x2">
   <figure class="grid-item">
     <img src="/images/product-assessment/Rad-reduction3.jpeg" alt="Radiation exposure to the technologist’s hands during the procedure.">
