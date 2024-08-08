@@ -12,7 +12,7 @@ Restraint and immobilization of children are significant issues for healthcare p
 
 The way we hold children for procedures reflects our values as a culture. 
 
-## **HOW PEDIATRIC CARE HAS TRANSFORMED:**
+## **HOW PEDIATRIC CARE HAS TRANSFORMED**
 **EVOLUTION OVER THE YEARS**
 In my 50 years of practice, I have observed various methods used to keep children still during medical procedures, particularly in radiology. Traditionally, we have relied on manual restraint, often referred to as "Brute Force," where medical staff physically hold the child in place. This method, while effective in preventing movement, can cause significant anxiety and fear in young patients.
 
@@ -58,7 +58,7 @@ While methods like the Pigg-O-Stat and “Burrito wrapping” achieve the goal, 
   </figure>
 </div>
 
-RESEARCH RESULTS
+**RESEARCH RESULTS
 Reviewed sample of 100 VCUG procedures in children under 2 years of age performed in 2018 at UMC for a total of 3,880 screen save images
 
 | Instances                   |  Count  |
@@ -70,7 +70,7 @@ Reviewed sample of 100 VCUG procedures in children under 2 years of age performe
 
 **51% of images showed instances of unnecessary radiation to the child, technologist, and/or other adults/parents assisting in immobilization of child.**
 
-## **INTRODUCING THE PEDIATRIC POSITION HOLDER**
+## INTRODUCING THE PEDIATRIC POSITION HOLDER
 Safety and customer care are of the foremost concerns in pediatric medical care, encompassing the well-being of the child, the parent or caregiver, and the healthcare provider. The Pediatric Position Holder (PPH) addresses a critical need in pediatric care by offering a standardized, gentle, and safe solution for pediatric medical positioning. 
 
 Hospitals and insurance companies place immense value on safety as it directly impacts patient outcomes, hospital ratings, and financial relationships. The PPH ensures that millions of everyday procedures, performed annually, are safer for all involved. 
