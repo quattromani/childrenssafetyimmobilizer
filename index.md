@@ -14,6 +14,7 @@ The way we hold children for procedures reflects our values as a culture.
 
 ## **HOW PEDIATRIC CARE HAS TRANSFORMED**
 **EVOLUTION OVER THE YEARS**
+
 In my 50 years of practice, I have observed various methods used to keep children still during medical procedures, particularly in radiology. Traditionally, we have relied on manual restraint, often referred to as "Brute Force," where medical staff physically hold the child in place. This method, while effective in preventing movement, can cause significant anxiety and fear in young patients.
 
 Mechanical devices such as the papoose board, Pigg-O-Stat, and the “Burrito wrap” have been commonly used. These devices secure the child with straps and boards, which can be uncomfortable and intimidating for children. A method frequently employed in emergency rooms is the "Burrito hold," where the child is wrapped tightly in a sheet or blanket to restrict movement.
@@ -58,7 +59,8 @@ While methods like the Pigg-O-Stat and “Burrito wrapping” achieve the goal, 
   </figure>
 </div>
 
-**RESEARCH RESULTS
+**RESEARCH RESULTS**
+
 Reviewed sample of 100 VCUG procedures in children under 2 years of age performed in 2018 at UMC for a total of 3,880 screen save images
 
 | Instances                   |  Count  |
@@ -89,14 +91,14 @@ The inspiration behind the PPH is rooted in the urgent need for a safe, standard
 
 The PPH is versatile and can be used across various medical settings, including radiology, emergency rooms, and minor procedure units. Its design ensures that children remain comfortable, secure, and safe during procedures, helping to alleviate the anxiety and stress often associated with medical interventions. The PPH’s non-threatening appearance, featuring soft materials, can be enhanced with familiar concepts and/or decorative elements, providing children an opportunity to familiarize themselves with it ahead of the procedure. This pre-exposure to the holder can reduce the stress of introducing a foreign object immediately before a medical procedure, enhancing the child's comfort and cooperation. For children with chronic illnesses who undergo repeat procedures, this familiarity can significantly add to their comfort, making each procedure less daunting and more manageable.
 
-**US PATENT # 2020/017828 A1**
-![The Patent page for the Pediatric Position Holder](/images/product-assessment/patent.jpg)
-
 **THE PEDIATRIC POSITION HOLDER:** 
 **AN OVERDUE IMPROVEMENT**
 The Pediatric Position Holder (PPH) is an innovative, child-friendly device designed for single-patient or multi-patient use. It is effective, safe, simple, and versatile, providing a standardized method for securely positioning children during medical procedures. Made from 1/2" thick, soft polyurethane closed-cell foam, it features no extraneous straps, boards, or hook-and-loop attachments, ensuring comfort and ease of use. The holder retains its position using material-based adhesion. The aim is to reduce the anxiety, fear, and PPH  is used for short periods in highly monitored settings, offering the unique advantage of leaving the chest, abdomen, and pelvis free for unrestricted respiration and uninterrupted tube and line placement.
 
-**Key Benefits:**
+**US PATENT # 2020/017828 A1**
+![The Patent page for the Pediatric Position Holder](/images/product-assessment/patent.jpg)
+
+**KEY BENEFITS:**
   - **Child-Friendly Design:** Reduces stress and anxiety and improves the experience for children, their parents, and healthcare providers alike.
   - **Comfort and Safety:** Soft foam construction with no harsh attachments.
   - **Effective and Versatile:** Suitable for various medical procedures, ensuring consistent and gentle care.
