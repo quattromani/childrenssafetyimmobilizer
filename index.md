@@ -12,6 +12,8 @@ Restraint and immobilization of children are significant issues for healthcare p
 
 The way we hold children for procedures reflects our values as a culture. 
 
+<hr>
+
 ## **HOW PEDIATRIC CARE HAS TRANSFORMED**<br>
 **EVOLUTION OVER THE YEARS**
 
@@ -63,7 +65,8 @@ While methods like the Pigg-O-Stat and “Burrito wrapping” achieve the goal, 
   </figure>
 </div>
 
-<br>
+<hr>
+
 **RESEARCH RESULTS**<br>
 
 Reviewed sample of 100 VCUG procedures in children under 2 years of age performed in 2018 at UMC for a total of 3,880 screen save images
@@ -177,6 +180,8 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
   </figure>
 </div>
 
+<hr>
+
 ## WHY THIS DESIGN?
 
 **The Pediatric Position Holder addresses several issues:**
@@ -192,6 +197,8 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
   4. **Minimized Discomfort**: For procedures like IV insertion, movement can lead to multiple attempts or difficulty in placing the needle properly. Keeping the child still can help ensure that the procedure is done accurately and with less pain.
   5. **Safety**: In some cases, movement can lead to accidental injuries, especially with equipment used in radiology or during invasive procedures. Staying still helps prevent accidents and ensures the safety of the child.
   6. **Enhanced Communication and Cooperation**: Teaching and encouraging a child to stay still helps them develop an understanding of medical procedures and fosters better communication with healthcare providers, which can be beneficial for future medical visits.
+
+<hr>
 
 ## TESTIMONIALS
 
@@ -225,6 +232,7 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
   </figure>
 </div>
 
+<hr>
 
 ## **HANDLING WITHOUT HOLDING**
 
@@ -251,6 +259,8 @@ The Pediatric Position Holder is a middle-ground between the preferred methods o
   </figure>
 </div>
 <br>
+
+<hr>
 
 ### **APPLICATIONS**
   - **Radiolucent for x-ray imaging**
@@ -308,6 +318,8 @@ Pediatric patients often require procedural assistance during radiology procedur
   - ER providers
   - There are 58,500 Certified Child Life Specialists in the United States, as of 2016.
 
+<hr>
+
 ## **DEVICE CLASSIFICATION**
 
 |**Device**|Pediatric Position Holder|
@@ -328,6 +340,8 @@ Pediatric patients often require procedural assistance during radiology procedur
 |**Product Life Cycle (TPLC)**|TPLC Product Code Report|
 |**GMP Exempt?**|10|
 
+<hr>
+
 ## **APPENDIX**
 
 **CONCEPTUAL DESIGNS**
@@ -341,7 +355,9 @@ Conceptual drawings of the Pediatric Position Holder (PPH) feature a friendly de
 <figure>
   <img src="/images/product-assessment/super-hero.jpg" alt="><" width="680">
 </figure>
-<br> 
+
+<hr>
+
 ### **TESTING AND TRIALS**
 
 To provide a glimpse into the testing and real-world trials of The Pediatric Position Holder (PPH), here is a collection of photos showcasing various stages of its development. These images capture the dedication and effort put into ensuring that the device meets the highest standards of safety, comfort, and effectiveness. 
@@ -375,7 +391,9 @@ To provide a glimpse into the testing and real-world trials of The Pediatric Pos
     <img src="/images/IMG_4541.jpg" alt="">
   </figure>
 </div>
-<br>
+
+<hr>
+
 ### **ABOUT US**
 
 <figure>
@@ -392,6 +410,8 @@ To provide a glimpse into the testing and real-world trials of The Pediatric Pos
 **Patricia Rae Quattromani**
 *Co-Inventor and Product Designer*
 
+<hr>
+
 ### **REFERENCES**
 - DeBoer, S. et al. (2007). Infant Immobilization and Pediatric Papooses: We’ve Come a long Way. Journal of Emergency Nursing, 33(4), 451-455.
 - Brown, J.C. (2011). The “Superhero Cape Burrito”: a simple and comfortable method of short-term procedural restraint. J Emerg Med, July, pp. 74-76.
@@ -405,6 +425,7 @@ To provide a glimpse into the testing and real-world trials of The Pediatric Pos
 - Alexander, M. (2012). Managing Patient Stress in Pediatric Radiology. Radiologic Technology, 83(6), 549-560.
 - Klays, D. (2016). Radiation Protection in Pediatric Radiography-Introducing Some Immobilization and Protection Equipment. Pediatric Today, 12(1), 81-86.
 - Weinstock, M. (2020). Q&A: Children’s National CEO aims to tailor treatments to his young patients. Modern Healthcare, January 11.
+<hr>
 
 ### **CONTACT**
 For more information contact us at:
