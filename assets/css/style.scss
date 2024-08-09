@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+nav ul a {
+  color: #333;
+}
+
 ul {
   list-style-type: disc;
   list-style-image: none !important;
