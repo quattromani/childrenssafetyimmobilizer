@@ -227,7 +227,7 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
     <figcaption>"Because we used the Pediatric Position Holder, the entire procedure was obviously less stressful on the child and I could see that the parents were less stressed as well. I was glad that the holder allowed us to get clear images the first time we tried."<p>Pediatric Nurse, University Medical Center</p></figcaption>
   </figure>
   <figure class="grid-item">
-    <img src="/images/product-assessment/Tech-testimonial-purple.jpeg" alt="">
+    <img src="/images/product-assessment/Photoroom_20240809_130131.jpeg" alt="">
     <figcaption>"This pediatric holder is a great solution for a common problem."<p>Radiology Technician, University Medical Center</p></figcaption>
   </figure>
 </div>
