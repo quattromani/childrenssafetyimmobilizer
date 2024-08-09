@@ -391,7 +391,7 @@ To provide a glimpse into the testing and real-world trials of The Pediatric Pos
     <img src="/images/IMG_4541.jpg" alt="">
   </figure>
   <figure class="grid-item">
-    <img src="/images/IMG_3605.jpg" alt="">
+    <img src="/images/IMG_3605.jpeg" alt="">
   </figure>
 </div>
 
