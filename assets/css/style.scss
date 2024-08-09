@@ -47,6 +47,25 @@ hr {
   text-align: center; /* Center align the text */
 }
 
+/* Responsive Design */
+@media (max-width: 768px) {
+  .grid-2x2,
+  .grid-3x2 {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  section { 
+    padding: 10px 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .grid-2x2,
+  .grid-3x2 {
+    grid-template-columns: 1fr;
+  }
+}
+
 table {
   border-collapse: separate;
   border-spacing: 0;
