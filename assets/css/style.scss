@@ -127,3 +127,10 @@ img[alt$="><"] {
   margin: auto;
   float: none!important;
 }
+
+video {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  display: block;
+}
