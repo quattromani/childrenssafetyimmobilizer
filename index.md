@@ -185,6 +185,11 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
   5. **Safety**: In some cases, movement can lead to accidental injuries, especially with equipment used in radiology or during invasive procedures. Staying still helps prevent accidents and ensures the safety of the child.
   6. **Enhanced Communication and Cooperation**: Teaching and encouraging a child to stay still helps them develop an understanding of medical procedures and fosters better communication with healthcare providers, which can be beneficial for future medical visits.
 
+  <video autoplay loop muted>
+    <source src="/videos/wiggle.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
 <hr>
 
 ## TESTIMONIALS
