@@ -425,9 +425,7 @@ To provide a glimpse into the testing and real-world trials of The Pediatric Pos
   <figure class="grid-item">
     <img src="/images/IMG_4541.jpg" alt="">
   </figure>
-  <figure class="grid-item">
-    <img src="/images/product-assessment/IMG_3605.jpeg" alt="">
-  </figure>
+
   <figure class="grid-item">
     <img src="/images/IMG_3684.jpeg" alt="">
   </figure>
@@ -437,15 +435,7 @@ To provide a glimpse into the testing and real-world trials of The Pediatric Pos
 </figure>
 
 <figure class="grid-item">
-    <img src="/images/IMG_3686.jpeg" alt="">
-</figure>
-
-<figure class="grid-item">
     <img src="/images/IMG_3687.jpeg" alt="">
-</figure>
-
-<figure class="grid-item">
-    <img src="/images/IMG_3688.jpeg" alt="">
 </figure>
 
 <figure class="grid-item">
@@ -478,10 +468,6 @@ To provide a glimpse into the testing and real-world trials of The Pediatric Pos
 
 <figure class="grid-item">
     <img src="/images/IMG_3696.jpeg" alt="">
-</figure>
-
-<figure class="grid-item">
-    <img src="/images/IMG_3697.jpeg" alt="">
 </figure>
 
 <figure class="grid-item">
