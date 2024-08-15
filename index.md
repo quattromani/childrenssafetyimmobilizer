@@ -192,7 +192,7 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
 
 <hr>
 
-### Wrap and Papoose Restraints Vs. Pediatric Position Holder
+### WRAP AND PAPOOSE RESTRAINTS VS. THE PEDIATRIC POSITION HOLDER
 
 #### Wrap and Papoose Restraints
 **Advantages:**
