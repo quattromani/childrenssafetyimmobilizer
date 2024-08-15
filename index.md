@@ -190,13 +190,14 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
     Your browser does not support the video tag.
   </video>
 <br>
-## Wrap and Papoose Restraints
 
-### Advantages:
+### Wrap and Papoose Restraints
+
+**Advantages:**
 - Familiarity after countless years of use.
 - Cost-effective compared to using a pillowcase or sheet for the burrito wrap.
 
-### Disadvantages:
+**Disadvantages**
 - May hinder ongoing respiratory and cardiovascular assessment and restrict respirations.
 - Does not allow for easy access to the arms for peripheral intravenous line placement or venipuncture.
 - Requires padding, not only for the papoose.
@@ -205,9 +206,9 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
 - Both the papoose and burrito wraps are considered restraints.
 - The papoose utilizes straps and 'hook and loop' restraints.
 
-## Pediatric Position Holder
+### Pediatric Position Holder
 
-### Advantages:
+**Advantages:**
 - No buckles or straps.
 - Cushioned for comfort.
 - Clear chest for unobstructed respirations.
@@ -216,7 +217,7 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
 - Easy to sanitize.
 - Not considered a restraint.
 
-### Disadvantages:
+**Disadvantages:**
 - None.
 
 <hr>
