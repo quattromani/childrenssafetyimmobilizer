@@ -192,7 +192,9 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
 
 <hr>
 
-### Wrap and Papoose Restraints
+### Wrap and Papoose Restraints Vs. Pediatric Position Holder
+
+#### Wrap and Papoose Restraints
 
 **Advantages:**
 - Familiarity after countless years of use.
@@ -207,7 +209,7 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
 - Both the papoose and burrito wraps are considered restraints.
 - The papoose utilizes straps and 'hook and loop' restraints.
 
-### Pediatric Position Holder
+#### Pediatric Position Holder
 
 **Advantages:**
 - No buckles or straps.
