@@ -11,6 +11,8 @@ To successfully perform brief minor medical procedures on infants and children, 
     Your browser does not support the video tag.
 </video>
 
+<br>
+
 Current methods of physical holding include the use of the papoose board, "burrito wrapping," and "brute force" direct hands-on restraint. By restraint we mean ‘using physical force without the child’s consent’. Restraint can be devastating, increasing the child's apprehension and potentially inducing post-traumatic stress. It should only be used in emergency situations when no alternatives are available.
 
 Restraint and immobilization of children are significant issues for healthcare professionals who care for infants and children today. A better, non-aggressive mode of immobilization is needed for the psychological benefit of both the child and the parent.
