@@ -6,6 +6,11 @@ title: The Pediatric Position Holder
 
 To successfully perform brief minor medical procedures on infants and children, such as laceration repair, removal of foreign bodies from the ears or nose, and radiological examinations like chest x-rays and VCUGs, it is essential for the child to remain relatively still. This can be achieved through non-pharmacological methods such as distraction, effective communication, coping techniques (e.g., deep breathing, blowing bubbles, holding a caregiver's hand), audiovisual aids, and physical holding.
 
+<video autoplay loop muted>
+  <source src="/videos/wiggle.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
 Current methods of physical holding include the use of the papoose board, "burrito wrapping," and "brute force" direct hands-on restraint. By restraint we mean ‘using physical force without the child’s consent’. Restraint can be devastating, increasing the child's apprehension and potentially inducing post-traumatic stress. It should only be used in emergency situations when no alternatives are available.
 
 Restraint and immobilization of children are significant issues for healthcare professionals who care for infants and children today. A better, non-aggressive mode of immobilization is needed for the psychological benefit of both the child and the parent.
@@ -184,11 +189,6 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
   4. **Minimized Discomfort**: For procedures like IV insertion, movement can lead to multiple attempts or difficulty in placing the needle properly. Keeping the child still can help ensure that the procedure is done accurately and with less pain.
   5. **Safety**: In some cases, movement can lead to accidental injuries, especially with equipment used in radiology or during invasive procedures. Staying still helps prevent accidents and ensures the safety of the child.
   6. **Enhanced Communication and Cooperation**: Teaching and encouraging a child to stay still helps them develop an understanding of medical procedures and fosters better communication with healthcare providers, which can be beneficial for future medical visits.
-
-  <video autoplay loop muted>
-    <source src="/videos/wiggle.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
 
 <hr>
 
