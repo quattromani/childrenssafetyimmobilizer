@@ -136,7 +136,7 @@ The Pediatric Position Holder (PPH) is an innovative, child-friendly device desi
     <figcaption>One Arm Hold</figcaption>
   </figure>
   <figure class="grid-item">
-    <img src="/images/product-assessment/PPH-illustration2.jpeg" alt="A Two Arm Hold">
+    <img src="/images/product-assessment/PPH-illustration3.jpeg" alt="A Two Arm Hold">
     <figcaption>A Two Arm Hold</figcaption>
   </figure>
   <figure class="grid-item">
