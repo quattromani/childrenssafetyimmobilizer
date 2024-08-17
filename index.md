@@ -282,8 +282,10 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
     <figcaption>This child played with it like a toy.</figcaption>
   </figure>
   <figure class="grid-item">
-    <img src="/images/product-assessment/Photoroom_20240815_210435.jpeg" alt="">
-    <figcaption>Another big fan.</figcaption>
+    <video autoplay loop muted>
+      <source src="/videos/IMG_4683.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
   </figure>
 </div>
 <hr>
