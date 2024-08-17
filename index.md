@@ -156,13 +156,13 @@ The Pediatric Position Holder (PPH) is an innovative, child-friendly device desi
 <div class="grid-container grid-2x2">
   <figure class="grid-item">
     <img src="/images/IMG_4423.jpeg" alt="">
-    <figcaption></figcaption>
   </figure>
   <figure class="grid-item">
     <img src="/images/IMG_4422.jpeg" alt="">
-    <figcaption></figcaption>
   </figure>
 </div>
+
+These images highlight a key advantage of the Pediatric Position Holder: it allows the head and torso to be secured together, offering better stability and minimizing movement during procedures. Traditional methods like the burrito wrap, papoose boards, or manual restraint often leave the head and torso independent, allowing unwanted motion. The Pediatric Position Holder ensures that the head and torso are held securely as a single unit, enhancing control and reducing stress for both the child and the caregiver. This design provides an effective, gentle, and consistent method for keeping pediatric patients safely positioned during medical procedures.
 
 **INSTRUCTIONS FOR USING THE PEDIATRIC POSITION HOLDER**
 
