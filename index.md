@@ -477,7 +477,7 @@ To provide a glimpse into the testing and real-world trials of The Pediatric Pos
 </figure>
 
 <figure class="grid-item">
-    <img src="/images/IMG_3693.jpeg" alt="">
+    <img src="/images/IMG_3700.jpeg" alt="">
 </figure>
 
 <figure class="grid-item">
@@ -500,9 +500,6 @@ To provide a glimpse into the testing and real-world trials of The Pediatric Pos
     <img src="/images/IMG_3699.jpeg" alt="">
 </figure>
 
-<figure class="grid-item">
-    <img src="/images/IMG_3700.jpeg" alt="">
-</figure>
 </div>
 
 <hr>
