@@ -134,3 +134,11 @@ video {
   max-width: 100%;
   display: block;
 }
+
+video.circle {
+  width: 290px;
+  height: 290px;
+  object-fit: cover;
+  border-radius: 50%;
+  overflow: hidden;
+}
