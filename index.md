@@ -13,20 +13,18 @@ To successfully perform brief minor medical procedures on infants and children, 
 
 <br>
 
-Current methods of physical holding include the use of the papoose board, "burrito wrapping," and "brute force" direct hands-on restraint. By restraint we mean ‘using physical force without the child’s consent’. Restraint can be devastating, increasing the child's apprehension and potentially inducing post-traumatic stress. It should only be used in emergency situations when no alternatives are available.
+## CURRENT METHODS OF PHYSICAL RESTRAINT
 
-Restraint and immobilization of children are significant issues for healthcare professionals who care for infants and children today. A better, non-aggressive mode of immobilization is needed for the psychological benefit of both the child and the parent.
+Traditional methods for keeping children still during medical procedures, such as the papoose board, “burrito wrapping,” and “brute force” direct hands-on restraint, rely on physical force, often without the child’s consent. This form of restraint can be distressing, increasing a child’s apprehension and potentially leading to post-traumatic stress. Such techniques should only be considered in emergency situations when no other alternatives are available.
 
-The way we hold children for procedures reflects our values as a culture. 
+The use of restraint and immobilization in pediatric care is a significant concern for healthcare professionals. There is a growing need for a less invasive, more psychologically sensitive approach to immobilization that prioritizes the well-being of both the child and the parent. The methods we choose for holding children during procedures ultimately reflect our values as a society.
 
-<hr>
+## HOW PEDIATRIC CARE HAS TRANSFORMED
+### EVOLUTION OVER THE YEARS
 
-## **HOW PEDIATRIC CARE HAS TRANSFORMED**<br>
-**EVOLUTION OVER THE YEARS**
+In my 50 years of practice, I have witnessed various approaches to keeping children still during medical procedures, particularly in radiology. Traditionally, the focus was on manual restraint—often referred to as “brute force”—where medical staff physically held the child in place. While this method effectively prevented movement, it also caused significant anxiety and fear in young patients.
 
-In my 50 years of practice, I have observed various methods used to keep children still during medical procedures, particularly in radiology. Traditionally, we have relied on manual restraint, often referred to as "Brute Force," where medical staff physically hold the child in place. This method, while effective in preventing movement, can cause significant anxiety and fear in young patients.
-
-Mechanical devices such as the papoose board, Pigg-O-Stat, and the “Burrito wrap” have been commonly used. These devices secure the child with straps and boards, which can be uncomfortable and intimidating for children. A method frequently employed in emergency rooms is the "Burrito hold," where the child is wrapped tightly in a sheet or blanket to restrict movement.
+Over the years, mechanical devices like the papoose board, Pigg-O-Stat, and “burrito wrap” have been commonly used. These devices typically rely on straps and boards to secure the child, creating an environment that can be uncomfortable and intimidating. The “burrito hold,” frequently employed in emergency rooms, involves tightly wrapping the child in a sheet or blanket to restrict movement. Though these methods have been widely adopted, they highlight the ongoing challenge of balancing procedural necessity with a child’s comfort and emotional well-being.
 
 <div class="grid-container grid-2x2">
   <figure class="grid-item">
