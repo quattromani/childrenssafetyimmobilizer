@@ -22,7 +22,9 @@ The use of restraint and immobilization in pediatric care is a significant conce
 ## HOW PEDIATRIC CARE HAS TRANSFORMED
 ### EVOLUTION OVER THE YEARS
 
-In my 50 years of practice, I have witnessed various approaches to keeping children still during medical procedures, particularly in radiology. Traditionally, the focus was on manual restraint—often referred to as “brute force”—where medical staff physically held the child in place. While this method effectively prevented movement, it also caused significant anxiety and fear in young patients.
+"In my 50 years of practice, I have witnessed various approaches to keeping children still during medical procedures, particularly in radiology. Traditionally, the focus was on manual restraint—often referred to as “brute force”—where medical staff physically held the child in place. While this method effectively prevented movement, it also caused significant anxiety and fear in young patients."
+
+  - Dr. Frank L. Quattromani, Pediatric Radiologist
 
 Over the years, mechanical devices like the papoose board, Pigg-O-Stat, and “burrito wrap” have been commonly used. These devices typically rely on straps and boards to secure the child, creating an environment that can be uncomfortable and intimidating. The “burrito hold,” frequently employed in emergency rooms, involves tightly wrapping the child in a sheet or blanket to restrict movement. Though these methods have been widely adopted, they highlight the ongoing challenge of balancing procedural necessity with a child’s comfort and emotional well-being.
 
