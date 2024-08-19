@@ -55,7 +55,20 @@ While methods like the Pigg-O-Stat and “Burrito wrapping” achieve the goal, 
 <hr>
 
 #### Radiation and the voiding cystourethrogram (VCUG)
-A pediatric voiding cystourethrogram (VCUG) is an x-ray examination of a child's urinary bladder and urinary tract that uses a special form of x-ray called fluoroscopy and a contrast material. Fluoroscopy makes it possible to see internal organs in motion. The radiologist is able to view and assess the anatomy and function of the urinary bladder and ureters to observe for harmful reflux whereby urine moves from the bladder back to the kidney. Although the goal of the VCUG examination is to limit diagnostic radiation to the infants bladder and ureters, we frequently find extremities of the child , technologist and infant in the primary beam (see below findings from a retrospective cohort study done prior to the use of the new pediatric position holder). The results below show direct exposure to the primary beam only and not secondary scatter radiation.
+A pediatric voiding cystourethrogram (VCUG) is an x-ray examination of a child's urinary bladder and urinary tract that uses a special form of x-ray called fluoroscopy and a contrast material. Fluoroscopy makes it possible to see internal organs in motion. The radiologist is able to view and assess the anatomy and function of the urinary bladder and ureters to observe for harmful reflux whereby urine moves from the bladder back to the kidney. Although the goal of the VCUG examination is to limit diagnostic radiation to the infants bladder and ureters, we frequently find extremities of the child, technologist and parent in the primary beam (see below findings from a retrospective cohort study done prior to the use of the new pediatric position holder). The results below show direct exposure to the primary beam only and not secondary scatter radiation.
+
+**RESEARCH RESULTS**<br>
+
+Reviewed sample of 100 VCUG procedures in children under 2 years of age performed in 2018 at UMC for a total of 3,880 screen save images
+
+| Instances                   |  Count  |
+| --------------------------- | :-----: |
+| **Technologist Hands**      | 940     |
+| **Child Extremities**       | 840     |
+| **Adult Hands**             | 210     |
+| **Total**                   | 1,990   |
+
+**51% of images showed instances of unnecessary radiation to the child, technologist, and/or other adults/parents assisting in immobilization of child.**
 
 <div class="grid-container grid-2x2">
   <figure class="grid-item">
@@ -77,19 +90,6 @@ A pediatric voiding cystourethrogram (VCUG) is an x-ray examination of a child's
 </div>
 
 <hr>
-
-**RESEARCH RESULTS**<br>
-
-Reviewed sample of 100 VCUG procedures in children under 2 years of age performed in 2018 at UMC for a total of 3,880 screen save images
-
-| Instances                   |  Count  |
-| --------------------------- | :-----: |
-| **Technologist Hands**      | 940     |
-| **Child Extremities**       | 840     |
-| **Adult Hands**             | 210     |
-| **Total**                   | 1,990   |
-
-**51% of images showed instances of unnecessary radiation to the child, technologist, and/or other adults/parents assisting in immobilization of child.**
 
 ## INTRODUCING THE PEDIATRIC POSITION HOLDER
 <br>
