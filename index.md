@@ -155,6 +155,8 @@ The Pediatric Position Holder (PPH) is an innovative, child-friendly device desi
   </figure>
 </div>
 
+**Notice how the Pediatric Position Holder can secure arms and legs while the chest and abdomen remain visible and free.**
+
 <hr>
 
 <div class="grid-container grid-2x2">
