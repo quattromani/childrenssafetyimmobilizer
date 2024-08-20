@@ -240,6 +240,7 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
 - Supports head and neck.
 - Easy to sanitize.
 - Not considered a restraint.
+- Signifies a commitment to patient-centered care and safety.
 
 **Disadvantages:**
 - None.
