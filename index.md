@@ -15,7 +15,7 @@ To successfully perform brief minor medical procedures on infants and children, 
 
 ## CURRENT METHODS OF PHYSICAL RESTRAINT
 
-Traditional methods for keeping children still during medical procedures, such as the papoose board, “burrito wrapping,” and “brute force” direct hands-on restraint, rely on physical force, often without the child’s consent. This form of restraint can be distressing, increasing a child’s apprehension and potentially leading to post-traumatic stress. Such techniques should only be considered in emergency situations when no other alternatives are available.
+Traditional methods for keeping children still during medical procedures, such as the papoose board, “burrito wrapping,” and “brute force” direct hands-on restraint, rely on physical force, often without the child’s consent. These forms of restraint can be distressing, increasing a child’s apprehension and anxiety. Such techniques should only be considered in emergency situations when no other alternatives are available.
 
 The use of restraint and immobilization in pediatric care is a significant concern for healthcare professionals. There is a growing need for a less invasive, more psychologically sensitive approach to immobilization that prioritizes the well-being of both the child and the parent. The methods we choose for holding children during procedures ultimately reflect our values as a society.
 
