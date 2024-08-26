@@ -175,10 +175,41 @@ The Pediatric Position Holder (PPH) is an innovative, child-friendly device desi
 
 <div class="grid-container grid-2x2">
   <figure class="grid-item">
-    <img src="/images/IMG_4423.jpeg" alt="">
+    <img src="/images/IMG_4423.jpeg" alt="" style="transform: rotate(-90deg);">
   </figure>
   <figure class="grid-item">
     <img src="/images/IMG_4422.jpeg" alt="">
+  </figure>
+</div>
+<hr>
+<div class="grid-container grid-3x2">
+  <figure class="grid-item">
+    <img src="images/doll wrap images/IMG_4725.jpg/" alt="">
+    <figcaption>Holding arms only. No more or less than needed.</figcaption>
+  </figure>
+  <figure class="grid-item">
+    <img src="/images/doll wrap images/IMG_4724.jpg" alt="">
+    <figcaption>Good hold for forehead laceration or removing nasal foreign body.</figcaption>
+  </figure>
+  <figure class="grid-item">
+    <img src="/images/doll wrap images/IMG_4723.jpg" alt="">
+    <figcaption>Alernative hold for legs only.</figcaption>
+  </figure>
+  <figure class="grid-item">
+    <img src="/images/doll wrap images/IMG_4721.jpg" alt="">
+    <figcaption>Exposing the arm for the intravenous line.</figcaption>
+  </figure>
+  <figure class="grid-item">
+    <img src="/images/doll wrap images/IMG_4718.jpg" alt="">
+    <figcaption>Position for removing foreign body from the ear.</figcaption>
+  </figure>
+  <figure class="grid-item">
+    <img src="/images/doll wrap images/IMG_4717.jpg" alt="">
+    <figcaption>Good hold for laceration of forehead.</figcaption>
+  </figure>
+  <figure class="grid-item">
+    <img src="/images/doll wrap images/IMG_4714.jpg" alt="">
+    <figcaption>Notice how the neck and head are supported with the torso.</figcaption>
   </figure>
 </div>
 
