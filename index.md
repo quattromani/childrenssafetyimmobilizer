@@ -159,6 +159,14 @@ The Pediatric Position Holder (PPH) is an innovative, child-friendly device desi
   </figure>
 </div>
 
+**INSTRUCTIONS FOR USING THE PEDIATRIC POSITION HOLDER**
+
+  1. **Prepare the Surface**: Lay the Pediatric Position Holder (PPH) on a flat working surface, such as a table or medical imaging machine. Alternatively, the device can be used as an additional soft wrap option if the provider is sitting with the child.
+  2. **Position the Child**: Place the child on the device, ensuring they are comfortably centered.
+  3. **Secure as Needed**: Wrap the device around the specific area requiring stabilization. For example, to secure an arm for IV placement, wrap the holder around the arm only.
+  4. **Adjust for Optimal Hold**: The holder is versatile and minimally invasive. Secure only the necessary extremities, whether it is one arm or all four extremities, based on the procedural requirements.
+  5. **Ensure Comfort and Safety**: Check that the child is comfortably positioned and that the holder does not interfere with any medical lines or tubes.
+
 <hr>
 
 **Notice how the Pediatric Position Holder secures the arms and legs while the chest and abdomen remain visible and free.**
@@ -176,13 +184,11 @@ The Pediatric Position Holder (PPH) is an innovative, child-friendly device desi
 
 These images highlight a key advantage of the Pediatric Position Holder: it allows the head and torso to be secured together, offering better stability and minimizing movement during procedures. Traditional methods like the burrito wrap, papoose boards, or manual restraint often leave the head and torso independent, allowing unwanted motion. The Pediatric Position Holder ensures that the head and torso are held securely as a single unit, enhancing control and reducing stress for both the child and the caregiver. This design provides an effective, gentle, and consistent method for keeping pediatric patients safely positioned during medical procedures.
 
-**INSTRUCTIONS FOR USING THE PEDIATRIC POSITION HOLDER**
+<figure class="grid-item">
+  <img src="/images/doll wrap images/IMG_6310.PNG" alt="Childrens Head-size chart">
+</figure>
 
-  1. **Prepare the Surface**: Lay the Pediatric Position Holder (PPH) on a flat working surface, such as a table or medical imaging machine. Alternatively, the device can be used as an additional soft wrap option if the provider is sitting with the child.
-  2. **Position the Child**: Place the child on the device, ensuring they are comfortably centered.
-  3. **Secure as Needed**: Wrap the device around the specific area requiring stabilization. For example, to secure an arm for IV placement, wrap the holder around the arm only.
-  4. **Adjust for Optimal Hold**: The holder is versatile and minimally invasive. Secure only the necessary extremities, whether it is one arm or all four extremities, based on the procedural requirements.
-  5. **Ensure Comfort and Safety**: Check that the child is comfortably positioned and that the holder does not interfere with any medical lines or tubes.
+The above chart visually demonstrates how a child’s head remains proportionally larger in comparison to their body during early development, leading to challenges in maintaining neck stability. This imbalance often makes it difficult for young children to remain still during medical procedures. The Pediatric Position Holder is specifically designed to address this issue by providing targeted support that stabilizes both the head and neck, ensuring a secure, comfortable, and controlled positioning throughout the procedure.
 
 **VERSATILITY AND MINIMAL INVASIVENESS**
 <br>
