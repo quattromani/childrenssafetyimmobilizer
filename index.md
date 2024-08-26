@@ -51,6 +51,7 @@ Over the years, mechanical devices like the papoose board, Pigg-O-Stat, and “b
   </figure>
   <figure class="grid-item">
   <img src="/images/doll wrap images/IMG_6310.PNG" alt="Childrens Head-size chart">
+    <figcaption>This chart highlights the disproportionate head size in young children relative to their neck strength. Providing even support to both the head and torso is critical during medical procedures.</figcaption>
 </figure>
 <figure class="grid-item">
   <img src="/images/IMG_3599.JPG" alt="Universal Octopaque">
