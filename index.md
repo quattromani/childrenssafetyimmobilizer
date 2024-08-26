@@ -49,6 +49,9 @@ Over the years, mechanical devices like the papoose board, Pigg-O-Stat, and “b
     <img src="/images/doll wrap images/IMG_4728.jpg" alt="Full Wrap Burrito Hold">
     <figcaption>"Full Burrito Hold - No neck or head support."</figcaption>
   </figure>
+  <figure class="grid-item">
+  <img src="/images/doll wrap images/IMG_6310.PNG" alt="Childrens Head-size chart">
+</figure>
 <figure class="grid-item">
   <img src="/images/IMG_3599.JPG" alt="Universal Octopaque">
   <figcaption>Universal Octopaque</figcaption>
@@ -214,12 +217,6 @@ The Pediatric Position Holder (PPH) is an innovative, child-friendly device desi
 </div>
 
 These images highlight a key advantage of the Pediatric Position Holder: it allows the head and torso to be secured together, offering better stability and minimizing movement during procedures. Traditional methods like the burrito wrap, papoose boards, or manual restraint often leave the head and torso independent, allowing unwanted motion. The Pediatric Position Holder ensures that the head and torso are held securely as a single unit, enhancing control and reducing stress for both the child and the caregiver. This design provides an effective, gentle, and consistent method for keeping pediatric patients safely positioned during medical procedures.
-
-<figure class="grid-item">
-  <img src="/images/doll wrap images/IMG_6310.PNG" alt="Childrens Head-size chart">
-</figure>
-
-The above chart visually demonstrates how a child’s head remains proportionally larger in comparison to their body during early development, leading to challenges in maintaining neck stability. This imbalance often makes it difficult for young children to remain still during medical procedures. The Pediatric Position Holder is specifically designed to address this issue by providing targeted support that stabilizes both the head and neck, ensuring a secure, comfortable, and controlled positioning throughout the procedure.
 
 **VERSATILITY AND MINIMAL INVASIVENESS**
 <br>
