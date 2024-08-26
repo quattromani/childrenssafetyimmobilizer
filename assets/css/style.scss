@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+#logo {
+    background: url(../images/logo.png);
+  }
+
 nav ul a {
   color: #333;
 }
