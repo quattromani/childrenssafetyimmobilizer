@@ -43,13 +43,17 @@ Over the years, mechanical devices like the papoose board, Pigg-O-Stat, and “b
   </figure>
   <figure class="grid-item">
     <img src="/images/product-assessment/burrito-wrap.png" alt="Burrito Hold">
-    <figcaption>"Burrito Hold"</figcaption>
+    <figcaption>"Partial Burrito Hold - No neck or head support."</figcaption>
   </figure>
-</div>
+ <figure class="grid-item">
+    <img src="/images/doll wrap images/IMG_4728.jpg" alt="Full Wrap Burrito Hold">
+    <figcaption>"Full Burrito Hold - No neck or head support."</figcaption>
+  </figure>
 <figure class="grid-item">
   <img src="/images/IMG_3599.JPG" alt="Universal Octopaque">
   <figcaption>Universal Octopaque</figcaption>
 </figure>
+</div>
 <hr>
 While methods like the Pigg-O-Stat and “Burrito wrapping” achieve the goal, they often result in heightened stress and discomfort for both the child and their caregivers.
 <hr>
