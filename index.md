@@ -290,7 +290,7 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
 
 **PARENT TESTIMONIALS**
 
-<div class="grid-container grid-3x2">
+<div class="grid-container grid-2x2">
   <figure class="grid-item">
     <img src="/images/product-assessment/Parent-testimonial1.jpeg" alt="">
     <figcaption>"Months ago my baby had a VCUG the old way – technologists had to manually restrain my daughter during the procedure. Therefore, I was so apprehensive when we returned for our follow-up examination. This time the technologist used The Q. It was so much better for my baby and much less stressful for me as a parent."<p>Mom of 6 month old infant, Lubbock, TX</p></figcaption>
@@ -302,6 +302,10 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
   <figure class="grid-item">
     <img src="/images/product-assessment/Parent-testimonial3.jpeg" alt="">
     <figcaption>"My son was wiggling too much to allow the technologist to get good ultrasound pictures. After we put on the foam holder, the technologist was able to get clearer pictures."<p>Mom of 16 month old from Hobbs, NM</p></figcaption>
+  </figure>
+  <figure class="grid-item">
+    <img src="/images/product-assessment/Parent-testimonial4.jpeg" alt="">
+    <figcaption>""<p>Mom of 14 month old from Levelland, Tx</p></figcaption>
   </figure>
 </div>
 
@@ -468,9 +472,6 @@ Conceptual drawings of the Pediatric Position Holder (PPH) feature a friendly de
 To provide a glimpse into the testing and real-world trials of The Pediatric Position Holder (PPH), here is a collection of photos showcasing various stages of its development. These images capture the dedication and effort put into ensuring that the device meets the highest standards of safety, comfort, and effectiveness. 
 
 <div class="grid-container grid-3x2">
-  <figure class="grid-item">
-    <img src="/images/IMG_4567.jpg" alt="">
-  </figure>
   <figure class="grid-item">
     <img src="/images/IMG_4564.jpg" alt="">
   </figure>
