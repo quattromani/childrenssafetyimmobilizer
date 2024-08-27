@@ -305,7 +305,7 @@ The Pediatric Position Holder (PPH) is designed to provide optimal procedural ef
   </figure>
   <figure class="grid-item">
     <img src="/images/product-assessment/Parent-testimonial4.jpeg" alt="">
-    <figcaption>""<p>Mom of 14 month old from Levelland, Tx</p></figcaption>
+    <figcaption>"We were both apprehensive, I was worried that I'd have to hold her down with my hands. She wasn't bothered at all about this and I didnt feel guilty. I've heard some stories!"<p>Mom of 10 month old from Levelland, Tx</p></figcaption>
   </figure>
 </div>
 
