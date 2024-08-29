@@ -463,6 +463,14 @@ To provide a glimpse into the testing and real-world trials of The Pediatric Pos
 
 <div class="grid-container grid-3x2">
   <figure class="grid-item">
+    <img src="/images/IMG_4423.jpeg" alt="">
+    <figcaption>Notice how the head and neck are supported together.</figcaption>
+  </figure>
+  <figure class="grid-item">
+    <img src="/images/IMG_4422.jpeg" alt="">
+    <figcaption>Notice how the head and neck are supported together.</figcaption>
+  </figure>
+  <figure class="grid-item">
     <img src="/images/IMG_4564.jpg" alt="">
   </figure>
   <figure class="grid-item">
