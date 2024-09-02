@@ -99,9 +99,9 @@ Reviewed sample of 100 VCUG procedures in children under 2 years of age performe
 
 <hr>
 <h2>INTRODUCING THE PEDIATRIC POSITION HOLDER</h2>
-<p>Safety and customer care are of the foremost concerns in pediatric medical care, encompassing the well-being of the child, the parent or caregiver, and the healthcare provider. The Pediatric Position Holder (PPH) addresses a critical need in pediatric care by offering a standardized, gentle, and safe solution for pediatric medical positioning.</p>
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px;">
+    <p>Safety and customer care are of the foremost concerns in pediatric medical care, encompassing the well-being of the child, the parent or caregiver, and the healthcare provider. The Pediatric Position Holder (PPH) addresses a critical need in pediatric care by offering a standardized, gentle, and safe solution for pediatric medical positioning.</p>
     <p>Hospitals and insurance companies place immense value on safety as it directly impacts patient outcomes, hospital ratings, and financial relationships. The PPH ensures that millions of everyday procedures, performed annually, are safer for all involved.</p>
     <p>By reducing the need for manual restraint and minimizing the risk of bruising or injury, The Holder enhances the safety of medical procedures. The device's design respects the autonomy of young patients, reduces their distress, and ensures a more controlled and calm experience during medical interventions.</p>
   </div>
