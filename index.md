@@ -107,7 +107,7 @@ Reviewed sample of 100 VCUG procedures in children under 2 years of age performe
   </div>
   <div>
     <video autoplay loop muted style="max-width: 300px; height: auto;">
-      <source src="/videos/Pediatric Position Holder - Aug 24, 2024.mov" type="video/mp4">
+      <source src="/videos/Pediatric Position Holder - Aug 24, 2024.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
