@@ -523,7 +523,7 @@ To provide a glimpse into the testing and real-world trials of The Pediatric Pos
 - Clinical Professor of Pediatrics and Pathology, Texas Tech University School of Medicine, Lubbock, Texas
 - Former Radiology Consultant to the office of the United States Army Surgeon General
 - U.S. Army Colonel (Medical Department), Retired
-- Pediatric Radiology Fellowship, Cincinnati Children's Hospital (1972-74)
+- Pediatric Radiology Fellowship, Cincinnati Children's Hospital (1974-76)
 
 **Patricia Rae Quattromani**
 *Co-Inventor and Product Designer*
