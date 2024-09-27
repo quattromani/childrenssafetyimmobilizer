@@ -1,6 +1,7 @@
 ---
 title: "Whitepaper: Ethical and Compassionate Alternatives to Traditional Pediatric Restraints in Medical Procedures"
 permalink: /whitepaper/
+description: "Searching for alternatives to harsh pediatric restraints like the Pigg-O-Stat or papoose board? Discover more humane and ethical solutions to keep children secure during medical procedures."
 ---
 
 # Whitepaper: Ethical and Compassionate Alternatives to Traditional Pediatric Restraints in Medical Procedures  
@@ -63,20 +64,9 @@ Key features include:
 - **Ethical by Design**: The device is built to minimize emotional and physical trauma, aligning with the core medical ethics of non-maleficence and beneficence.
 - **Proven Effectiveness**: Clinical studies and real-world use show that the Pediatric Position Holder is just as effective as traditional methods in securing children, without the associated distress.
 
-![Pediatric Position Holder in Use](# "An image showing the Pediatric Position Holder in a real-world setting, with a child comfortably and securely positioned during a medical procedure.")
+![Pediatric Position Holder in Use](/images/scanner.jpg "An image showing the Pediatric Position Holder in a real-world setting, with a child comfortably and securely positioned during a medical procedure.")
 
 ## Conclusion: A Shift Toward Ethical, Compassionate Pediatric Care
 As more parents and healthcare providers advocate for gentler approaches, the medical community is gradually shifting away from the use of distressing restraint methods. Devices like the Pediatric Position Holder are leading this change, offering a solution that prioritizes both the effectiveness of medical care and the emotional well-being of young patients. By adhering to the ethical principles of medicine, we can ensure that every child receives the care they deserve in a safe, compassionate, and humane way.
-
----
-
-### Image Placeholders:
-1. ![Patent Drawing of the Pediatric Position Holder](# "A technical patent drawing showing the detailed design of the Pediatric Position Holder, illustrating its components and how it functions.")  
-2. ![Artist’s Rendering of the Pediatric Position Holder](# "A detailed, modern rendering of the Pediatric Position Holder, showing how the design accommodates and secures a child comfortably.")  
-3. ![Pediatric Position Holder in Use](# "An image showing the Pediatric Position Holder in a real-world setting, with a child comfortably and securely positioned during a medical procedure.")
-
----
-
-**Meta Description**: Searching for alternatives to harsh pediatric restraints like the Pigg-O-Stat or papoose board? Discover more humane and ethical solutions to keep children secure during medical procedures.
 
 **Page Title**: Gentler, Ethical Alternatives to Pigg-O-Stat & Papoose Boards for Pediatric Restraint
