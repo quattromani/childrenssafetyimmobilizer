@@ -28,7 +28,7 @@ Many parents turn to the internet, hoping to find humane alternatives to the pap
 2. **Distraction Techniques**: In some cases, distractions such as toys, videos, or music can be used in conjunction with gentler restraints, reducing the child’s fear and anxiety.
 3. **Parental Involvement**: Comfort positioning, where a parent holds the child in a secure embrace, can sometimes replace the need for mechanical restraints, particularly for minor or non-invasive procedures.
 
-![Artist’s Rendering of the Pediatric Position Holder](# "A detailed, modern rendering of the Pediatric Position Holder, showing how the design accommodates and secures a child comfortably.")
+![Artist’s Rendering of the Pediatric Position Holder](/images/PPH-drawing.PNG#center "A detailed, modern rendering of the Pediatric Position Holder, showing how the design accommodates and secures a child comfortably.")
 
 ## The Role of Ethics in Pediatric Care
 At the heart of this discussion are the ethical principles of medicine, which prioritize the welfare, autonomy, and dignity of patients. When treating children, healthcare providers must balance the need for effective medical care with the duty to minimize harm. The four key principles of medical ethics are:
