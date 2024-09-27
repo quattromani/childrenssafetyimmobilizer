@@ -1,5 +1,5 @@
 ---
-title: "Whitepaper: Ethical and Compassionate Alternatives to Traditional Pediatric Restraints in Medical Procedures"
+title: "Gentler, Ethical Alternatives to Pigg-O-Stat & Papoose Boards for Pediatric Restraint"
 permalink: /whitepaper/
 description: "Searching for alternatives to harsh pediatric restraints like the Pigg-O-Stat or papoose board? Discover more humane and ethical solutions to keep children secure during medical procedures."
 ---
