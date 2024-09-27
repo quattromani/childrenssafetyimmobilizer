@@ -1,3 +1,8 @@
+---
+title: "Whitepaper: Ethical and Compassionate Alternatives to Traditional Pediatric Restraints in Medical Procedures"
+permalink: /whitepaper/
+---
+
 # Whitepaper: Ethical and Compassionate Alternatives to Traditional Pediatric Restraints in Medical Procedures  
 **By Dr. Frank L. Quattromani, Pediatric Radiologist**
 
