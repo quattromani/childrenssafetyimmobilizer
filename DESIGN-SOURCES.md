@@ -91,3 +91,7 @@ Technical-page validation: separate route and cross-page/section targets checked
 ## Selling-point hierarchy
 
 The three benefits below the hero are presented as prominent headlines with one supporting sentence each, rather than a small numbered strip. Pale sage separates the band from the introduction; dark serif headlines and short audience labels carry the hierarchy. The benefits remain limited to supported positioning/access features and the user-confirmed material change for reuse.
+
+## Laid-flat design illustration
+
+November 3, 2026: Max supplied two inventor-provided laid-flat illustrations and approved the yellow superhero version for publication between the benefits and design sections, labeled “Design illustration.” The full image and original colors are preserved; no material, availability, or performance claim is inferred from the artwork.
