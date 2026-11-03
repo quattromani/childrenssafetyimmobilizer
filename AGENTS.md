@@ -1,0 +1,3 @@
+# Pediatric Position Holder production site
+
+Read `/Users/maxquattromani/Sites/AGENTS.md` and applicable skills. This repository serves https://pediatricpositionholder.com from the root of `master`. The user authorized production publication on November 3, 2026. Preserve CNAME and HTTPS. Use buildless accessible HTML and relative assets. Read DESIGN-SOURCES.md for provenance and claim boundaries; its historical concept-only restrictions were superseded by the production launch authorization. Do not invent clinical validation, approval, or transport suitability. Keep the four excluded Applications blocks absent. Use content-hashed CSS filenames and update both HTML references. Verify before pushing: master publishes automatically.
