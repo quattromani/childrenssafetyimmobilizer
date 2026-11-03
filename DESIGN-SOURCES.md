@@ -95,3 +95,5 @@ The three benefits below the hero are presented as prominent headlines with one 
 ## Laid-flat design illustration
 
 November 3, 2026: Max supplied two inventor-provided laid-flat illustrations and approved the yellow superhero version for publication between the benefits and design sections, labeled “Design illustration.” The full image and original colors are preserved; no material, availability, or performance claim is inferred from the artwork.
+
+Max subsequently requested both supplied illustrations side by side in equal columns with a gutter. The pair retains the full artwork and shared design-illustration caption.
